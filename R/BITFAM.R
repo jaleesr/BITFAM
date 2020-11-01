@@ -11,9 +11,9 @@
 
 BITFAM <- function(data, species, interseted_TF = NA, ncores){
   if(species == "mouse"){
-    TF_targets_dir <- "TF/mouse/"
+    TF_targets_dir <- "mouse/"
   }else if(species == "human"){
-    TF_targets_dir <- "TF/human/"
+    TF_targets_dir <- "human/"
   }else{
     stop("The species must be either mouse or human.")
   }
@@ -26,12 +26,14 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
     data <- data[variable_genes, ]
   }
 
-  All_TFs <- read.table(paste0(TF_targets_dir, "all_TFs.txt"), stringsAsFactors = F)$V1
+  All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
+  All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
   TF_used <- rownames(data)[rownames(data) %in% All_TFs]
 
   gene_list <- list()
   for(i in TF_used){
-    tmp_gene <- read.table(paste0(TF_targets_dir, i), stringsAsFactors = F)
+    TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
+    tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
     gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
 
@@ -45,7 +47,8 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
 
   gene_list <- list()
   for(i in TF_used){
-    tmp_gene <- read.table(paste0(TF_targets_dir, i), stringsAsFactors = F)
+    TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
+    tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
     gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
 
