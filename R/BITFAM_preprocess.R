@@ -2,7 +2,9 @@
 #'
 #' @param raw_data A matrix or dataframe of scRNA-seq raw counts table
 #' @return Normalized scRNA-seq data
-
+#' @export
+#' @import rstan
+#' @import Seurat
 
 BITFAM_preprocess <- function(raw_data){
   process_data <- CreateSeuratObject(counts = raw_data, min.cells = 3, min.features = 200)

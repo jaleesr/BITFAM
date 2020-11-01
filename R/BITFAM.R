@@ -5,7 +5,9 @@
 #' @param interseted_TF Transcription factors of interests
 #' @param number of CPU cores
 #' @return sampling results of TF inferred activities and TF-gene weights
-
+#' @export
+#' @import rstan
+#' @import Seurat
 
 BITFAM <- function(data, species, interseted_TF = NA, ncores){
   if(species == "mouse"){
