@@ -51,10 +51,10 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
     tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
     gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
-
-  chipseq_weight <- matrix(1, nrow = length(colnames(data)), ncol = length(TF_used))
+  X <- t(as.matrix(data))
+  chipseq_weight <- matrix(1, nrow = length(colnames(X)), ncol = length(TF_used))
   for(i in 1:length(TF_used)){
-    chipseq_weight[, i] <- ifelse(colnames(data) %in% gene_list[[i]], 1, 0)
+    chipseq_weight[, i] <- ifelse(colnames(X) %in% gene_list[[i]], 1, 0)
   }
 
 
