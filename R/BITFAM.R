@@ -1,3 +1,12 @@
+#' BITFAM main function. BITFAM will infer the transcription factor activities from single cell RNA-seq data based on the ChIP-seq data
+#'
+#' @param data A matrix or dataframe, normalized single cell RNA-seq data
+#' @param species mouse or human
+#' @param interseted_TF Transcription factors of interests
+#' @param number of CPU cores
+#' @return sampling results of TF inferred activities and TF-gene weights
+
+
 BITFAM <- function(data, species, interseted_TF = NA, ncores){
   if(species == "mouse"){
     TF_targets_dir <- "TF/mouse/"
@@ -7,35 +16,45 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
     stop("The species must be either mouse or human.")
   }
 
+  if(dim(data)[1] > 5000){
+    variable_genes <- Seurat::FindVariableFeatures(tiss@data)
+    variable_genes <- variable_genes[which(x = variable_genes[, 1, drop = TRUE] != 0), ]
+    variable_genes <- variable_genes[order(variable_genes$vst.variance.standardized, decreasing = TRUE), , drop = FALSE]
+    variable_genes <- head(x = rownames(x = variable_genes), n = 5000)
+    data <- data[variable_genes, ]
+  }
+
+  All_TFs <- read.table(paste0(TF_targets_dir, "all_TFs.txt"), stringsAsFactors = F)$V1
+  TF_used <- rownames(data)[rownames(data) %in% All_TFs]
+
   gene_list <- list()
   for(i in TF_used){
     tmp_gene <- read.table(paste0(TF_targets_dir, i), stringsAsFactors = F)
-    gene_list[[which(TF_used == i)]] <- VariableFeatures(process_data)[VariableFeatures(process_data) %in% tmp_gene$V1]
+    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
 
   TF_used <- TF_used[ unlist(lapply(gene_list, length)) > 10]
+  TF_used <- sort(TF_used)
   if(is.na(interseted_TF)){
   }else{
     TF_used <- unique(c(TF_used, interseted_TF))
   }
 
+
   gene_list <- list()
   for(i in TF_used){
     tmp_gene <- read.table(paste0(TF_targets_dir, i), stringsAsFactors = F)
-    gene_list[[which(TF_used == i)]] <- VariableFeatures(process_data)[VariableFeatures(process_data) %in% tmp_gene$V1]
+    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
 
-  data_matrix_normalized <- t(as.matrix(GetAssayData(object = process_data)[VariableFeatures(process_data), ]))
-  data_matrix_normalized <- data_matrix_normalized[, -grep(pattern = "gRNA", x = VariableFeatures(process_data))]
-
-  chipseq_weight <- matrix(1, nrow = length(colnames(data_matrix_normalized)), ncol = length(TF_used))
+  chipseq_weight <- matrix(1, nrow = length(colnames(data)), ncol = length(TF_used))
   for(i in 1:length(TF_used)){
-    chipseq_weight[, i] <- ifelse(colnames(data_matrix_normalized) %in% gene_list[[i]], 1, 0)
+    chipseq_weight[, i] <- ifelse(colnames(data) %in% gene_list[[i]], 1, 0)
   }
 
 
   Mask_matrix <- chipseq_weight
-  X <- data_matrix_normalized
+  X <- t(as.matrix(data))
   N <- dim(X)[1]
   D <- dim(X)[2]
   K <- length(TF_used)
@@ -86,11 +105,12 @@ to_vector(X) ~ normal(to_vector(Z*W'), t_tau);
 } "
 
   m_beta_prior <- stan_model(model_code = pca_beta_piror)
-  stan.fit.vb.real.beta.prior <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
+  fit.vb <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
                                   iter = 8000, output_samples = 300)
-  BITFAM_list <- list(Model = stan.fit.vb.real.beta.prior,
+  BITFAM_list <- list(Model = fit.vb,
                       TF_used = TF_used,
-                      Genes = VariableFeatures(process_data))
+                      Genes = rownames(data),
+                      Cell_names = colnames(data))
   return(BITFAM_list)
 }
 
