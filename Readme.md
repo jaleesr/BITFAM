@@ -141,16 +141,9 @@ BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", intersete
     ## Chain 1:    300  -16320097811.737             9.035            2.326
     ## Chain 1:    400  -28076959164.471             6.881            2.326
     ## Chain 1:    500  -4187009945478.669             5.704            1.000
-    ## Chain 1:    600  -1802929485171.887             4.973            1.322
-    ## Chain 1:    700  -4007000760.207            68.398            1.322
-    ## Chain 1:    800  -41111832472.621            59.961            1.322
-    ## Chain 1:    900  -4855042895.117            60.769            2.326
     ## ...... ......
     ## ...... ......
-    ## Chain 1:   1900    -12638442.685             0.125            0.007   MEDIAN ELBO CONVERGED
-    ## Chain 1: 
-    ## Chain 1: Drawing a sample of size 300 from the approximate posterior... 
-    ## Chain 1: COMPLETED.
+    
 
 Then we can get the inferred activities for every TF in each individual
 cell by function BITFAM\_activities. The input is the result from BITFAM
