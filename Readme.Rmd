@@ -75,11 +75,17 @@ data_matrix_normalized <- BITFAM_preprocess(raw_data = your_raw_data)
 
 ## infer the transcription factor activities
 
-The function of BITFAM is to infer the transcription factor activities. BITFAM is available for mouse and human. Mouse and human will have different ChIP-seq target datasets. User should specify the species they are using. By default, BITFAM will choose the transcription factors that are in the most variable expressed genes to learn. But the users are also allowed to add transcription factors that they are interested in. 
+The function of BITFAM is to infer the transcription factor activities. BITFAM is available for mouse and human. Mouse and human will have different ChIP-seq target datasets. User should specify the species they are using. The names of genes should be offical gene symbols. For mouse, the gene names are first letter uppercase. For human, the gene names are all letter uppercases.
+
+```{r}
+head(rownames(data_matrix_normalized), n = 5)
+```
+
+By default, BITFAM will choose the transcription factors that are in the most variable expressed genes to learn. But the users are also allowed to add transcription factors that they are interested in. 
 
 Here we use the Tabula Muris lung data as an example to show the usage of BITFAM main function.
 
-```{r}
+```{r, cache=TRUE}
 BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", interseted_TF = c("Pax5", "Tal1"), ncores = 10)
 ```
 
