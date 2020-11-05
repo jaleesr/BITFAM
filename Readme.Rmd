@@ -85,7 +85,7 @@ By default, BITFAM will choose the transcription factors that are in the most va
 
 Here we use the Tabula Muris lung data as an example to show the usage of BITFAM main function.
 
-```{r, cache=TRUE}
+```{r}
 BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", interseted_TF = c("Pax5", "Tal1"), ncores = 10)
 ```
 
