@@ -6,8 +6,8 @@
 #' @import rstan
 
 BITFAM_activities <- function(BITFAM_list){
-  result_matrix <- apply(extract(BITFAM_list@fit.vb,result,"Z")[[1]], c(2,3), mean)
-  rownames(result_matrix) <- BITFAM_list@Genes
-  colnames(result_matrix) <- BITFAM_list@Cell_names
+  result_matrix <- apply(extract(BITFAM_list$Model,"Z")[[1]], c(2,3), mean)
+  rownames(result_matrix) <- BITFAM_list$Cell_names
+  colnames(result_matrix) <- BITFAM_list$TF_used
   return(result_matrix)
 }
