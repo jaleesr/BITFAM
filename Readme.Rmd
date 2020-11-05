@@ -103,7 +103,7 @@ library(Rtsne)
 
 Z_tsne <- as.data.frame(Rtsne(Z)$Y)
 colnames(Z_tsne) <- c("tSNE_1", "tSNE_2")
-Annotation <- read.csv("Lung_droplet_annotation.csv", stringsAsFactors = F)
+Annotation <- read.csv(system.file("extdata", "Lung_droplet_annotation.csv", package = "BITFAM"), stringsAsFactors = F)
 Z_tsne$Cell_type <- Annotation$cell_ontology_class
 ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ```
