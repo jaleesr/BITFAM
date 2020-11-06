@@ -136,14 +136,23 @@ BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", intersete
     ## Chain 1: 
     ## Chain 1: Begin stochastic gradient ascent.
     ## Chain 1:   iter             ELBO   delta_ELBO_mean   delta_ELBO_med   notes 
-    ## Chain 1:    100  -1345199938982.548             1.000            1.000
-    ## Chain 1:    200  -404397304285.155             1.663            2.326
-    ## Chain 1:    300  -16320097811.737             9.035            2.326
-    ## Chain 1:    400  -28076959164.471             6.881            2.326
-    ## Chain 1:    500  -4187009945478.669             5.704            1.000
-    ## ...... ......
-    ## ...... ......
-    
+    ## Chain 1:   iter             ELBO   delta_ELBO_mean   delta_ELBO_med   notes 
+    ## Chain 1:    100    -75444083.748             1.000            1.000
+    ## Chain 1:    200    -16973934.385             2.222            3.445
+    ## Chain 1:    300    -14879763.544             1.528            1.000
+    ## Chain 1:    400    -14197123.364             1.158            1.000
+    ## Chain 1:    500    -13859339.287             0.932            0.141
+    ## Chain 1:    600    -13617651.503             0.779            0.141
+    ## Chain 1:    700    -13436800.429             0.670            0.048
+    ## Chain 1:    800    -13286811.706             0.588            0.048
+    ## Chain 1:    900    -13170664.230             0.464            0.024
+    ## Chain 1:   1000    -13102234.662             0.034            0.018
+    ## Chain 1:   1100    -12990088.397             0.017            0.013
+    ## Chain 1:   1200    -12923610.008             0.012            0.011
+    ## Chain 1:   1300    -12869995.593             0.009            0.009   MEAN ELBO CONVERGED   MEDIAN ELBO CONVERGED
+    ## Chain 1: 
+    ## Chain 1: Drawing a sample of size 300 from the approximate posterior... 
+    ## Chain 1: Completed.
 
 Then we can get the inferred activities for every TF in each individual
 cell by function BITFAM\_activities. The input is the result from BITFAM
