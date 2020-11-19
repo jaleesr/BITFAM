@@ -1,11 +1,11 @@
 Package: BITFAM
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Bayesion Inference Transcription Factor activity Model
+Version: 1.2.0
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Shang",
+           family = "Gao",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "sgao@uic.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
