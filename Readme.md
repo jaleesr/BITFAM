@@ -92,14 +92,22 @@ head(rownames(data_matrix_normalized), n = 5)
 
 By default, BITFAM will choose the transcription factors that are in the
 most variable expressed genes to learn. But the users are also allowed
+<<<<<<< HEAD
+to add transcription factors that they are interested in. If the users have their own scATAC-seq data which could be a supplemental filters to select the protential target genes, they can input the preprocessed Seurat object of scATAC-seq data wiht the augment scATAC_obj. Please note that these two functions are still under developing and testing. We highly recommend the users to try the default setting and contact us if you meet any problems.  
+=======
 to add transcription factors that they are interested in.
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
 
 Here we use the Tabula Muris lung data as an example to show the usage
 of BITFAM main
 function.
 
 ``` r
+<<<<<<< HEAD
+BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", interseted_TF = c("Pax5", "Tal1"), scATAC_obj = NA, ncores = 10)
+=======
 BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", interseted_TF = c("Pax5", "Tal1"), ncores = 10)
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
 ```
 
     ## Loading required package: StanHeaders

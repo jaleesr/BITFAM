@@ -3,13 +3,21 @@
 #' @param data A matrix or dataframe, normalized single cell RNA-seq data
 #' @param species mouse or human
 #' @param interseted_TF Transcription factors of interests
+<<<<<<< HEAD
+#' @param scATAC_obj A preprocessed Seurat object of scATAC-seq data
+=======
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
 #' @param number of CPU cores
 #' @return sampling results of TF inferred activities and TF-gene weights
 #' @export
 #' @import rstan
 #' @import Seurat
 
+<<<<<<< HEAD
+BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
+=======
 BITFAM <- function(data, species, interseted_TF = NA, ncores){
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
   if(species == "mouse"){
     TF_targets_dir <- "mouse/"
   }else if(species == "human"){
@@ -29,7 +37,11 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
   All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
   All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
   TF_used <- rownames(data)[rownames(data) %in% All_TFs]
+<<<<<<< HEAD
+  TF_used <- TF_used[1:min(120, length(TF_used))]
+=======
 
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
   gene_list <- list()
   for(i in TF_used){
     TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
@@ -51,6 +63,17 @@ BITFAM <- function(data, species, interseted_TF = NA, ncores){
     tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
     gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
   }
+<<<<<<< HEAD
+  
+  if(is.na(scATAC_obj)){
+  }else{
+    for(i in TF_used){
+      gene_list[[which(TF_used == i)]] <- gene_list[[which(TF_used == i)]][gene_list[[which(TF_used == i)]] %in% BITFAM_scATAC(scATAC_obj)]
+    }
+  }
+  
+=======
+>>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
   X <- t(as.matrix(data))
   chipseq_weight <- matrix(1, nrow = length(colnames(X)), ncol = length(TF_used))
   for(i in 1:length(TF_used)){
