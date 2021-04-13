@@ -58,7 +58,7 @@ install.packages('Seurat')
 ## installing BITFAM
 
 ``` r
-devtools::install_github("jalees/BITFAM")
+devtools::install_github("jaleesr/BITFAM")
 ```
 
 ``` r
