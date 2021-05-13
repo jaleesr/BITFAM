@@ -186,6 +186,7 @@ cell_type_df <- data.frame(Hepatocytes = ifelse(Annotation$cell_types == "Hepato
 colnames(Z.vb.beta.prior)[20] <- "NKX3_1"
 
 library(randomForest)
+Z <- as.data.frame(Z)
 Z_Hepatocytes <- cbind(Z, cell_type_df$Hepatocytes) 
 colnames(Z_Hepatocytes)[157] <- "Hepatocytes"
 Z_Hepatocytes$Hepatocytes <- factor(Z_Hepatocytes$Hepatocytes )
