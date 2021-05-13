@@ -26,7 +26,8 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
     variable_genes <- head(x = rownames(x = variable_genes), n = 5000)
     data <- data[variable_genes, ]
   }
-
+  
+  rownames(data) <- toupper(rownames(data))
   All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
   All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
   TF_used <- rownames(data)[rownames(data) %in% All_TFs]
@@ -38,7 +39,8 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
   for(i in TF_used){
     TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
     tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
-    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
+    tmp_gene <- toupper(tmp_gene$V1)
+    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene]
   }
 
   TF_used <- TF_used[ unlist(lapply(gene_list, length)) > 10]
@@ -47,7 +49,8 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
   for(i in TF_used){
     TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
     tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
-    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene$V1]
+    tmp_gene <- toupper(tmp_gene$V1)
+    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene]
   }
   
   if(is.na(scATAC_obj)){
