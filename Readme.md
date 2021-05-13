@@ -175,26 +175,69 @@ ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ![](Readme_files/figure-gfm/tsne_cell_types.png)<!-- -->
 
 
-A tsne plot on the inferred transcription factor activities.
-
-``` r
-library(ggplot2)
-library(Rtsne)
-
-Z_tsne <- as.data.frame(Rtsne(Z)$Y)
-colnames(Z_tsne) <- c("tSNE_1", "tSNE_2")
-Annotation <- read.table(system.file("extdata", "liver_cell_type.txt", package = "BITFAM"), stringsAsFactors = F, sep = "\t")
-Z_tsne$Cell_type <- Annotation$cell_types
-ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
-```
-
-![](Readme_files/figure-gfm/tsne_cell_types.png)<!-- -->
-
-One of the utilities of inferring TF activities for each cell is the potential to generate profiles of cell-type specific TF activities. For this purpose, we used a random forest model to identify the inferred TF activities that were associated with specific cell types. For example, we labeled cells of a given cell type (identified by a biological label such as marker genes) as 1 and all other cells as 0. The random forest model is built using this cell label and the inferred transcription factors activities from the BITFAM  matrix. By applying the same model to each cell type, we generated a landscape of inferred TF activities across all cell types. And we could generate the heatmap of the inferred TF activities.
+One of the utilities of inferring TF activities for each cell is the potential to generate profiles of cell-type specific TF activities. For this purpose, we used a random forest model to identify the inferred TF activities that were associated with specific cell types. For example, we labeled cells of a given cell type (identified by a biological label such as marker genes) as 1 and all other cells as 0. The random forest model is built using this cell label and the inferred transcription factors activities from the BITFAM  matrix. By applying the same model to each cell type, we generated a landscape of inferred TF activities across all cell types. And we could generate the heatmap of the inferred TF activities. Here the random forest model is one of the option. Users can choose their favourite method to identify the cell type specific TFs.
 
 ``` r
 
-BITFAM_heatmap(BITFAM_res, annotation = Annotation$cell_types) # the annotation should be a vector of prelabeled cell types with the same length of number of cells
+cell_type_df <- data.frame(Hepatocytes = ifelse(Annotation$cell_types == "Hepatocytes", 1, 0),
+                           EPCAM = ifelse(Annotation$cell_types == "EPCAM+", 1, 0),
+                           Kupffer = ifelse(Annotation$cell_types == "Kupffer cell", 1, 0),
+                           LSEC = ifelse(Annotation$cell_types == "LSEC", 1, 0))
+colnames(Z.vb.beta.prior)[20] <- "NKX3_1"
 
+library(randomForest)
+Z_Hepatocytes <- cbind(Z, cell_type_df$Hepatocytes) 
+colnames(Z_Hepatocytes)[157] <- "Hepatocytes"
+Z_Hepatocytes$Hepatocytes <- factor(Z_Hepatocytes$Hepatocytes )
+fit_rf <- randomForest(Hepatocytes~., data = Z_Hepatocytes)  ## build the RF model 
+Hepatocytes_tf_top10 <- importance(fit_rf)[order(importance(fit_rf)[, 1], decreasing = T), ][1:10]  ## Based on the feature importances identify the specific TFs for Hepatocytes
+
+## We repeat this code to the other 3 cell types.
+
+Z_EPCAM <- cbind(Z, cell_type_df$EPCAM)
+colnames(Z_EPCAM)[157] <- "EPCAM"
+Z_EPCAM$EPCAM <- factor(Z_EPCAM$EPCAM)
+fit_rf <- randomForest(EPCAM~., data = Z_EPCAM)
+EPCAM_tf_top10 <- importance(fit_rf)[order(importance(fit_rf)[, 1], decreasing = T), ][1:10]
+
+Z_Kupffer <- cbind(Z, cell_type_df$Kupffer)
+colnames(Z_Kupffer)[157] <- "Kupffer"
+Z_Kupffer$Kupffer <- factor(Z_Kupffer$Kupffer)
+fit_rf <- randomForest(Kupffer~., data = Z_Kupffer)
+Kupffer_tf_top10 <- importance(fit_rf)[order(importance(fit_rf)[, 1], decreasing = T), ][1:10]
+
+Z_LSEC <- cbind(Z, cell_type_df$LSEC)
+colnames(Z_LSEC)[157] <- "LSEC"
+Z_LSEC$LSEC <- factor(Z_LSEC$LSEC)
+fit_rf <- randomForest(LSEC~., data = Z_LSEC)
+LSEC_tf_top10 <- importance(fit_rf)[order(importance(fit_rf)[, 1], decreasing = T), ][1:10]
+
+## Build the inferred TF activities for selected TFs
+selected_TF_Z <- Z[, names(c(Hepatocytes_tf_top10, EPCAM_tf_top10, Kupffer_tf_top10, LSEC_tf_top10))]
+selected_TF_Z <- apply(selected_TF_Z, 2, function(x) (x-min(x))/(max(x)-min(x)))
+label <- Annotation$cell_types
+
+## Build the dataframe for heatmap
+data_fr <- data.frame(cells = rep(rownames(selected_TF_Z), each = 40), TF = rep(colnames(selected_TF_Z), 6519), stringsAsFactors = F)
+data_fr$activity <- as.vector(as.matrix(t(selected_TF_Z)))
+data_fr$cell_type <- factor(rep(label, each = 40))
+data_fr$TF <- factor(data_fr$TF, levels = colnames(selected_TF_Z))
+
+## Generate heatmap figure
+ggplot(data_fr, mapping = aes(x = cells, y = TF, fill = activity)) + geom_tile() +
+  scale_fill_gradient(low = "white",    
+                      high = "red",
+                      name = "Activity") +
+  scale_y_discrete(position = "right", label = colnames(selected_TF_Z)) +
+  facet_grid(facets = ~cell_type,
+             drop = TRUE,
+             space = "free",
+             scales = "free",
+             aes(fill=cell_type)) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(), 
+        axis.title.y=element_blank(),
+        axis.text.y=element_text(size = 12, face="bold"), 
+        strip.text = element_text("none")) 
 ```
 ![](Readme_files/figure-gfm/heatmap.png)<!-- -->
