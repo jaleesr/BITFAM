@@ -1,0 +1,6520 @@
+clusters_sub	cell_types
+ASGR1_CD45_UNB_P4_5_26	2	Kupffer cell
+ASGR1_CD45_UNB_P4_5_30	4	EPCAM+
+ASGR1_CD45_UNB_P4_5_50	25	Kupffer cell
+ASGR1_CD45_UNB_P4_5_61	4	EPCAM+
+ASGR1_CD45_UNB_P4_6_106	6	Kupffer cell
+ASGR1_CD45_UNB_P4_6_116	4	EPCAM+
+ASGR1_CD45_UNB_P4_6_150	7	EPCAM+
+ASGR1_CD45_UNB_P4_6_151	2	Kupffer cell
+ASGR1_CD45_UNB_P4_6_166	7	EPCAM+
+ASGR1_CD45_UNB_P4_6_171	4	EPCAM+
+ASGR1_CD45_UNB_P4_6_173	2	Kupffer cell
+ASGR1_CD45_UNB_P4_6_179	2	Kupffer cell
+ASGR1_CD45_UNB_P4_6_181	6	Kupffer cell
+ASGR1_CD45_UNB_P4_7_2	2	Kupffer cell
+ASGR1_CD45_UNB_P4_7_14	4	EPCAM+
+ASGR1_CD45_UNB_P4_7_40	25	Kupffer cell
+ASGR1_CD45_UNB_P4_7_54	7	EPCAM+
+ASGR1_CD45_UNB_P4_7_55	9	LSEC
+ASGR1_CD45_UNB_P4_7_61	4	EPCAM+
+ASGR1_CD45_UNB_P4_7_65	2	Kupffer cell
+ASGR1_CD45_UNB_P4_7_96	2	Kupffer cell
+ASGR1_CD45_UNB_P4_7_168	2	Kupffer cell
+ASGR1_CD45_UNB_P4_7_173	17	Hepatocytes
+ASGR1_CD45_UNB_P4_7_184	2	Kupffer cell
+ASGR1_CD45_UNB_P4_7_187	7	EPCAM+
+ASGR1_CD45_UNB_P4_8_103	25	Kupffer cell
+ASGR1_CD45_UNB_P4_8_144	11	Hepatocytes
+ASGR1_CD45_UNB_P4_8_159	13	LSEC
+ASGR1_CD45_UNB_P4_8_168	2	Kupffer cell
+ASGR1_CD45_UNB_P4_8_173	11	Hepatocytes
+ASGR1_CD45_UNB_P4_8_184	2	Kupffer cell
+ASGR1_CD45_UNB_P4_8_187	7	EPCAM+
+ASGR1pos304_5_6	14	Hepatocytes
+ASGR1pos304_5_7	14	Hepatocytes
+ASGR1pos304_5_8	11	Hepatocytes
+ASGR1pos304_5_11	11	Hepatocytes
+ASGR1pos304_5_18	14	Hepatocytes
+ASGR1pos304_5_20	11	Hepatocytes
+ASGR1pos304_5_28	14	Hepatocytes
+ASGR1pos304_5_36	14	Hepatocytes
+ASGR1pos304_5_39	14	Hepatocytes
+ASGR1pos304_5_52	14	Hepatocytes
+ASGR1pos304_5_55	11	Hepatocytes
+ASGR1pos304_5_56	14	Hepatocytes
+ASGR1pos304_5_61	14	Hepatocytes
+ASGR1pos304_5_78	14	Hepatocytes
+ASGR1pos304_5_84	17	Hepatocytes
+ASGR1pos304_5_89	11	Hepatocytes
+ASGR1pos304_6_106	14	Hepatocytes
+ASGR1pos304_6_108	11	Hepatocytes
+ASGR1pos304_6_114	14	Hepatocytes
+ASGR1pos304_6_115	14	Hepatocytes
+ASGR1pos304_6_125	11	Hepatocytes
+ASGR1pos304_6_127	11	Hepatocytes
+ASGR1pos304_6_131	11	Hepatocytes
+ASGR1pos304_6_136	14	Hepatocytes
+ASGR1pos304_6_137	14	Hepatocytes
+ASGR1pos304_6_143	14	Hepatocytes
+ASGR1pos304_6_150	14	Hepatocytes
+ASGR1pos304_6_154	14	Hepatocytes
+ASGR1pos304_6_161	11	Hepatocytes
+ASGR1pos304_6_163	14	Hepatocytes
+ASGR1pos304_6_167	2	Kupffer cell
+ASGR1pos304_6_172	14	Hepatocytes
+ASGR1pos304_6_182	11	Hepatocytes
+ASGR1pos304_6_188	14	Hepatocytes
+ASGR1pos304_6_190	11	Hepatocytes
+ASGR1pos304_7_6	14	Hepatocytes
+ASGR1pos304_7_7	14	Hepatocytes
+ASGR1pos304_7_13	14	Hepatocytes
+ASGR1pos304_7_20	14	Hepatocytes
+ASGR1pos304_7_22	11	Hepatocytes
+ASGR1pos304_7_24	14	Hepatocytes
+ASGR1pos304_7_30	14	Hepatocytes
+ASGR1pos304_7_32	14	Hepatocytes
+ASGR1pos304_7_38	11	Hepatocytes
+ASGR1pos304_7_43	14	Hepatocytes
+ASGR1pos304_7_45	2	Kupffer cell
+ASGR1pos304_7_53	14	Hepatocytes
+ASGR1pos304_7_55	11	Hepatocytes
+ASGR1pos304_7_70	11	Hepatocytes
+ASGR1pos304_7_75	11	Hepatocytes
+ASGR1pos304_7_78	14	Hepatocytes
+ASGR1pos304_7_81	14	Hepatocytes
+ASGR1pos304_7_89	6	Kupffer cell
+ASGR1pos304_7_93	14	Hepatocytes
+ASGR1pos304_7_94	14	Hepatocytes
+ASGR1pos304_8_101	14	Hepatocytes
+ASGR1pos304_8_103	14	Hepatocytes
+ASGR1pos304_8_108	11	Hepatocytes
+ASGR1pos304_8_110	11	Hepatocytes
+ASGR1pos304_8_114	14	Hepatocytes
+ASGR1pos304_8_127	14	Hepatocytes
+ASGR1pos304_8_129	14	Hepatocytes
+ASGR1pos304_8_146	14	Hepatocytes
+ASGR1pos304_8_150	2	Kupffer cell
+ASGR1pos304_8_153	11	Hepatocytes
+ASGR1pos304_8_155	11	Hepatocytes
+ASGR1pos304_8_173	14	Hepatocytes
+ASGR1pos304_8_177	11	Hepatocytes
+ASGR1pos304_8_183	14	Hepatocytes
+ASGR1pos304_8_186	14	Hepatocytes
+ASGR1pos304_8_188	14	Hepatocytes
+ASGR1pos308_10_99	14	Hepatocytes
+ASGR1pos308_10_101	14	Hepatocytes
+ASGR1pos308_10_103	14	Hepatocytes
+ASGR1pos308_10_104	14	Hepatocytes
+ASGR1pos308_10_105	14	Hepatocytes
+ASGR1pos308_10_106	14	Hepatocytes
+ASGR1pos308_10_107	14	Hepatocytes
+ASGR1pos308_10_108	14	Hepatocytes
+ASGR1pos308_10_109	17	Hepatocytes
+ASGR1pos308_10_110	17	Hepatocytes
+ASGR1pos308_10_112	14	Hepatocytes
+ASGR1pos308_10_113	14	Hepatocytes
+ASGR1pos308_10_114	14	Hepatocytes
+ASGR1pos308_10_115	14	Hepatocytes
+ASGR1pos308_10_116	14	Hepatocytes
+ASGR1pos308_10_119	14	Hepatocytes
+ASGR1pos308_10_120	14	Hepatocytes
+ASGR1pos308_10_121	14	Hepatocytes
+ASGR1pos308_10_122	14	Hepatocytes
+ASGR1pos308_10_125	14	Hepatocytes
+ASGR1pos308_10_127	14	Hepatocytes
+ASGR1pos308_10_128	14	Hepatocytes
+ASGR1pos308_10_129	14	Hepatocytes
+ASGR1pos308_10_130	14	Hepatocytes
+ASGR1pos308_10_132	14	Hepatocytes
+ASGR1pos308_10_135	14	Hepatocytes
+ASGR1pos308_10_136	14	Hepatocytes
+ASGR1pos308_10_137	14	Hepatocytes
+ASGR1pos308_10_138	14	Hepatocytes
+ASGR1pos308_10_139	14	Hepatocytes
+ASGR1pos308_10_140	14	Hepatocytes
+ASGR1pos308_10_141	14	Hepatocytes
+ASGR1pos308_10_145	14	Hepatocytes
+ASGR1pos308_10_146	14	Hepatocytes
+ASGR1pos308_10_151	14	Hepatocytes
+ASGR1pos308_10_152	14	Hepatocytes
+ASGR1pos308_10_153	14	Hepatocytes
+ASGR1pos308_10_155	14	Hepatocytes
+ASGR1pos308_10_157	14	Hepatocytes
+ASGR1pos308_10_158	14	Hepatocytes
+ASGR1pos308_10_159	14	Hepatocytes
+ASGR1pos308_10_161	14	Hepatocytes
+ASGR1pos308_10_163	14	Hepatocytes
+ASGR1pos308_10_164	14	Hepatocytes
+ASGR1pos308_10_165	14	Hepatocytes
+ASGR1pos308_10_167	17	Hepatocytes
+ASGR1pos308_10_169	14	Hepatocytes
+ASGR1pos308_10_173	14	Hepatocytes
+ASGR1pos308_10_175	14	Hepatocytes
+ASGR1pos308_10_176	14	Hepatocytes
+ASGR1pos308_10_177	14	Hepatocytes
+ASGR1pos308_10_180	14	Hepatocytes
+ASGR1pos308_10_181	14	Hepatocytes
+ASGR1pos308_10_184	14	Hepatocytes
+ASGR1pos308_10_186	14	Hepatocytes
+ASGR1pos308_10_187	14	Hepatocytes
+ASGR1pos308_10_189	14	Hepatocytes
+ASGR1pos308_10_190	14	Hepatocytes
+ASGR1pos308_10_191	14	Hepatocytes
+ASGR1pos308_10_192	14	Hepatocytes
+ASGR1pos308_11_1	14	Hepatocytes
+ASGR1pos308_11_3	14	Hepatocytes
+ASGR1pos308_11_4	17	Hepatocytes
+ASGR1pos308_11_6	14	Hepatocytes
+ASGR1pos308_11_7	14	Hepatocytes
+ASGR1pos308_11_11	17	Hepatocytes
+ASGR1pos308_11_13	14	Hepatocytes
+ASGR1pos308_11_14	17	Hepatocytes
+ASGR1pos308_11_15	14	Hepatocytes
+ASGR1pos308_11_18	11	Hepatocytes
+ASGR1pos308_11_19	17	Hepatocytes
+ASGR1pos308_11_20	14	Hepatocytes
+ASGR1pos308_11_21	14	Hepatocytes
+ASGR1pos308_11_22	14	Hepatocytes
+ASGR1pos308_11_23	17	Hepatocytes
+ASGR1pos308_11_27	17	Hepatocytes
+ASGR1pos308_11_28	17	Hepatocytes
+ASGR1pos308_11_29	11	Hepatocytes
+ASGR1pos308_11_30	14	Hepatocytes
+ASGR1pos308_11_31	2	Kupffer cell
+ASGR1pos308_11_32	14	Hepatocytes
+ASGR1pos308_11_33	14	Hepatocytes
+ASGR1pos308_11_36	17	Hepatocytes
+ASGR1pos308_11_38	14	Hepatocytes
+ASGR1pos308_11_39	14	Hepatocytes
+ASGR1pos308_11_40	14	Hepatocytes
+ASGR1pos308_11_45	14	Hepatocytes
+ASGR1pos308_11_47	17	Hepatocytes
+ASGR1pos308_11_48	14	Hepatocytes
+ASGR1pos308_11_51	14	Hepatocytes
+ASGR1pos308_11_54	17	Hepatocytes
+ASGR1pos308_11_55	14	Hepatocytes
+ASGR1pos308_11_56	14	Hepatocytes
+ASGR1pos308_11_57	14	Hepatocytes
+ASGR1pos308_11_59	14	Hepatocytes
+ASGR1pos308_11_63	14	Hepatocytes
+ASGR1pos308_11_65	14	Hepatocytes
+ASGR1pos308_11_69	14	Hepatocytes
+ASGR1pos308_11_72	14	Hepatocytes
+ASGR1pos308_11_74	11	Hepatocytes
+ASGR1pos308_11_78	14	Hepatocytes
+ASGR1pos308_11_79	17	Hepatocytes
+ASGR1pos308_11_80	14	Hepatocytes
+ASGR1pos308_11_86	14	Hepatocytes
+ASGR1pos308_11_87	17	Hepatocytes
+ASGR1pos308_11_91	14	Hepatocytes
+ASGR1pos308_11_95	17	Hepatocytes
+ASGR1pos308_12_97	14	Hepatocytes
+ASGR1pos308_12_98	14	Hepatocytes
+ASGR1pos308_12_99	14	Hepatocytes
+ASGR1pos308_12_101	14	Hepatocytes
+ASGR1pos308_12_102	14	Hepatocytes
+ASGR1pos308_12_104	14	Hepatocytes
+ASGR1pos308_12_106	14	Hepatocytes
+ASGR1pos308_12_108	14	Hepatocytes
+ASGR1pos308_12_109	14	Hepatocytes
+ASGR1pos308_12_111	14	Hepatocytes
+ASGR1pos308_12_113	14	Hepatocytes
+ASGR1pos308_12_115	14	Hepatocytes
+ASGR1pos308_12_117	14	Hepatocytes
+ASGR1pos308_12_122	14	Hepatocytes
+ASGR1pos308_12_123	14	Hepatocytes
+ASGR1pos308_12_124	14	Hepatocytes
+ASGR1pos308_12_127	14	Hepatocytes
+ASGR1pos308_12_132	14	Hepatocytes
+ASGR1pos308_12_136	14	Hepatocytes
+ASGR1pos308_12_137	14	Hepatocytes
+ASGR1pos308_12_138	14	Hepatocytes
+ASGR1pos308_12_139	14	Hepatocytes
+ASGR1pos308_12_140	14	Hepatocytes
+ASGR1pos308_12_142	14	Hepatocytes
+ASGR1pos308_12_154	14	Hepatocytes
+ASGR1pos308_12_158	14	Hepatocytes
+ASGR1pos308_12_159	14	Hepatocytes
+ASGR1pos308_12_162	11	Hepatocytes
+ASGR1pos308_12_164	14	Hepatocytes
+ASGR1pos308_12_167	14	Hepatocytes
+ASGR1pos308_12_168	14	Hepatocytes
+ASGR1pos308_12_170	14	Hepatocytes
+ASGR1pos308_12_171	14	Hepatocytes
+ASGR1pos308_12_174	14	Hepatocytes
+ASGR1pos308_12_175	14	Hepatocytes
+ASGR1pos308_12_179	14	Hepatocytes
+ASGR1pos308_12_180	14	Hepatocytes
+ASGR1pos308_12_183	14	Hepatocytes
+ASGR1pos308_12_185	14	Hepatocytes
+ASGR1pos308_12_186	14	Hepatocytes
+ASGR1pos308_12_189	14	Hepatocytes
+ASGR1pos308_9_1	14	Hepatocytes
+ASGR1pos308_9_3	14	Hepatocytes
+ASGR1pos308_9_4	14	Hepatocytes
+ASGR1pos308_9_5	14	Hepatocytes
+ASGR1pos308_9_6	14	Hepatocytes
+ASGR1pos308_9_8	14	Hepatocytes
+ASGR1pos308_9_10	17	Hepatocytes
+ASGR1pos308_9_11	14	Hepatocytes
+ASGR1pos308_9_14	14	Hepatocytes
+ASGR1pos308_9_15	14	Hepatocytes
+ASGR1pos308_9_18	14	Hepatocytes
+ASGR1pos308_9_19	14	Hepatocytes
+ASGR1pos308_9_20	14	Hepatocytes
+ASGR1pos308_9_22	2	Kupffer cell
+ASGR1pos308_9_23	14	Hepatocytes
+ASGR1pos308_9_24	14	Hepatocytes
+ASGR1pos308_9_25	14	Hepatocytes
+ASGR1pos308_9_26	17	Hepatocytes
+ASGR1pos308_9_29	14	Hepatocytes
+ASGR1pos308_9_30	14	Hepatocytes
+ASGR1pos308_9_31	14	Hepatocytes
+ASGR1pos308_9_32	14	Hepatocytes
+ASGR1pos308_9_33	14	Hepatocytes
+ASGR1pos308_9_34	14	Hepatocytes
+ASGR1pos308_9_36	14	Hepatocytes
+ASGR1pos308_9_38	14	Hepatocytes
+ASGR1pos308_9_39	14	Hepatocytes
+ASGR1pos308_9_40	14	Hepatocytes
+ASGR1pos308_9_41	14	Hepatocytes
+ASGR1pos308_9_43	17	Hepatocytes
+ASGR1pos308_9_44	14	Hepatocytes
+ASGR1pos308_9_48	14	Hepatocytes
+ASGR1pos308_9_49	14	Hepatocytes
+ASGR1pos308_9_52	14	Hepatocytes
+ASGR1pos308_9_55	14	Hepatocytes
+ASGR1pos308_9_56	14	Hepatocytes
+ASGR1pos308_9_57	14	Hepatocytes
+ASGR1pos308_9_58	14	Hepatocytes
+ASGR1pos308_9_59	14	Hepatocytes
+ASGR1pos308_9_60	14	Hepatocytes
+ASGR1pos308_9_61	14	Hepatocytes
+ASGR1pos308_9_62	14	Hepatocytes
+ASGR1pos308_9_63	14	Hepatocytes
+ASGR1pos308_9_65	14	Hepatocytes
+ASGR1pos308_9_66	14	Hepatocytes
+ASGR1pos308_9_67	14	Hepatocytes
+ASGR1pos308_9_69	14	Hepatocytes
+ASGR1pos308_9_70	14	Hepatocytes
+ASGR1pos308_9_71	17	Hepatocytes
+ASGR1pos308_9_72	17	Hepatocytes
+ASGR1pos308_9_73	14	Hepatocytes
+ASGR1pos308_9_75	14	Hepatocytes
+ASGR1pos308_9_76	17	Hepatocytes
+ASGR1pos308_9_80	14	Hepatocytes
+ASGR1pos308_9_81	14	Hepatocytes
+ASGR1pos308_9_85	17	Hepatocytes
+ASGR1pos308_9_86	14	Hepatocytes
+ASGR1pos308_9_88	14	Hepatocytes
+ASGR1pos308_9_89	14	Hepatocytes
+ASGR1pos308_9_90	14	Hepatocytes
+ASGR1pos308_9_91	14	Hepatocytes
+ASGR1pos308_9_93	14	Hepatocytes
+ASGR1pos308_9_94	14	Hepatocytes
+ASGR1pos310_5_2	11	Hepatocytes
+ASGR1pos310_5_5	14	Hepatocytes
+ASGR1pos310_5_6	11	Hepatocytes
+ASGR1pos310_5_7	11	Hepatocytes
+ASGR1pos310_5_9	11	Hepatocytes
+ASGR1pos310_5_10	11	Hepatocytes
+ASGR1pos310_5_11	11	Hepatocytes
+ASGR1pos310_5_12	11	Hepatocytes
+ASGR1pos310_5_13	11	Hepatocytes
+ASGR1pos310_5_15	14	Hepatocytes
+ASGR1pos310_5_18	11	Hepatocytes
+ASGR1pos310_5_20	17	Hepatocytes
+ASGR1pos310_5_21	14	Hepatocytes
+ASGR1pos310_5_23	11	Hepatocytes
+ASGR1pos310_5_27	11	Hepatocytes
+ASGR1pos310_5_29	11	Hepatocytes
+ASGR1pos310_5_30	11	Hepatocytes
+ASGR1pos310_5_31	11	Hepatocytes
+ASGR1pos310_5_34	11	Hepatocytes
+ASGR1pos310_5_35	11	Hepatocytes
+ASGR1pos310_5_36	14	Hepatocytes
+ASGR1pos310_5_37	11	Hepatocytes
+ASGR1pos310_5_39	11	Hepatocytes
+ASGR1pos310_5_40	11	Hepatocytes
+ASGR1pos310_5_42	11	Hepatocytes
+ASGR1pos310_5_44	11	Hepatocytes
+ASGR1pos310_5_45	11	Hepatocytes
+ASGR1pos310_5_47	11	Hepatocytes
+ASGR1pos310_5_48	11	Hepatocytes
+ASGR1pos310_5_52	11	Hepatocytes
+ASGR1pos310_5_53	11	Hepatocytes
+ASGR1pos310_5_54	11	Hepatocytes
+ASGR1pos310_5_56	11	Hepatocytes
+ASGR1pos310_5_57	11	Hepatocytes
+ASGR1pos310_5_58	11	Hepatocytes
+ASGR1pos310_5_59	11	Hepatocytes
+ASGR1pos310_5_60	11	Hepatocytes
+ASGR1pos310_5_61	11	Hepatocytes
+ASGR1pos310_5_63	11	Hepatocytes
+ASGR1pos310_5_64	11	Hepatocytes
+ASGR1pos310_5_66	17	Hepatocytes
+ASGR1pos310_5_67	11	Hepatocytes
+ASGR1pos310_5_68	11	Hepatocytes
+ASGR1pos310_5_70	11	Hepatocytes
+ASGR1pos310_5_73	11	Hepatocytes
+ASGR1pos310_5_74	11	Hepatocytes
+ASGR1pos310_5_76	11	Hepatocytes
+ASGR1pos310_5_77	11	Hepatocytes
+ASGR1pos310_5_78	11	Hepatocytes
+ASGR1pos310_5_79	14	Hepatocytes
+ASGR1pos310_5_84	11	Hepatocytes
+ASGR1pos310_5_85	14	Hepatocytes
+ASGR1pos310_5_86	11	Hepatocytes
+ASGR1pos310_5_87	11	Hepatocytes
+ASGR1pos310_5_90	11	Hepatocytes
+ASGR1pos310_5_91	11	Hepatocytes
+ASGR1pos310_5_94	11	Hepatocytes
+ASGR1pos310_5_95	11	Hepatocytes
+ASGR1pos310_5_96	11	Hepatocytes
+ASGR1pos310_6_97	11	Hepatocytes
+ASGR1pos310_6_98	11	Hepatocytes
+ASGR1pos310_6_99	11	Hepatocytes
+ASGR1pos310_6_101	11	Hepatocytes
+ASGR1pos310_6_102	11	Hepatocytes
+ASGR1pos310_6_104	11	Hepatocytes
+ASGR1pos310_6_107	11	Hepatocytes
+ASGR1pos310_6_108	11	Hepatocytes
+ASGR1pos310_6_109	11	Hepatocytes
+ASGR1pos310_6_110	11	Hepatocytes
+ASGR1pos310_6_112	11	Hepatocytes
+ASGR1pos310_6_113	11	Hepatocytes
+ASGR1pos310_6_114	14	Hepatocytes
+ASGR1pos310_6_117	11	Hepatocytes
+ASGR1pos310_6_118	11	Hepatocytes
+ASGR1pos310_6_119	11	Hepatocytes
+ASGR1pos310_6_120	11	Hepatocytes
+ASGR1pos310_6_122	17	Hepatocytes
+ASGR1pos310_6_124	11	Hepatocytes
+ASGR1pos310_6_127	11	Hepatocytes
+ASGR1pos310_6_129	11	Hepatocytes
+ASGR1pos310_6_130	11	Hepatocytes
+ASGR1pos310_6_131	11	Hepatocytes
+ASGR1pos310_6_132	17	Hepatocytes
+ASGR1pos310_6_135	11	Hepatocytes
+ASGR1pos310_6_138	11	Hepatocytes
+ASGR1pos310_6_143	11	Hepatocytes
+ASGR1pos310_6_144	11	Hepatocytes
+ASGR1pos310_6_146	14	Hepatocytes
+ASGR1pos310_6_149	14	Hepatocytes
+ASGR1pos310_6_151	11	Hepatocytes
+ASGR1pos310_6_156	11	Hepatocytes
+ASGR1pos310_6_158	14	Hepatocytes
+ASGR1pos310_6_160	11	Hepatocytes
+ASGR1pos310_6_161	11	Hepatocytes
+ASGR1pos310_6_162	11	Hepatocytes
+ASGR1pos310_6_168	11	Hepatocytes
+ASGR1pos310_6_169	11	Hepatocytes
+ASGR1pos310_6_170	11	Hepatocytes
+ASGR1pos310_6_172	11	Hepatocytes
+ASGR1pos310_6_173	14	Hepatocytes
+ASGR1pos310_6_174	11	Hepatocytes
+ASGR1pos310_6_175	11	Hepatocytes
+ASGR1pos310_6_176	11	Hepatocytes
+ASGR1pos310_6_177	11	Hepatocytes
+ASGR1pos310_6_179	11	Hepatocytes
+ASGR1pos310_6_180	11	Hepatocytes
+ASGR1pos310_6_182	11	Hepatocytes
+ASGR1pos310_6_183	11	Hepatocytes
+ASGR1pos310_6_186	11	Hepatocytes
+ASGR1pos310_6_188	11	Hepatocytes
+ASGR1pos310_6_189	11	Hepatocytes
+ASGR1pos310_6_190	11	Hepatocytes
+ASGR1pos310_6_191	11	Hepatocytes
+ASGR1pos310_7_1	11	Hepatocytes
+ASGR1pos310_7_3	11	Hepatocytes
+ASGR1pos310_7_5	11	Hepatocytes
+ASGR1pos310_7_7	11	Hepatocytes
+ASGR1pos310_7_8	11	Hepatocytes
+ASGR1pos310_7_10	11	Hepatocytes
+ASGR1pos310_7_11	11	Hepatocytes
+ASGR1pos310_7_12	11	Hepatocytes
+ASGR1pos310_7_14	11	Hepatocytes
+ASGR1pos310_7_15	11	Hepatocytes
+ASGR1pos310_7_16	11	Hepatocytes
+ASGR1pos310_7_17	11	Hepatocytes
+ASGR1pos310_7_18	11	Hepatocytes
+ASGR1pos310_7_19	11	Hepatocytes
+ASGR1pos310_7_21	11	Hepatocytes
+ASGR1pos310_7_22	11	Hepatocytes
+ASGR1pos310_7_23	11	Hepatocytes
+ASGR1pos310_7_27	11	Hepatocytes
+ASGR1pos310_7_28	17	Hepatocytes
+ASGR1pos310_7_29	11	Hepatocytes
+ASGR1pos310_7_30	11	Hepatocytes
+ASGR1pos310_7_32	17	Hepatocytes
+ASGR1pos310_7_34	11	Hepatocytes
+ASGR1pos310_7_35	11	Hepatocytes
+ASGR1pos310_7_36	11	Hepatocytes
+ASGR1pos310_7_37	11	Hepatocytes
+ASGR1pos310_7_38	11	Hepatocytes
+ASGR1pos310_7_42	11	Hepatocytes
+ASGR1pos310_7_43	11	Hepatocytes
+ASGR1pos310_7_44	11	Hepatocytes
+ASGR1pos310_7_45	11	Hepatocytes
+ASGR1pos310_7_48	11	Hepatocytes
+ASGR1pos310_7_49	17	Hepatocytes
+ASGR1pos310_7_50	11	Hepatocytes
+ASGR1pos310_7_52	11	Hepatocytes
+ASGR1pos310_7_54	11	Hepatocytes
+ASGR1pos310_7_56	11	Hepatocytes
+ASGR1pos310_7_57	11	Hepatocytes
+ASGR1pos310_7_58	11	Hepatocytes
+ASGR1pos310_7_59	11	Hepatocytes
+ASGR1pos310_7_60	11	Hepatocytes
+ASGR1pos310_7_61	11	Hepatocytes
+ASGR1pos310_7_62	11	Hepatocytes
+ASGR1pos310_7_63	11	Hepatocytes
+ASGR1pos310_7_64	11	Hepatocytes
+ASGR1pos310_7_65	11	Hepatocytes
+ASGR1pos310_7_67	11	Hepatocytes
+ASGR1pos310_7_68	11	Hepatocytes
+ASGR1pos310_7_71	11	Hepatocytes
+ASGR1pos310_7_73	11	Hepatocytes
+ASGR1pos310_7_76	11	Hepatocytes
+ASGR1pos310_7_80	11	Hepatocytes
+ASGR1pos310_7_81	11	Hepatocytes
+ASGR1pos310_7_83	11	Hepatocytes
+ASGR1pos310_7_85	11	Hepatocytes
+ASGR1pos310_7_87	11	Hepatocytes
+ASGR1pos310_7_88	17	Hepatocytes
+ASGR1pos310_7_92	11	Hepatocytes
+ASGR1pos310_7_93	11	Hepatocytes
+ASGR1pos310_7_94	11	Hepatocytes
+ASGR1pos310_7_95	11	Hepatocytes
+ASGR1pos310_8_98	11	Hepatocytes
+ASGR1pos310_8_100	11	Hepatocytes
+ASGR1pos310_8_102	11	Hepatocytes
+ASGR1pos310_8_104	11	Hepatocytes
+ASGR1pos310_8_107	11	Hepatocytes
+ASGR1pos310_8_110	11	Hepatocytes
+ASGR1pos310_8_115	11	Hepatocytes
+ASGR1pos310_8_117	11	Hepatocytes
+ASGR1pos310_8_118	11	Hepatocytes
+ASGR1pos310_8_119	11	Hepatocytes
+ASGR1pos310_8_124	11	Hepatocytes
+ASGR1pos310_8_125	11	Hepatocytes
+ASGR1pos310_8_129	11	Hepatocytes
+ASGR1pos310_8_130	11	Hepatocytes
+ASGR1pos310_8_132	11	Hepatocytes
+ASGR1pos310_8_134	11	Hepatocytes
+ASGR1pos310_8_135	14	Hepatocytes
+ASGR1pos310_8_141	11	Hepatocytes
+ASGR1pos310_8_143	11	Hepatocytes
+ASGR1pos310_8_145	11	Hepatocytes
+ASGR1pos310_8_151	11	Hepatocytes
+ASGR1pos310_8_153	11	Hepatocytes
+ASGR1pos310_8_154	11	Hepatocytes
+ASGR1pos310_8_156	11	Hepatocytes
+ASGR1pos310_8_157	11	Hepatocytes
+ASGR1pos310_8_164	11	Hepatocytes
+ASGR1pos310_8_170	11	Hepatocytes
+ASGR1pos310_8_175	11	Hepatocytes
+ASGR1pos310_8_179	11	Hepatocytes
+ASGR1pos310_8_182	11	Hepatocytes
+ASGR1pos310_8_183	11	Hepatocytes
+ASGR1pos310_8_185	11	Hepatocytes
+ASGR1pos310_8_187	11	Hepatocytes
+ASGR1pos310_8_189	11	Hepatocytes
+ASGR1pos310_8_190	11	Hepatocytes
+ASGR1pos315_1_25	14	Hepatocytes
+ASGR1pos315_1_28	11	Hepatocytes
+ASGR1pos315_1_36	14	Hepatocytes
+ASGR1pos315_1_39	14	Hepatocytes
+ASGR1pos315_1_48	14	Hepatocytes
+ASGR1pos315_1_54	11	Hepatocytes
+ASGR1pos315_1_60	11	Hepatocytes
+ASGR1pos315_1_62	14	Hepatocytes
+ASGR1pos315_1_67	4	EPCAM+
+ASGR1pos315_1_71	11	Hepatocytes
+ASGR1pos315_1_81	14	Hepatocytes
+ASGR1pos315_2_98	13	LSEC
+ASGR1pos315_2_106	14	Hepatocytes
+ASGR1pos315_2_111	14	Hepatocytes
+ASGR1pos315_2_129	14	Hepatocytes
+ASGR1pos315_2_135	14	Hepatocytes
+ASGR1pos315_2_159	11	Hepatocytes
+ASGR1pos315_2_162	13	LSEC
+ASGR1pos315_2_164	14	Hepatocytes
+ASGR1pos315_2_169	11	Hepatocytes
+ASGR1pos315_2_180	14	Hepatocytes
+ASGR1pos315_2_181	11	Hepatocytes
+ASGR1pos315_2_184	14	Hepatocytes
+ASGR1pos315_3_6	14	Hepatocytes
+ASGR1pos315_3_29	11	Hepatocytes
+ASGR1pos315_3_33	14	Hepatocytes
+ASGR1pos315_3_36	11	Hepatocytes
+ASGR1pos315_3_41	14	Hepatocytes
+ASGR1pos315_3_48	14	Hepatocytes
+ASGR1pos315_3_53	14	Hepatocytes
+ASGR1pos315_3_81	14	Hepatocytes
+ASGR1pos315_3_92	14	Hepatocytes
+ASGR1pos315_4_109	14	Hepatocytes
+ASGR1pos315_4_119	14	Hepatocytes
+ASGR1pos315_4_122	14	Hepatocytes
+ASGR1pos315_4_143	14	Hepatocytes
+ASGR1pos315_4_148	11	Hepatocytes
+ASGR1pos315_4_158	13	LSEC
+ASGR1pos315_4_159	14	Hepatocytes
+ASGR1pos315_4_166	14	Hepatocytes
+ASGR1pos325_1_3	11	Hepatocytes
+ASGR1pos325_1_6	14	Hepatocytes
+ASGR1pos325_1_7	11	Hepatocytes
+ASGR1pos325_1_10	11	Hepatocytes
+ASGR1pos325_1_11	11	Hepatocytes
+ASGR1pos325_1_12	14	Hepatocytes
+ASGR1pos325_1_15	14	Hepatocytes
+ASGR1pos325_1_16	4	EPCAM+
+ASGR1pos325_1_21	14	Hepatocytes
+ASGR1pos325_1_22	14	Hepatocytes
+ASGR1pos325_1_23	14	Hepatocytes
+ASGR1pos325_1_28	11	Hepatocytes
+ASGR1pos325_1_34	11	Hepatocytes
+ASGR1pos325_1_37	11	Hepatocytes
+ASGR1pos325_1_39	11	Hepatocytes
+ASGR1pos325_1_40	11	Hepatocytes
+ASGR1pos325_1_41	11	Hepatocytes
+ASGR1pos325_1_43	14	Hepatocytes
+ASGR1pos325_1_45	11	Hepatocytes
+ASGR1pos325_1_54	11	Hepatocytes
+ASGR1pos325_1_55	11	Hepatocytes
+ASGR1pos325_1_60	14	Hepatocytes
+ASGR1pos325_1_61	14	Hepatocytes
+ASGR1pos325_1_66	14	Hepatocytes
+ASGR1pos325_1_70	11	Hepatocytes
+ASGR1pos325_1_71	11	Hepatocytes
+ASGR1pos325_1_74	11	Hepatocytes
+ASGR1pos325_1_78	11	Hepatocytes
+ASGR1pos325_1_79	11	Hepatocytes
+ASGR1pos325_1_81	14	Hepatocytes
+ASGR1pos325_1_83	11	Hepatocytes
+ASGR1pos325_1_84	11	Hepatocytes
+ASGR1pos325_1_85	11	Hepatocytes
+ASGR1pos325_1_89	11	Hepatocytes
+ASGR1pos325_1_91	13	LSEC
+ASGR1pos325_1_92	11	Hepatocytes
+ASGR1pos325_2_100	14	Hepatocytes
+ASGR1pos325_2_102	11	Hepatocytes
+ASGR1pos325_2_103	17	Hepatocytes
+ASGR1pos325_2_104	14	Hepatocytes
+ASGR1pos325_2_109	11	Hepatocytes
+ASGR1pos325_2_118	11	Hepatocytes
+ASGR1pos325_2_120	11	Hepatocytes
+ASGR1pos325_2_123	14	Hepatocytes
+ASGR1pos325_2_124	11	Hepatocytes
+ASGR1pos325_2_127	11	Hepatocytes
+ASGR1pos325_2_130	11	Hepatocytes
+ASGR1pos325_2_131	11	Hepatocytes
+ASGR1pos325_2_132	14	Hepatocytes
+ASGR1pos325_2_138	11	Hepatocytes
+ASGR1pos325_2_145	14	Hepatocytes
+ASGR1pos325_2_154	11	Hepatocytes
+ASGR1pos325_2_159	11	Hepatocytes
+ASGR1pos325_2_160	11	Hepatocytes
+ASGR1pos325_2_162	11	Hepatocytes
+ASGR1pos325_2_163	11	Hepatocytes
+ASGR1pos325_2_166	11	Hepatocytes
+ASGR1pos325_2_167	11	Hepatocytes
+ASGR1pos325_2_168	11	Hepatocytes
+ASGR1pos325_2_170	14	Hepatocytes
+ASGR1pos325_2_173	11	Hepatocytes
+ASGR1pos325_2_176	14	Hepatocytes
+ASGR1pos325_2_178	11	Hepatocytes
+ASGR1pos325_2_181	11	Hepatocytes
+ASGR1pos325_2_183	11	Hepatocytes
+ASGR1pos325_2_185	11	Hepatocytes
+ASGR1pos325_2_188	11	Hepatocytes
+ASGR1pos325_2_190	11	Hepatocytes
+ASGR1pos325_2_191	11	Hepatocytes
+ASGR1pos325_2_192	11	Hepatocytes
+ASGR1posCD45neg_10_98	11	Hepatocytes
+ASGR1posCD45neg_10_100	11	Hepatocytes
+ASGR1posCD45neg_10_106	11	Hepatocytes
+ASGR1posCD45neg_10_109	4	EPCAM+
+ASGR1posCD45neg_10_110	11	Hepatocytes
+ASGR1posCD45neg_10_114	11	Hepatocytes
+ASGR1posCD45neg_10_122	11	Hepatocytes
+ASGR1posCD45neg_10_124	11	Hepatocytes
+ASGR1posCD45neg_10_126	11	Hepatocytes
+ASGR1posCD45neg_10_127	11	Hepatocytes
+ASGR1posCD45neg_10_129	11	Hepatocytes
+ASGR1posCD45neg_10_130	11	Hepatocytes
+ASGR1posCD45neg_10_134	11	Hepatocytes
+ASGR1posCD45neg_10_138	11	Hepatocytes
+ASGR1posCD45neg_10_141	11	Hepatocytes
+ASGR1posCD45neg_10_142	14	Hepatocytes
+ASGR1posCD45neg_10_144	11	Hepatocytes
+ASGR1posCD45neg_10_146	11	Hepatocytes
+ASGR1posCD45neg_10_148	11	Hepatocytes
+ASGR1posCD45neg_10_149	4	EPCAM+
+ASGR1posCD45neg_10_150	11	Hepatocytes
+ASGR1posCD45neg_10_151	7	EPCAM+
+ASGR1posCD45neg_10_152	11	Hepatocytes
+ASGR1posCD45neg_10_154	11	Hepatocytes
+ASGR1posCD45neg_10_158	11	Hepatocytes
+ASGR1posCD45neg_10_169	11	Hepatocytes
+ASGR1posCD45neg_10_171	11	Hepatocytes
+ASGR1posCD45neg_10_173	11	Hepatocytes
+ASGR1posCD45neg_10_175	11	Hepatocytes
+ASGR1posCD45neg_10_176	11	Hepatocytes
+ASGR1posCD45neg_10_178	11	Hepatocytes
+ASGR1posCD45neg_10_181	11	Hepatocytes
+ASGR1posCD45neg_10_183	11	Hepatocytes
+ASGR1posCD45neg_10_184	11	Hepatocytes
+ASGR1posCD45neg_10_185	11	Hepatocytes
+ASGR1posCD45neg_10_188	11	Hepatocytes
+ASGR1posCD45neg_10_191	11	Hepatocytes
+ASGR1posCD45neg_10_192	11	Hepatocytes
+ASGR1posCD45neg_9_1	11	Hepatocytes
+ASGR1posCD45neg_9_2	11	Hepatocytes
+ASGR1posCD45neg_9_4	11	Hepatocytes
+ASGR1posCD45neg_9_5	11	Hepatocytes
+ASGR1posCD45neg_9_6	11	Hepatocytes
+ASGR1posCD45neg_9_7	17	Hepatocytes
+ASGR1posCD45neg_9_8	11	Hepatocytes
+ASGR1posCD45neg_9_10	11	Hepatocytes
+ASGR1posCD45neg_9_12	11	Hepatocytes
+ASGR1posCD45neg_9_14	11	Hepatocytes
+ASGR1posCD45neg_9_15	11	Hepatocytes
+ASGR1posCD45neg_9_21	11	Hepatocytes
+ASGR1posCD45neg_9_27	11	Hepatocytes
+ASGR1posCD45neg_9_28	11	Hepatocytes
+ASGR1posCD45neg_9_29	11	Hepatocytes
+ASGR1posCD45neg_9_30	11	Hepatocytes
+ASGR1posCD45neg_9_33	11	Hepatocytes
+ASGR1posCD45neg_9_35	11	Hepatocytes
+ASGR1posCD45neg_9_37	11	Hepatocytes
+ASGR1posCD45neg_9_41	11	Hepatocytes
+ASGR1posCD45neg_9_43	11	Hepatocytes
+ASGR1posCD45neg_9_45	11	Hepatocytes
+ASGR1posCD45neg_9_49	11	Hepatocytes
+ASGR1posCD45neg_9_50	11	Hepatocytes
+ASGR1posCD45neg_9_51	11	Hepatocytes
+ASGR1posCD45neg_9_52	11	Hepatocytes
+ASGR1posCD45neg_9_55	11	Hepatocytes
+ASGR1posCD45neg_9_56	11	Hepatocytes
+ASGR1posCD45neg_9_60	11	Hepatocytes
+ASGR1posCD45neg_9_61	7	EPCAM+
+ASGR1posCD45neg_9_62	11	Hepatocytes
+ASGR1posCD45neg_9_63	11	Hepatocytes
+ASGR1posCD45neg_9_67	11	Hepatocytes
+ASGR1posCD45neg_9_68	11	Hepatocytes
+ASGR1posCD45neg_9_71	11	Hepatocytes
+ASGR1posCD45neg_9_72	11	Hepatocytes
+ASGR1posCD45neg_9_75	14	Hepatocytes
+ASGR1posCD45neg_9_78	11	Hepatocytes
+ASGR1posCD45neg_9_79	11	Hepatocytes
+ASGR1posCD45neg_9_81	11	Hepatocytes
+ASGR1posCD45neg_9_82	11	Hepatocytes
+ASGR1posCD45neg_9_83	11	Hepatocytes
+ASGR1posCD45neg_9_84	11	Hepatocytes
+ASGR1posCD45neg_9_91	11	Hepatocytes
+ASGR1posCD45neg_9_92	11	Hepatocytes
+ASGR1posCD45neg_9_94	11	Hepatocytes
+ASGR1posCD45neg_9_95	11	Hepatocytes
+ASGR1posCD45neg_9_96	11	Hepatocytes
+ASGR1posCD45pos_11_11	11	Hepatocytes
+ASGR1posCD45pos_11_14	17	Hepatocytes
+ASGR1posCD45pos_11_31	17	Hepatocytes
+ASGR1posCD45pos_11_37	11	Hepatocytes
+ASGR1posCD45pos_11_44	11	Hepatocytes
+ASGR1posCD45pos_11_56	11	Hepatocytes
+ASGR1posCD45pos_11_57	17	Hepatocytes
+ASGR1posCD45pos_11_82	11	Hepatocytes
+ASGR1posCD45pos_11_90	11	Hepatocytes
+ASGR1posCD45pos_11_91	17	Hepatocytes
+ASGR1posCD45pos_12_104	11	Hepatocytes
+ASGR1posCD45pos_12_107	17	Hepatocytes
+ASGR1posCD45pos_12_109	11	Hepatocytes
+ASGR1posCD45pos_12_117	17	Hepatocytes
+ASGR1posCD45pos_12_123	11	Hepatocytes
+ASGR1posCD45pos_12_124	11	Hepatocytes
+ASGR1posCD45pos_12_129	11	Hepatocytes
+ASGR1posCD45pos_12_130	11	Hepatocytes
+ASGR1posCD45pos_12_132	17	Hepatocytes
+ASGR1posCD45pos_12_135	17	Hepatocytes
+ASGR1posCD45pos_12_143	17	Hepatocytes
+ASGR1posCD45pos_12_146	17	Hepatocytes
+ASGR1posCD45pos_12_156	11	Hepatocytes
+ASGR1posCD45pos_12_170	11	Hepatocytes
+ASGR1posCD45pos_12_172	11	Hepatocytes
+ASGR1posCD45pos_12_179	17	Hepatocytes
+ASGR1posCD45pos_12_187	11	Hepatocytes
+ASGR1pos_4_110	4	EPCAM+
+ASGR1pos_4_135	4	EPCAM+
+ASGR1pos_4_137	17	Hepatocytes
+ASGR1pos_4_144	4	EPCAM+
+ASGR1pos_4_159	7	EPCAM+
+ASGR1pos_4_175	4	EPCAM+
+ASGR1pos_4_176	11	Hepatocytes
+ASGR1posfresh_4_110	4	EPCAM+
+ASGR1posfresh_4_135	4	EPCAM+
+ASGR1posfresh_4_137	17	Hepatocytes
+ASGR1posfresh_4_151	11	Hepatocytes
+ASGR1posfresh_4_157	4	EPCAM+
+ASGR1posfresh_4_159	7	EPCAM+
+ASGR1posfresh_4_175	4	EPCAM+
+ASGR1posfresh_4_176	11	Hepatocytes
+CD34pos315_5_6	9	LSEC
+CD34pos315_5_9	13	LSEC
+CD34pos315_5_16	20	LSEC
+CD34pos315_5_23	13	LSEC
+CD34pos315_5_24	13	LSEC
+CD34pos315_5_25	13	LSEC
+CD34pos315_5_26	6	Kupffer cell
+CD34pos315_5_35	6	Kupffer cell
+CD34pos315_5_47	20	LSEC
+CD34pos315_5_53	13	LSEC
+CD34pos315_5_54	13	LSEC
+CD34pos315_5_55	13	LSEC
+CD34pos315_5_59	20	LSEC
+CD34pos315_5_61	13	LSEC
+CD34pos315_5_65	6	Kupffer cell
+CD34pos315_5_77	13	LSEC
+CD34pos315_5_80	6	Kupffer cell
+CD34pos315_5_82	6	Kupffer cell
+CD34pos315_5_84	9	LSEC
+CD34pos315_5_86	13	LSEC
+CD34pos315_5_88	13	LSEC
+CD34pos315_5_95	9	LSEC
+CD34pos315_6_98	20	LSEC
+CD34pos315_6_108	13	LSEC
+CD34pos315_6_113	9	LSEC
+CD34pos315_6_118	9	LSEC
+CD34pos315_6_120	9	LSEC
+CD34pos315_6_123	20	LSEC
+CD34pos315_6_126	9	LSEC
+CD34pos315_6_127	13	LSEC
+CD34pos315_6_142	13	LSEC
+CD34pos315_6_153	13	LSEC
+CD34pos315_6_154	9	LSEC
+CD34pos315_6_156	13	LSEC
+CD34pos315_6_157	2	Kupffer cell
+CD34pos315_6_167	9	LSEC
+CD34pos315_6_170	20	LSEC
+CD34pos315_6_178	13	LSEC
+CD34pos315_6_182	23	Kupffer cell
+CD34pos325fresh_10_98	13	LSEC
+CD34pos325fresh_10_104	13	LSEC
+CD34pos325fresh_10_109	13	LSEC
+CD34pos325fresh_10_110	13	LSEC
+CD34pos325fresh_10_121	13	LSEC
+CD34pos325fresh_10_124	13	LSEC
+CD34pos325fresh_10_129	13	LSEC
+CD34pos325fresh_10_131	9	LSEC
+CD34pos325fresh_10_136	13	LSEC
+CD34pos325fresh_10_137	13	LSEC
+CD34pos325fresh_10_138	23	Kupffer cell
+CD34pos325fresh_10_139	9	LSEC
+CD34pos325fresh_10_141	13	LSEC
+CD34pos325fresh_10_142	13	LSEC
+CD34pos325fresh_10_143	13	LSEC
+CD34pos325fresh_10_144	4	EPCAM+
+CD34pos325fresh_10_147	6	Kupffer cell
+CD34pos325fresh_10_151	13	LSEC
+CD34pos325fresh_10_152	13	LSEC
+CD34pos325fresh_10_153	9	LSEC
+CD34pos325fresh_10_155	9	LSEC
+CD34pos325fresh_10_166	13	LSEC
+CD34pos325fresh_10_170	9	LSEC
+CD34pos325fresh_10_174	9	LSEC
+CD34pos325fresh_10_175	13	LSEC
+CD34pos325fresh_10_178	20	LSEC
+CD34pos325fresh_10_182	13	LSEC
+CD34pos325fresh_10_186	4	EPCAM+
+CD34pos325fresh_10_187	13	LSEC
+CD34pos325fresh_10_188	13	LSEC
+CD34pos325fresh_10_192	13	LSEC
+CD34pos325fresh_11_6	13	LSEC
+CD34pos325fresh_11_14	13	LSEC
+CD34pos325fresh_11_40	13	LSEC
+CD34pos325fresh_11_45	13	LSEC
+CD34pos325fresh_11_49	9	LSEC
+CD34pos325fresh_11_50	13	LSEC
+CD34pos325fresh_11_67	13	LSEC
+CD34pos325fresh_11_70	13	LSEC
+CD34pos325fresh_11_86	13	LSEC
+CD34pos325fresh_11_90	13	LSEC
+CD34pos325fresh_11_94	9	LSEC
+CD34pos325fresh_11_95	20	LSEC
+CD34pos325fresh_12_105	13	LSEC
+CD34pos325fresh_12_110	13	LSEC
+CD34pos325fresh_12_115	13	LSEC
+CD34pos325fresh_12_116	13	LSEC
+CD34pos325fresh_12_131	13	LSEC
+CD34pos325fresh_12_134	13	LSEC
+CD34pos325fresh_12_140	9	LSEC
+CD34pos325fresh_12_145	9	LSEC
+CD34pos325fresh_12_155	6	Kupffer cell
+CD34pos325fresh_12_158	13	LSEC
+CD34pos325fresh_12_161	13	LSEC
+CD34pos325fresh_12_166	6	Kupffer cell
+CD34pos325fresh_12_172	13	LSEC
+CD34pos325fresh_12_175	6	Kupffer cell
+CD34pos325fresh_12_181	20	LSEC
+CD34pos325fresh_12_186	9	LSEC
+CD34pos325fresh_12_190	13	LSEC
+CD34pos325fresh_9_2	13	LSEC
+CD34pos325fresh_9_9	6	Kupffer cell
+CD34pos325fresh_9_17	13	LSEC
+CD34pos325fresh_9_18	6	Kupffer cell
+CD34pos325fresh_9_23	13	LSEC
+CD34pos325fresh_9_24	6	Kupffer cell
+CD34pos325fresh_9_30	13	LSEC
+CD34pos325fresh_9_34	13	LSEC
+CD34pos325fresh_9_39	13	LSEC
+CD34pos325fresh_9_43	13	LSEC
+CD34pos325fresh_9_44	6	Kupffer cell
+CD34pos325fresh_9_46	13	LSEC
+CD34pos325fresh_9_50	13	LSEC
+CD34pos325fresh_9_57	9	LSEC
+CD34pos325fresh_9_58	9	LSEC
+CD34pos325fresh_9_63	13	LSEC
+CD34pos325fresh_9_76	13	LSEC
+CD34pos325fresh_9_81	9	LSEC
+CD34pos325fresh_9_84	13	LSEC
+CD34pos_10_103	13	LSEC
+CD34pos_10_107	13	LSEC
+CD34pos_10_109	9	LSEC
+CD34pos_10_115	2	Kupffer cell
+CD34pos_10_125	2	Kupffer cell
+CD34pos_10_131	9	LSEC
+CD34pos_10_132	9	LSEC
+CD34pos_10_148	13	LSEC
+CD34pos_10_157	9	LSEC
+CD34pos_10_179	6	Kupffer cell
+CD34pos_9_1	31	Kupffer cell
+CD34pos_9_42	13	LSEC
+CD34pos_9_43	13	LSEC
+CD34pos_9_47	13	LSEC
+CD34pos_9_51	13	LSEC
+CD34pos_9_55	20	LSEC
+CD34pos_9_57	20	LSEC
+CD34pos_9_59	25	Kupffer cell
+CD34pos_9_61	4	EPCAM+
+CD34pos_9_65	9	LSEC
+CD34pos_9_68	6	Kupffer cell
+CD34pos_9_69	9	LSEC
+CD34pos_9_71	11	Hepatocytes
+CD34pos_9_73	13	LSEC
+CD34pos_9_78	6	Kupffer cell
+CD34pos_9_82	9	LSEC
+CD34pos_9_83	13	LSEC
+CD34pos_9_87	13	LSEC
+CD34pos_9_93	9	LSEC
+CD34pos_9_95	9	LSEC
+CD45_NPC_P5_10_59	25	Kupffer cell
+CD45_NPC_P5_10_106	6	Kupffer cell
+CD45_NPC_P5_10_113	4	EPCAM+
+CD45_NPC_P5_10_136	6	Kupffer cell
+CD45_NPC_P5_10_137	4	EPCAM+
+CD45_NPC_P5_10_157	2	Kupffer cell
+CD45_NPC_P5_10_159	2	Kupffer cell
+CD45_NPC_P5_10_174	2	Kupffer cell
+CD45_NPC_P5_10_175	6	Kupffer cell
+CD45_NPC_P5_10_184	25	Kupffer cell
+CD45_NPC_P5_11_7	25	Kupffer cell
+CD45_NPC_P5_11_56	6	Kupffer cell
+CD45_NPC_P5_11_61	7	EPCAM+
+CD45_NPC_P5_11_69	2	Kupffer cell
+CD45_NPC_P5_11_76	2	Kupffer cell
+CD45_NPC_P5_11_80	2	Kupffer cell
+CD45_NPC_P5_11_85	2	Kupffer cell
+CD45_NPC_P5_11_173	2	Kupffer cell
+CD45_NPC_P5_12_113	4	EPCAM+
+CD45_NPC_P5_12_131	2	Kupffer cell
+CD45_NPC_P5_12_132	2	Kupffer cell
+CD45_NPC_P5_12_144	2	Kupffer cell
+CD45_NPC_P5_12_173	2	Kupffer cell
+CD45_NPC_P5_12_178	2	Kupffer cell
+CD45_NPC_P5_9_59	2	Kupffer cell
+CD45negASGR1neg315_10_110	7	EPCAM+
+CD45negASGR1neg315_10_116	14	Hepatocytes
+CD45negASGR1neg315_10_123	4	EPCAM+
+CD45negASGR1neg315_10_124	13	LSEC
+CD45negASGR1neg315_10_145	11	Hepatocytes
+CD45negASGR1neg315_10_151	4	EPCAM+
+CD45negASGR1neg315_10_154	4	EPCAM+
+CD45negASGR1neg315_10_190	9	LSEC
+CD45negASGR1neg315_10_191	9	LSEC
+CD45negASGR1neg315_11_15	13	LSEC
+CD45negASGR1neg315_11_20	9	LSEC
+CD45negASGR1neg315_11_30	9	LSEC
+CD45negASGR1neg315_11_39	13	LSEC
+CD45negASGR1neg315_11_59	13	LSEC
+CD45negASGR1neg315_11_69	17	Hepatocytes
+CD45negASGR1neg315_11_92	13	LSEC
+CD45negASGR1neg315_12_123	13	LSEC
+CD45negASGR1neg315_12_155	13	LSEC
+CD45negASGR1neg315_12_171	13	LSEC
+CD45negASGR1neg315_7_5	9	LSEC
+CD45negASGR1neg315_7_8	6	Kupffer cell
+CD45negASGR1neg315_7_9	4	EPCAM+
+CD45negASGR1neg315_7_12	9	LSEC
+CD45negASGR1neg315_7_14	14	Hepatocytes
+CD45negASGR1neg315_7_20	7	EPCAM+
+CD45negASGR1neg315_7_40	13	LSEC
+CD45negASGR1neg315_7_66	9	LSEC
+CD45negASGR1neg315_7_72	13	LSEC
+CD45negASGR1neg315_7_78	9	LSEC
+CD45negASGR1neg315_8_105	14	Hepatocytes
+CD45negASGR1neg315_8_113	13	LSEC
+CD45negASGR1neg315_8_114	13	LSEC
+CD45negASGR1neg315_8_119	13	LSEC
+CD45negASGR1neg315_8_159	9	LSEC
+CD45negASGR1neg315_8_170	14	Hepatocytes
+CD45negASGR1neg315_8_181	9	LSEC
+CD45negASGR1neg315_9_4	9	LSEC
+CD45negASGR1neg315_9_12	14	Hepatocytes
+CD45negASGR1neg315_9_19	7	EPCAM+
+CD45negASGR1neg315_9_28	13	LSEC
+CD45negASGR1neg315_9_40	9	LSEC
+CD45negASGR1neg315_9_51	13	LSEC
+CD45negASGR1neg315_9_75	4	EPCAM+
+CD45negASGR1neg315_9_81	13	LSEC
+CD45negASGR1neg315_9_91	7	EPCAM+
+CD45negASGR1negBio_5_6	11	Hepatocytes
+CD45negASGR1negBio_5_13	11	Hepatocytes
+CD45negASGR1negBio_5_20	11	Hepatocytes
+CD45negASGR1negBio_5_26	30	Hepatocytes
+CD45negASGR1negBio_5_37	30	Hepatocytes
+CD45negASGR1negBio_5_42	7	EPCAM+
+CD45negASGR1negBio_5_46	7	EPCAM+
+CD45negASGR1negBio_5_48	30	Hepatocytes
+CD45negASGR1negBio_5_50	24	EPCAM+
+CD45negASGR1negBio_5_61	11	Hepatocytes
+CD45negASGR1negBio_5_70	11	Hepatocytes
+CD45negASGR1negBio_5_76	30	Hepatocytes
+CD45negASGR1negBio_6_103	7	EPCAM+
+CD45negASGR1negBio_6_107	30	Hepatocytes
+CD45negASGR1negBio_6_120	7	EPCAM+
+CD45negASGR1negBio_6_123	4	EPCAM+
+CD45negASGR1negBio_6_132	30	Hepatocytes
+CD45negASGR1negBio_6_139	11	Hepatocytes
+CD45negASGR1negBio_6_142	7	EPCAM+
+CD45negASGR1negBio_6_143	30	Hepatocytes
+CD45negASGR1negBio_6_147	7	EPCAM+
+CD45negASGR1negBio_6_162	30	Hepatocytes
+CD45negASGR1negBio_6_171	7	EPCAM+
+CD45negASGR1negBio_6_190	11	Hepatocytes
+CD45negASGR1negBio_7_3	17	Hepatocytes
+CD45negASGR1negBio_7_7	11	Hepatocytes
+CD45negASGR1negBio_7_8	30	Hepatocytes
+CD45negASGR1negBio_7_10	4	EPCAM+
+CD45negASGR1negBio_7_11	6	Kupffer cell
+CD45negASGR1negBio_7_35	11	Hepatocytes
+CD45negASGR1negBio_7_43	17	Hepatocytes
+CD45negASGR1negBio_7_49	30	Hepatocytes
+CD45negASGR1negBio_7_57	11	Hepatocytes
+CD45negASGR1negBio_7_59	30	Hepatocytes
+CD45negASGR1negBio_7_61	7	EPCAM+
+CD45negASGR1negBio_7_62	7	EPCAM+
+CD45negASGR1negBio_7_66	11	Hepatocytes
+CD45negASGR1negBio_7_81	30	Hepatocytes
+CD45negASGR1negBio_8_108	17	Hepatocytes
+CD45negASGR1negBio_8_126	30	Hepatocytes
+CD45negASGR1negBio_8_129	30	Hepatocytes
+CD45negASGR1negBio_8_131	30	Hepatocytes
+CD45negASGR1negBio_8_134	9	LSEC
+CD45negASGR1negBio_8_173	4	EPCAM+
+CD45negASGR1negBio_8_186	30	Hepatocytes
+CD45pos315_13_1	6	Kupffer cell
+CD45pos315_13_8	2	Kupffer cell
+CD45pos315_13_9	2	Kupffer cell
+CD45pos315_13_29	2	Kupffer cell
+CD45pos315_13_38	6	Kupffer cell
+CD45pos315_13_66	2	Kupffer cell
+CD45pos315_13_74	2	Kupffer cell
+CD45pos315_13_77	25	Kupffer cell
+CD45pos315_14_100	2	Kupffer cell
+CD45pos315_14_109	2	Kupffer cell
+CD45pos315_14_111	13	LSEC
+CD45pos315_14_117	2	Kupffer cell
+CD45pos315_14_120	2	Kupffer cell
+CD45pos315_14_144	2	Kupffer cell
+CD45pos315_14_153	31	Kupffer cell
+CD45pos315_14_157	6	Kupffer cell
+CD45pos315_15_12	2	Kupffer cell
+CD45pos315_15_29	6	Kupffer cell
+CD45pos315_15_36	31	Kupffer cell
+CD45pos315_15_39	2	Kupffer cell
+CD45pos315_15_76	6	Kupffer cell
+CD45pos315_16_108	2	Kupffer cell
+CD45pos315_16_111	2	Kupffer cell
+CD45pos315_16_113	6	Kupffer cell
+CD45pos315_16_148	2	Kupffer cell
+CD45pos315_16_172	6	Kupffer cell
+CD45pos325_5_4	2	Kupffer cell
+CD45pos325_5_8	2	Kupffer cell
+CD45pos325_5_11	6	Kupffer cell
+CD45pos325_5_29	25	Kupffer cell
+CD45pos325_5_42	25	Kupffer cell
+CD45pos325_5_49	2	Kupffer cell
+CD45pos325_5_50	25	Kupffer cell
+CD45pos325_5_54	11	Hepatocytes
+CD45pos325_5_55	2	Kupffer cell
+CD45pos325_5_59	2	Kupffer cell
+CD45pos325_5_63	2	Kupffer cell
+CD45pos325_5_76	2	Kupffer cell
+CD45pos325_5_79	2	Kupffer cell
+CD45pos325_5_82	25	Kupffer cell
+CD45pos325_5_87	2	Kupffer cell
+CD45pos325_5_88	2	Kupffer cell
+CD45pos325_5_89	6	Kupffer cell
+CD45pos325_6_105	2	Kupffer cell
+CD45pos325_6_113	6	Kupffer cell
+CD45pos325_6_120	25	Kupffer cell
+CD45pos325_6_123	2	Kupffer cell
+CD45pos325_6_125	31	Kupffer cell
+CD45pos325_6_140	2	Kupffer cell
+CD45pos325_6_150	2	Kupffer cell
+CD45pos325_6_157	2	Kupffer cell
+CD45pos325_6_173	2	Kupffer cell
+CD45pos325_6_180	25	Kupffer cell
+CD45pos325_6_186	6	Kupffer cell
+CD45pos325_6_189	2	Kupffer cell
+CD45pos325_7_6	2	Kupffer cell
+CD45pos325_7_40	6	Kupffer cell
+CD45pos325_7_48	2	Kupffer cell
+CD45pos325_7_53	6	Kupffer cell
+CD45pos325_7_70	2	Kupffer cell
+CD45pos325_7_75	2	Kupffer cell
+CD45pos325_7_83	2	Kupffer cell
+CD45pos325_7_85	17	Hepatocytes
+CD45pos325_7_89	2	Kupffer cell
+CD45pos325_8_101	2	Kupffer cell
+CD45pos325_8_102	2	Kupffer cell
+CD45pos325_8_105	2	Kupffer cell
+CD45pos325_8_109	2	Kupffer cell
+CD45pos325_8_111	2	Kupffer cell
+CD45pos325_8_113	11	Hepatocytes
+CD45pos325_8_120	2	Kupffer cell
+CD45pos325_8_121	2	Kupffer cell
+CD45pos325_8_122	23	Kupffer cell
+CD45pos325_8_135	2	Kupffer cell
+CD45pos325_8_142	2	Kupffer cell
+CD45pos325_8_152	2	Kupffer cell
+CD45pos325_8_159	2	Kupffer cell
+CD45pos325_8_161	2	Kupffer cell
+CD45pos325_8_166	2	Kupffer cell
+CD45pos325_8_169	2	Kupffer cell
+CD45pos325_8_179	2	Kupffer cell
+CD45posfresh_5_14	4	EPCAM+
+CD45posfresh_5_20	2	Kupffer cell
+CD45posfresh_5_21	25	Kupffer cell
+CD45posfresh_5_38	2	Kupffer cell
+CD45posfresh_5_40	2	Kupffer cell
+CD45posfresh_5_44	25	Kupffer cell
+CD45posfresh_5_59	6	Kupffer cell
+CD45posfresh_5_63	2	Kupffer cell
+CD45posfresh_5_72	25	Kupffer cell
+CD45posfresh_5_77	6	Kupffer cell
+CD45posfresh_5_89	6	Kupffer cell
+CD45posfresh_5_95	2	Kupffer cell
+CD45posfresh_6_104	2	Kupffer cell
+CD45posfresh_6_113	2	Kupffer cell
+CD45posfresh_6_114	2	Kupffer cell
+CD45posfresh_6_125	2	Kupffer cell
+CD45posfresh_6_126	2	Kupffer cell
+CD45posfresh_6_127	2	Kupffer cell
+CD45posfresh_6_130	25	Kupffer cell
+CD45posfresh_6_135	4	EPCAM+
+CD45posfresh_6_137	2	Kupffer cell
+CD45posfresh_6_167	6	Kupffer cell
+CD45posfresh_6_170	25	Kupffer cell
+CD45posfresh_6_171	2	Kupffer cell
+CD45posfresh_6_175	25	Kupffer cell
+CD45posfresh_6_180	2	Kupffer cell
+CD45posfresh_6_181	2	Kupffer cell
+CD45posfresh_6_182	2	Kupffer cell
+CD45posfresh_6_188	17	Hepatocytes
+CD45posfresh_6_190	2	Kupffer cell
+CD45posfresh_6_191	2	Kupffer cell
+CD45posfresh_7_13	2	Kupffer cell
+CD45posfresh_7_33	25	Kupffer cell
+CD45posfresh_7_34	2	Kupffer cell
+CD45posfresh_7_35	2	Kupffer cell
+CD45posfresh_7_40	2	Kupffer cell
+CD45posfresh_7_41	2	Kupffer cell
+CD45posfresh_7_58	6	Kupffer cell
+CD45posfresh_7_59	2	Kupffer cell
+CD45posfresh_7_72	2	Kupffer cell
+CD45posfresh_7_92	2	Kupffer cell
+CD45posfresh_8_101	2	Kupffer cell
+CD45posfresh_8_117	4	EPCAM+
+CD45posfresh_8_121	2	Kupffer cell
+CD45posfresh_8_124	2	Kupffer cell
+CD45posfresh_8_125	25	Kupffer cell
+CD45posfresh_8_135	4	EPCAM+
+CD45posfresh_8_145	2	Kupffer cell
+CD45posfresh_8_147	2	Kupffer cell
+CD45posfresh_8_159	2	Kupffer cell
+CD45posfresh_8_161	2	Kupffer cell
+CD45posfresh_8_163	25	Kupffer cell
+CD45posfresh_8_169	2	Kupffer cell
+CD45posfresh_8_172	2	Kupffer cell
+CD45posfresh_8_173	31	Kupffer cell
+CD45posfresh_8_175	2	Kupffer cell
+CD45posfresh_8_181	2	Kupffer cell
+CD45posfresh_8_184	6	Kupffer cell
+CD45posfresh_8_191	2	Kupffer cell
+CD45posfresh_8_192	2	Kupffer cell
+CLEC4Gpos315_5_7	13	LSEC
+CLEC4Gpos315_5_13	13	LSEC
+CLEC4Gpos315_5_15	9	LSEC
+CLEC4Gpos315_5_26	13	LSEC
+CLEC4Gpos315_5_31	13	LSEC
+CLEC4Gpos315_5_36	9	LSEC
+CLEC4Gpos315_5_39	13	LSEC
+CLEC4Gpos315_5_44	13	LSEC
+CLEC4Gpos315_5_49	13	LSEC
+CLEC4Gpos315_5_53	20	LSEC
+CLEC4Gpos315_5_60	13	LSEC
+CLEC4Gpos315_5_63	9	LSEC
+CLEC4Gpos315_5_71	13	LSEC
+CLEC4Gpos315_5_72	13	LSEC
+CLEC4Gpos315_5_73	20	LSEC
+CLEC4Gpos315_5_81	9	LSEC
+CLEC4Gpos315_5_86	13	LSEC
+CLEC4Gpos315_5_89	9	LSEC
+CLEC4Gpos315_5_90	13	LSEC
+CLEC4Gpos315_5_96	9	LSEC
+CLEC4Gpos315_7_2	13	LSEC
+CLEC4Gpos315_7_4	13	LSEC
+CLEC4Gpos315_7_10	13	LSEC
+CLEC4Gpos315_7_20	13	LSEC
+CLEC4Gpos315_7_21	13	LSEC
+CLEC4Gpos315_7_24	13	LSEC
+CLEC4Gpos315_7_28	13	LSEC
+CLEC4Gpos315_7_32	9	LSEC
+CLEC4Gpos315_7_34	9	LSEC
+CLEC4Gpos315_7_35	13	LSEC
+CLEC4Gpos315_7_36	9	LSEC
+CLEC4Gpos315_7_37	13	LSEC
+CLEC4Gpos315_7_38	13	LSEC
+CLEC4Gpos315_7_42	13	LSEC
+CLEC4Gpos315_7_43	13	LSEC
+CLEC4Gpos315_7_54	13	LSEC
+CLEC4Gpos315_7_76	13	LSEC
+CLEC4Gpos315_7_87	9	LSEC
+CLEC4Gpos315_8_103	2	Kupffer cell
+CLEC4Gpos315_8_108	13	LSEC
+CLEC4Gpos315_8_116	13	LSEC
+CLEC4Gpos315_8_120	13	LSEC
+CLEC4Gpos315_8_130	13	LSEC
+CLEC4Gpos315_8_138	13	LSEC
+CLEC4Gpos315_8_151	9	LSEC
+CLEC4Gpos315_8_153	9	LSEC
+CLEC4Gpos315_8_157	13	LSEC
+CLEC4Gpos315_8_166	9	LSEC
+CLEC4Gpos315_8_168	9	LSEC
+CLEC4Gpos315_8_175	13	LSEC
+EPCAMTrop2high_2_1	4	EPCAM+
+EPCAMTrop2high_2_2	4	EPCAM+
+EPCAMTrop2high_2_3	7	EPCAM+
+EPCAMTrop2high_2_4	4	EPCAM+
+EPCAMTrop2high_2_5	7	EPCAM+
+EPCAMTrop2high_2_6	7	EPCAM+
+EPCAMTrop2high_2_7	4	EPCAM+
+EPCAMTrop2high_2_8	7	EPCAM+
+EPCAMTrop2high_2_9	7	EPCAM+
+EPCAMTrop2high_2_10	4	EPCAM+
+EPCAMTrop2high_2_11	7	EPCAM+
+EPCAMTrop2high_2_12	4	EPCAM+
+EPCAMTrop2high_2_13	4	EPCAM+
+EPCAMTrop2high_2_14	7	EPCAM+
+EPCAMTrop2high_2_15	4	EPCAM+
+EPCAMTrop2high_2_16	7	EPCAM+
+EPCAMTrop2high_2_17	7	EPCAM+
+EPCAMTrop2high_2_18	4	EPCAM+
+EPCAMTrop2high_2_19	4	EPCAM+
+EPCAMTrop2high_2_21	4	EPCAM+
+EPCAMTrop2high_2_22	7	EPCAM+
+EPCAMTrop2high_2_23	7	EPCAM+
+EPCAMTrop2high_2_24	7	EPCAM+
+EPCAMTrop2high_2_25	7	EPCAM+
+EPCAMTrop2high_2_26	4	EPCAM+
+EPCAMTrop2high_2_27	7	EPCAM+
+EPCAMTrop2high_2_28	7	EPCAM+
+EPCAMTrop2high_2_29	4	EPCAM+
+EPCAMTrop2high_2_30	4	EPCAM+
+EPCAMTrop2high_2_31	7	EPCAM+
+EPCAMTrop2high_2_32	7	EPCAM+
+EPCAMTrop2high_2_33	7	EPCAM+
+EPCAMTrop2high_2_35	4	EPCAM+
+EPCAMTrop2high_2_36	7	EPCAM+
+EPCAMTrop2high_2_37	7	EPCAM+
+EPCAMTrop2high_2_38	4	EPCAM+
+EPCAMTrop2high_2_39	4	EPCAM+
+EPCAMTrop2high_2_40	7	EPCAM+
+EPCAMTrop2high_2_41	7	EPCAM+
+EPCAMTrop2high_2_42	7	EPCAM+
+EPCAMTrop2high_2_43	4	EPCAM+
+EPCAMTrop2high_2_44	7	EPCAM+
+EPCAMTrop2high_2_45	7	EPCAM+
+EPCAMTrop2high_2_46	4	EPCAM+
+EPCAMTrop2high_2_47	7	EPCAM+
+EPCAMTrop2high_2_48	7	EPCAM+
+EPCAMTrop2high_2_49	7	EPCAM+
+EPCAMTrop2high_2_50	7	EPCAM+
+EPCAMTrop2high_2_51	4	EPCAM+
+EPCAMTrop2high_2_52	4	EPCAM+
+EPCAMTrop2high_2_53	7	EPCAM+
+EPCAMTrop2high_2_55	7	EPCAM+
+EPCAMTrop2high_2_56	7	EPCAM+
+EPCAMTrop2high_2_57	11	Hepatocytes
+EPCAMTrop2high_2_58	7	EPCAM+
+EPCAMTrop2high_2_59	4	EPCAM+
+EPCAMTrop2high_2_60	4	EPCAM+
+EPCAMTrop2high_2_61	4	EPCAM+
+EPCAMTrop2high_2_62	7	EPCAM+
+EPCAMTrop2high_2_63	4	EPCAM+
+EPCAMTrop2high_2_64	4	EPCAM+
+EPCAMTrop2high_2_129	7	EPCAM+
+EPCAMTrop2high_2_130	7	EPCAM+
+EPCAMTrop2high_2_131	7	EPCAM+
+EPCAMTrop2high_2_132	4	EPCAM+
+EPCAMTrop2high_2_133	4	EPCAM+
+EPCAMTrop2high_2_134	4	EPCAM+
+EPCAMTrop2high_2_135	7	EPCAM+
+EPCAMTrop2high_2_136	4	EPCAM+
+EPCAMTrop2high_2_137	7	EPCAM+
+EPCAMTrop2high_2_138	7	EPCAM+
+EPCAMTrop2high_2_139	4	EPCAM+
+EPCAMTrop2high_2_140	7	EPCAM+
+EPCAMTrop2high_2_141	7	EPCAM+
+EPCAMTrop2high_2_142	7	EPCAM+
+EPCAMTrop2high_2_143	4	EPCAM+
+EPCAMTrop2high_2_144	7	EPCAM+
+EPCAMTrop2high_2_145	4	EPCAM+
+EPCAMTrop2high_2_146	4	EPCAM+
+EPCAMTrop2high_2_147	4	EPCAM+
+EPCAMTrop2high_2_148	7	EPCAM+
+EPCAMTrop2high_2_149	7	EPCAM+
+EPCAMTrop2high_2_151	7	EPCAM+
+EPCAMTrop2high_2_152	7	EPCAM+
+EPCAMTrop2high_2_153	4	EPCAM+
+EPCAMTrop2high_2_154	24	EPCAM+
+EPCAMTrop2high_2_155	7	EPCAM+
+EPCAMTrop2high_2_156	11	Hepatocytes
+EPCAMTrop2high_2_157	7	EPCAM+
+EPCAMTrop2high_2_158	7	EPCAM+
+EPCAMTrop2high_2_159	4	EPCAM+
+EPCAMTrop2high_2_160	7	EPCAM+
+EPCAMTrop2high_2_161	7	EPCAM+
+EPCAMTrop2high_2_162	7	EPCAM+
+EPCAMTrop2high_2_163	4	EPCAM+
+EPCAMTrop2high_2_164	7	EPCAM+
+EPCAMTrop2high_2_165	4	EPCAM+
+EPCAMTrop2high_2_166	4	EPCAM+
+EPCAMTrop2high_2_167	4	EPCAM+
+EPCAMTrop2high_2_168	7	EPCAM+
+EPCAMTrop2high_2_170	7	EPCAM+
+EPCAMTrop2high_2_171	7	EPCAM+
+EPCAMTrop2high_2_172	4	EPCAM+
+EPCAMTrop2high_2_173	4	EPCAM+
+EPCAMTrop2high_2_174	7	EPCAM+
+EPCAMTrop2high_2_175	7	EPCAM+
+EPCAMTrop2high_2_176	7	EPCAM+
+EPCAMTrop2high_2_177	4	EPCAM+
+EPCAMTrop2high_2_178	7	EPCAM+
+EPCAMTrop2high_2_179	7	EPCAM+
+EPCAMTrop2high_2_180	4	EPCAM+
+EPCAMTrop2high_2_181	7	EPCAM+
+EPCAMTrop2high_2_182	7	EPCAM+
+EPCAMTrop2high_2_183	7	EPCAM+
+EPCAMTrop2high_2_184	7	EPCAM+
+EPCAMTrop2high_2_185	7	EPCAM+
+EPCAMTrop2high_2_186	7	EPCAM+
+EPCAMTrop2high_2_187	7	EPCAM+
+EPCAMTrop2high_2_188	4	EPCAM+
+EPCAMTrop2high_2_189	7	EPCAM+
+EPCAMTrop2high_2_190	7	EPCAM+
+EPCAMTrop2high_2_191	4	EPCAM+
+EPCAMTrop2high_2_192	7	EPCAM+
+EPCAMTrop2int_1_2	4	EPCAM+
+EPCAMTrop2int_1_3	4	EPCAM+
+EPCAMTrop2int_1_4	7	EPCAM+
+EPCAMTrop2int_1_5	7	EPCAM+
+EPCAMTrop2int_1_6	4	EPCAM+
+EPCAMTrop2int_1_7	4	EPCAM+
+EPCAMTrop2int_1_8	4	EPCAM+
+EPCAMTrop2int_1_9	11	Hepatocytes
+EPCAMTrop2int_1_10	7	EPCAM+
+EPCAMTrop2int_1_11	4	EPCAM+
+EPCAMTrop2int_1_12	4	EPCAM+
+EPCAMTrop2int_1_14	4	EPCAM+
+EPCAMTrop2int_1_15	4	EPCAM+
+EPCAMTrop2int_1_16	4	EPCAM+
+EPCAMTrop2int_1_17	7	EPCAM+
+EPCAMTrop2int_1_18	4	EPCAM+
+EPCAMTrop2int_1_19	4	EPCAM+
+EPCAMTrop2int_1_20	7	EPCAM+
+EPCAMTrop2int_1_21	4	EPCAM+
+EPCAMTrop2int_1_22	4	EPCAM+
+EPCAMTrop2int_1_23	4	EPCAM+
+EPCAMTrop2int_1_24	7	EPCAM+
+EPCAMTrop2int_1_25	4	EPCAM+
+EPCAMTrop2int_1_26	4	EPCAM+
+EPCAMTrop2int_1_28	4	EPCAM+
+EPCAMTrop2int_1_30	4	EPCAM+
+EPCAMTrop2int_1_31	4	EPCAM+
+EPCAMTrop2int_1_32	4	EPCAM+
+EPCAMTrop2int_1_33	7	EPCAM+
+EPCAMTrop2int_1_34	4	EPCAM+
+EPCAMTrop2int_1_35	4	EPCAM+
+EPCAMTrop2int_1_36	4	EPCAM+
+EPCAMTrop2int_1_37	4	EPCAM+
+EPCAMTrop2int_1_38	4	EPCAM+
+EPCAMTrop2int_1_39	4	EPCAM+
+EPCAMTrop2int_1_40	4	EPCAM+
+EPCAMTrop2int_1_41	4	EPCAM+
+EPCAMTrop2int_1_43	4	EPCAM+
+EPCAMTrop2int_1_44	4	EPCAM+
+EPCAMTrop2int_1_45	7	EPCAM+
+EPCAMTrop2int_1_46	7	EPCAM+
+EPCAMTrop2int_1_47	4	EPCAM+
+EPCAMTrop2int_1_50	4	EPCAM+
+EPCAMTrop2int_1_51	4	EPCAM+
+EPCAMTrop2int_1_52	4	EPCAM+
+EPCAMTrop2int_1_53	4	EPCAM+
+EPCAMTrop2int_1_54	4	EPCAM+
+EPCAMTrop2int_1_55	4	EPCAM+
+EPCAMTrop2int_1_56	4	EPCAM+
+EPCAMTrop2int_1_59	4	EPCAM+
+EPCAMTrop2int_1_60	4	EPCAM+
+EPCAMTrop2int_1_61	11	Hepatocytes
+EPCAMTrop2int_1_62	4	EPCAM+
+EPCAMTrop2int_1_63	4	EPCAM+
+EPCAMTrop2int_1_64	7	EPCAM+
+EPCAMTrop2int_1_66	4	EPCAM+
+EPCAMTrop2int_1_67	4	EPCAM+
+EPCAMTrop2int_1_68	4	EPCAM+
+EPCAMTrop2int_1_69	4	EPCAM+
+EPCAMTrop2int_1_70	4	EPCAM+
+EPCAMTrop2int_1_71	4	EPCAM+
+EPCAMTrop2int_1_72	4	EPCAM+
+EPCAMTrop2int_1_73	7	EPCAM+
+EPCAMTrop2int_1_74	4	EPCAM+
+EPCAMTrop2int_1_75	4	EPCAM+
+EPCAMTrop2int_1_76	11	Hepatocytes
+EPCAMTrop2int_1_77	4	EPCAM+
+EPCAMTrop2int_1_78	4	EPCAM+
+EPCAMTrop2int_1_79	4	EPCAM+
+EPCAMTrop2int_1_80	4	EPCAM+
+EPCAMTrop2int_1_81	4	EPCAM+
+EPCAMTrop2int_1_83	4	EPCAM+
+EPCAMTrop2int_1_84	4	EPCAM+
+EPCAMTrop2int_1_85	4	EPCAM+
+EPCAMTrop2int_1_86	4	EPCAM+
+EPCAMTrop2int_1_87	4	EPCAM+
+EPCAMTrop2int_1_88	4	EPCAM+
+EPCAMTrop2int_1_92	4	EPCAM+
+EPCAMTrop2int_1_93	4	EPCAM+
+EPCAMTrop2int_1_94	7	EPCAM+
+EPCAMTrop2int_1_95	4	EPCAM+
+EPCAMTrop2int_1_96	4	EPCAM+
+EPCAMTrop2int_1_97	7	EPCAM+
+EPCAMTrop2int_1_98	4	EPCAM+
+EPCAMTrop2int_1_99	4	EPCAM+
+EPCAMTrop2int_1_100	4	EPCAM+
+EPCAMTrop2int_1_101	4	EPCAM+
+EPCAMTrop2int_1_102	4	EPCAM+
+EPCAMTrop2int_1_103	4	EPCAM+
+EPCAMTrop2int_1_104	7	EPCAM+
+EPCAMTrop2int_1_105	4	EPCAM+
+EPCAMTrop2int_1_106	4	EPCAM+
+EPCAMTrop2int_1_107	4	EPCAM+
+EPCAMTrop2int_1_108	4	EPCAM+
+EPCAMTrop2int_1_109	4	EPCAM+
+EPCAMTrop2int_1_110	4	EPCAM+
+EPCAMTrop2int_1_111	4	EPCAM+
+EPCAMTrop2int_1_112	4	EPCAM+
+EPCAMTrop2int_1_113	4	EPCAM+
+EPCAMTrop2int_1_114	4	EPCAM+
+EPCAMTrop2int_1_115	4	EPCAM+
+EPCAMTrop2int_1_116	4	EPCAM+
+EPCAMTrop2int_1_117	4	EPCAM+
+EPCAMTrop2int_1_118	4	EPCAM+
+EPCAMTrop2int_1_119	4	EPCAM+
+EPCAMTrop2int_1_120	4	EPCAM+
+EPCAMTrop2int_1_121	4	EPCAM+
+EPCAMTrop2int_1_122	4	EPCAM+
+EPCAMTrop2int_1_123	4	EPCAM+
+EPCAMTrop2int_1_124	4	EPCAM+
+EPCAMTrop2int_1_125	7	EPCAM+
+EPCAMTrop2int_1_126	4	EPCAM+
+EPCAMTrop2int_1_127	4	EPCAM+
+EPCAMTrop2int_1_128	4	EPCAM+
+EPCAMTrop2low_3_65	4	EPCAM+
+EPCAMTrop2low_3_66	11	Hepatocytes
+EPCAMTrop2low_3_67	4	EPCAM+
+EPCAMTrop2low_3_68	4	EPCAM+
+EPCAMTrop2low_3_69	4	EPCAM+
+EPCAMTrop2low_3_70	4	EPCAM+
+EPCAMTrop2low_3_72	4	EPCAM+
+EPCAMTrop2low_3_73	4	EPCAM+
+EPCAMTrop2low_3_74	11	Hepatocytes
+EPCAMTrop2low_3_75	4	EPCAM+
+EPCAMTrop2low_3_76	4	EPCAM+
+EPCAMTrop2low_3_77	4	EPCAM+
+EPCAMTrop2low_3_78	4	EPCAM+
+EPCAMTrop2low_3_79	4	EPCAM+
+EPCAMTrop2low_3_80	4	EPCAM+
+EPCAMTrop2low_3_81	4	EPCAM+
+EPCAMTrop2low_3_83	11	Hepatocytes
+EPCAMTrop2low_3_84	4	EPCAM+
+EPCAMTrop2low_3_86	4	EPCAM+
+EPCAMTrop2low_3_87	4	EPCAM+
+EPCAMTrop2low_3_88	4	EPCAM+
+EPCAMTrop2low_3_89	11	Hepatocytes
+EPCAMTrop2low_3_90	4	EPCAM+
+EPCAMTrop2low_3_91	4	EPCAM+
+EPCAMTrop2low_3_92	4	EPCAM+
+EPCAMTrop2low_3_93	4	EPCAM+
+EPCAMTrop2low_3_95	4	EPCAM+
+EPCAMTrop2low_3_96	4	EPCAM+
+EPCAMTrop2low_3_97	4	EPCAM+
+EPCAMTrop2low_3_98	4	EPCAM+
+EPCAMTrop2low_3_99	4	EPCAM+
+EPCAMTrop2low_3_100	4	EPCAM+
+EPCAMTrop2low_3_101	4	EPCAM+
+EPCAMTrop2low_3_102	4	EPCAM+
+EPCAMTrop2low_3_103	4	EPCAM+
+EPCAMTrop2low_3_105	4	EPCAM+
+EPCAMTrop2low_3_106	4	EPCAM+
+EPCAMTrop2low_3_107	4	EPCAM+
+EPCAMTrop2low_3_108	4	EPCAM+
+EPCAMTrop2low_3_109	4	EPCAM+
+EPCAMTrop2low_3_110	4	EPCAM+
+EPCAMTrop2low_3_111	4	EPCAM+
+EPCAMTrop2low_3_112	4	EPCAM+
+EPCAMTrop2low_3_113	4	EPCAM+
+EPCAMTrop2low_3_114	4	EPCAM+
+EPCAMTrop2low_3_115	4	EPCAM+
+EPCAMTrop2low_3_117	4	EPCAM+
+EPCAMTrop2low_3_118	4	EPCAM+
+EPCAMTrop2low_3_119	4	EPCAM+
+EPCAMTrop2low_3_120	4	EPCAM+
+EPCAMTrop2low_3_121	11	Hepatocytes
+EPCAMTrop2low_3_122	4	EPCAM+
+EPCAMTrop2low_3_123	4	EPCAM+
+EPCAMTrop2low_3_125	4	EPCAM+
+EPCAMTrop2low_3_126	4	EPCAM+
+EPCAMTrop2low_3_127	4	EPCAM+
+EPCAMTrop2low_3_128	4	EPCAM+
+EPCAMTrop2low_3_129	4	EPCAM+
+EPCAMTrop2low_3_130	4	EPCAM+
+EPCAMTrop2low_3_131	11	Hepatocytes
+EPCAMTrop2low_3_132	11	Hepatocytes
+EPCAMTrop2low_3_133	4	EPCAM+
+EPCAMTrop2low_3_134	4	EPCAM+
+EPCAMTrop2low_3_135	4	EPCAM+
+EPCAMTrop2low_3_136	11	Hepatocytes
+EPCAMTrop2low_3_137	4	EPCAM+
+EPCAMTrop2low_3_138	7	EPCAM+
+EPCAMTrop2low_3_139	4	EPCAM+
+EPCAMTrop2low_3_141	4	EPCAM+
+EPCAMTrop2low_3_142	4	EPCAM+
+EPCAMTrop2low_3_143	4	EPCAM+
+EPCAMTrop2low_3_144	4	EPCAM+
+EPCAMTrop2low_3_145	4	EPCAM+
+EPCAMTrop2low_3_146	4	EPCAM+
+EPCAMTrop2low_3_147	4	EPCAM+
+EPCAMTrop2low_3_148	11	Hepatocytes
+EPCAMTrop2low_3_150	4	EPCAM+
+EPCAMTrop2low_3_151	4	EPCAM+
+EPCAMTrop2low_3_152	4	EPCAM+
+EPCAMTrop2low_3_155	6	Kupffer cell
+EPCAMTrop2low_3_156	4	EPCAM+
+EPCAMTrop2low_3_157	4	EPCAM+
+EPCAMTrop2low_3_158	4	EPCAM+
+EPCAMTrop2low_3_159	4	EPCAM+
+EPCAMTrop2low_3_161	7	EPCAM+
+EPCAMTrop2low_3_162	4	EPCAM+
+EPCAMTrop2low_3_163	4	EPCAM+
+EPCAMTrop2low_3_164	11	Hepatocytes
+EPCAMTrop2low_3_165	4	EPCAM+
+EPCAMTrop2low_3_166	4	EPCAM+
+EPCAMTrop2low_3_167	4	EPCAM+
+EPCAMTrop2low_3_168	4	EPCAM+
+EPCAMTrop2low_3_169	4	EPCAM+
+EPCAMTrop2low_3_170	4	EPCAM+
+EPCAMTrop2low_3_171	4	EPCAM+
+EPCAMTrop2low_3_172	4	EPCAM+
+EPCAMTrop2low_3_173	4	EPCAM+
+EPCAMTrop2low_3_174	4	EPCAM+
+EPCAMTrop2low_3_175	4	EPCAM+
+EPCAMTrop2low_3_176	4	EPCAM+
+EPCAMTrop2low_3_177	4	EPCAM+
+EPCAMTrop2low_3_178	4	EPCAM+
+EPCAMTrop2low_3_179	4	EPCAM+
+EPCAMTrop2low_3_180	4	EPCAM+
+EPCAMTrop2low_3_181	4	EPCAM+
+EPCAMTrop2low_3_182	7	EPCAM+
+EPCAMTrop2low_3_183	4	EPCAM+
+EPCAMTrop2low_3_185	4	EPCAM+
+EPCAMTrop2low_3_186	4	EPCAM+
+EPCAMTrop2low_3_187	4	EPCAM+
+EPCAMTrop2low_3_188	7	EPCAM+
+EPCAMTrop2low_3_189	4	EPCAM+
+EPCAMTrop2low_3_190	4	EPCAM+
+EPCAMTrop2low_3_191	11	Hepatocytes
+EPCAMTrop2low_3_192	4	EPCAM+
+EPCAMhigh325_14_14	17	Hepatocytes
+EPCAMint325325_13_21	14	Hepatocytes
+EPCAMlow325_15_138	4	EPCAM+
+EPCAMlow325_15_176	11	Hepatocytes
+Epcampos315_1_3	4	EPCAM+
+Epcampos315_1_4	4	EPCAM+
+Epcampos315_1_5	7	EPCAM+
+Epcampos315_1_6	7	EPCAM+
+Epcampos315_1_7	4	EPCAM+
+Epcampos315_1_10	7	EPCAM+
+Epcampos315_1_11	4	EPCAM+
+Epcampos315_1_12	4	EPCAM+
+Epcampos315_1_13	4	EPCAM+
+Epcampos315_1_15	4	EPCAM+
+Epcampos315_1_17	4	EPCAM+
+Epcampos315_1_18	4	EPCAM+
+Epcampos315_1_20	4	EPCAM+
+Epcampos315_1_21	4	EPCAM+
+Epcampos315_1_22	7	EPCAM+
+Epcampos315_1_23	4	EPCAM+
+Epcampos315_1_24	4	EPCAM+
+Epcampos315_1_25	4	EPCAM+
+Epcampos315_1_26	4	EPCAM+
+Epcampos315_1_28	4	EPCAM+
+Epcampos315_1_30	7	EPCAM+
+Epcampos315_1_31	4	EPCAM+
+Epcampos315_1_33	4	EPCAM+
+Epcampos315_1_34	7	EPCAM+
+Epcampos315_1_36	4	EPCAM+
+Epcampos315_1_39	4	EPCAM+
+Epcampos315_1_41	4	EPCAM+
+Epcampos315_1_43	4	EPCAM+
+Epcampos315_1_44	4	EPCAM+
+Epcampos315_1_46	4	EPCAM+
+Epcampos315_1_47	24	EPCAM+
+Epcampos315_1_48	4	EPCAM+
+Epcampos315_1_51	4	EPCAM+
+Epcampos315_1_52	7	EPCAM+
+Epcampos315_1_53	7	EPCAM+
+Epcampos315_1_57	4	EPCAM+
+Epcampos315_1_58	4	EPCAM+
+Epcampos315_1_59	4	EPCAM+
+Epcampos315_1_60	4	EPCAM+
+Epcampos315_1_61	4	EPCAM+
+Epcampos315_1_62	4	EPCAM+
+Epcampos315_1_63	4	EPCAM+
+Epcampos315_1_64	7	EPCAM+
+Epcampos315_1_65	7	EPCAM+
+Epcampos315_1_66	4	EPCAM+
+Epcampos315_1_68	4	EPCAM+
+Epcampos315_1_69	4	EPCAM+
+Epcampos315_1_71	7	EPCAM+
+Epcampos315_1_72	7	EPCAM+
+Epcampos315_1_73	4	EPCAM+
+Epcampos315_1_74	7	EPCAM+
+Epcampos315_1_75	7	EPCAM+
+Epcampos315_1_76	24	EPCAM+
+Epcampos315_1_77	4	EPCAM+
+Epcampos315_1_78	4	EPCAM+
+Epcampos315_1_80	7	EPCAM+
+Epcampos315_1_82	4	EPCAM+
+Epcampos315_1_83	4	EPCAM+
+Epcampos315_1_84	7	EPCAM+
+Epcampos315_1_86	7	EPCAM+
+Epcampos315_1_87	7	EPCAM+
+Epcampos315_1_89	4	EPCAM+
+Epcampos315_1_90	4	EPCAM+
+Epcampos315_1_91	7	EPCAM+
+Epcampos315_1_92	7	EPCAM+
+Epcampos315_1_93	4	EPCAM+
+Epcampos315_1_94	4	EPCAM+
+Epcampos315_4_97	4	EPCAM+
+Epcampos315_4_98	4	EPCAM+
+Epcampos315_4_99	4	EPCAM+
+Epcampos315_4_100	7	EPCAM+
+Epcampos315_4_101	4	EPCAM+
+Epcampos315_4_102	13	LSEC
+Epcampos315_4_105	7	EPCAM+
+Epcampos315_4_107	4	EPCAM+
+Epcampos315_4_109	7	EPCAM+
+Epcampos315_4_110	7	EPCAM+
+Epcampos315_4_111	4	EPCAM+
+Epcampos315_4_112	4	EPCAM+
+Epcampos315_4_114	7	EPCAM+
+Epcampos315_4_115	4	EPCAM+
+Epcampos315_4_116	4	EPCAM+
+Epcampos315_4_117	7	EPCAM+
+Epcampos315_4_118	7	EPCAM+
+Epcampos315_4_119	4	EPCAM+
+Epcampos315_4_120	7	EPCAM+
+Epcampos315_4_121	7	EPCAM+
+Epcampos315_4_122	4	EPCAM+
+Epcampos315_4_123	7	EPCAM+
+Epcampos315_4_124	4	EPCAM+
+Epcampos315_4_125	4	EPCAM+
+Epcampos315_4_127	4	EPCAM+
+Epcampos315_4_128	7	EPCAM+
+Epcampos315_4_129	9	LSEC
+Epcampos315_4_130	4	EPCAM+
+Epcampos315_4_131	4	EPCAM+
+Epcampos315_4_134	7	EPCAM+
+Epcampos315_4_135	7	EPCAM+
+Epcampos315_4_136	4	EPCAM+
+Epcampos315_4_137	7	EPCAM+
+Epcampos315_4_139	4	EPCAM+
+Epcampos315_4_140	7	EPCAM+
+Epcampos315_4_141	4	EPCAM+
+Epcampos315_4_142	7	EPCAM+
+Epcampos315_4_143	17	Hepatocytes
+Epcampos315_4_144	7	EPCAM+
+Epcampos315_4_146	4	EPCAM+
+Epcampos315_4_147	7	EPCAM+
+Epcampos315_4_149	7	EPCAM+
+Epcampos315_4_150	4	EPCAM+
+Epcampos315_4_151	7	EPCAM+
+Epcampos315_4_153	4	EPCAM+
+Epcampos315_4_154	7	EPCAM+
+Epcampos315_4_155	4	EPCAM+
+Epcampos315_4_157	7	EPCAM+
+Epcampos315_4_158	4	EPCAM+
+Epcampos315_4_159	13	LSEC
+Epcampos315_4_160	4	EPCAM+
+Epcampos315_4_162	4	EPCAM+
+Epcampos315_4_163	7	EPCAM+
+Epcampos315_4_165	4	EPCAM+
+Epcampos315_4_166	7	EPCAM+
+Epcampos315_4_168	7	EPCAM+
+Epcampos315_4_169	4	EPCAM+
+Epcampos315_4_170	4	EPCAM+
+Epcampos315_4_171	4	EPCAM+
+Epcampos315_4_172	4	EPCAM+
+Epcampos315_4_173	7	EPCAM+
+Epcampos315_4_174	7	EPCAM+
+Epcampos315_4_175	4	EPCAM+
+Epcampos315_4_176	7	EPCAM+
+Epcampos315_4_177	7	EPCAM+
+Epcampos315_4_180	7	EPCAM+
+Epcampos315_4_185	7	EPCAM+
+Epcampos315_4_186	7	EPCAM+
+Epcampos315_4_188	4	EPCAM+
+Epcampos315_4_189	7	EPCAM+
+Epcampos315_4_191	24	EPCAM+
+Epcampos315_4_192	7	EPCAM+
+LSEC304_1_21	9	LSEC
+LSEC304_1_22	2	Kupffer cell
+LSEC304_1_27	2	Kupffer cell
+LSEC304_1_28	23	Kupffer cell
+LSEC304_1_31	14	Hepatocytes
+LSEC304_1_44	2	Kupffer cell
+LSEC304_1_45	6	Kupffer cell
+LSEC304_1_69	2	Kupffer cell
+LSEC304_1_80	17	Hepatocytes
+LSEC304_2_100	23	Kupffer cell
+LSEC304_2_102	14	Hepatocytes
+LSEC304_2_104	14	Hepatocytes
+LSEC304_2_110	14	Hepatocytes
+LSEC304_2_115	14	Hepatocytes
+LSEC304_2_116	6	Kupffer cell
+LSEC304_2_119	14	Hepatocytes
+LSEC304_2_120	14	Hepatocytes
+LSEC304_2_125	17	Hepatocytes
+LSEC304_2_137	14	Hepatocytes
+LSEC304_2_143	11	Hepatocytes
+LSEC304_2_147	11	Hepatocytes
+LSEC304_2_149	14	Hepatocytes
+LSEC304_2_150	9	LSEC
+LSEC304_2_151	2	Kupffer cell
+LSEC304_2_153	14	Hepatocytes
+LSEC304_2_156	23	Kupffer cell
+LSEC304_2_157	9	LSEC
+LSEC304_2_159	9	LSEC
+LSEC304_2_162	14	Hepatocytes
+LSEC304_2_170	14	Hepatocytes
+LSEC304_2_176	13	LSEC
+LSEC304_2_181	14	Hepatocytes
+LSEC304_2_185	9	LSEC
+LSEC304_2_191	13	LSEC
+LSEC304_3_2	13	LSEC
+LSEC304_3_4	23	Kupffer cell
+LSEC304_3_8	31	Kupffer cell
+LSEC304_3_19	9	LSEC
+LSEC304_3_25	9	LSEC
+LSEC304_3_37	31	Kupffer cell
+LSEC304_3_72	25	Kupffer cell
+LSEC304_3_76	14	Hepatocytes
+LSEC304_3_83	14	Hepatocytes
+LSEC304_3_91	6	Kupffer cell
+LSEC304_3_93	11	Hepatocytes
+LSEC304_3_94	2	Kupffer cell
+LSEC304_4_104	14	Hepatocytes
+LSEC304_4_118	9	LSEC
+LSEC304_4_128	6	Kupffer cell
+LSEC304_4_129	9	LSEC
+LSEC304_4_131	23	Kupffer cell
+LSEC304_4_137	14	Hepatocytes
+LSEC304_4_140	14	Hepatocytes
+LSEC304_4_148	2	Kupffer cell
+LSEC304_4_154	14	Hepatocytes
+LSEC304_4_156	13	LSEC
+LSEC304_4_163	20	LSEC
+LSEC304_4_176	9	LSEC
+LSEC304_4_180	14	Hepatocytes
+LSEC304_4_186	14	Hepatocytes
+LSEC325_13_6	9	LSEC
+LSEC325_13_9	13	LSEC
+LSEC325_13_14	13	LSEC
+LSEC325_13_16	13	LSEC
+LSEC325_13_17	9	LSEC
+LSEC325_13_18	13	LSEC
+LSEC325_13_19	9	LSEC
+LSEC325_13_22	9	LSEC
+LSEC325_13_25	13	LSEC
+LSEC325_13_27	13	LSEC
+LSEC325_13_28	9	LSEC
+LSEC325_13_30	9	LSEC
+LSEC325_13_32	13	LSEC
+LSEC325_13_36	13	LSEC
+LSEC325_13_38	13	LSEC
+LSEC325_13_39	9	LSEC
+LSEC325_13_46	6	Kupffer cell
+LSEC325_13_51	9	LSEC
+LSEC325_13_60	9	LSEC
+LSEC325_13_69	13	LSEC
+LSEC325_13_71	9	LSEC
+LSEC325_13_72	17	Hepatocytes
+LSEC325_13_75	13	LSEC
+LSEC325_13_79	13	LSEC
+LSEC325_13_83	13	LSEC
+LSEC325_13_86	13	LSEC
+LSEC325_13_90	9	LSEC
+LSEC325_14_97	9	LSEC
+LSEC325_14_100	30	Hepatocytes
+LSEC325_14_103	13	LSEC
+LSEC325_14_112	13	LSEC
+LSEC325_14_113	9	LSEC
+LSEC325_14_114	13	LSEC
+LSEC325_14_127	9	LSEC
+LSEC325_14_132	13	LSEC
+LSEC325_14_137	13	LSEC
+LSEC325_14_138	13	LSEC
+LSEC325_14_144	31	Kupffer cell
+LSEC325_14_145	9	LSEC
+LSEC325_14_148	9	LSEC
+LSEC325_14_152	13	LSEC
+LSEC325_14_153	13	LSEC
+LSEC325_14_155	13	LSEC
+LSEC325_14_157	9	LSEC
+LSEC325_14_159	13	LSEC
+LSEC325_14_161	9	LSEC
+LSEC325_14_164	13	LSEC
+LSEC325_14_166	13	LSEC
+LSEC325_14_168	14	Hepatocytes
+LSEC325_14_175	13	LSEC
+LSEC325_14_176	2	Kupffer cell
+LSEC325_14_177	9	LSEC
+LSEC325_14_179	13	LSEC
+LSEC325_14_183	13	LSEC
+LSEC325_14_186	9	LSEC
+LSEC325_14_188	9	LSEC
+LSEC325_14_190	13	LSEC
+LSEC325_15_12	11	Hepatocytes
+LSEC325_15_20	13	LSEC
+LSEC325_15_26	2	Kupffer cell
+LSEC325_15_36	9	LSEC
+LSEC325_15_43	13	LSEC
+LSEC325_15_54	14	Hepatocytes
+LSEC325_15_57	9	LSEC
+LSEC325_15_66	9	LSEC
+LSEC325_15_73	20	LSEC
+LSEC325_15_80	9	LSEC
+LSEC325_15_92	13	LSEC
+LSEC325_16_98	20	LSEC
+LSEC325_16_108	13	LSEC
+LSEC325_16_110	13	LSEC
+LSEC325_16_111	2	Kupffer cell
+LSEC325_16_113	17	Hepatocytes
+LSEC325_16_122	13	LSEC
+LSEC325_16_136	9	LSEC
+LSEC325_16_138	13	LSEC
+LSEC325_16_143	9	LSEC
+LSEC325_16_144	9	LSEC
+LSEC325_16_148	11	Hepatocytes
+LSEC325_16_149	13	LSEC
+LSEC325_16_154	13	LSEC
+LSEC325_16_157	23	Kupffer cell
+LSEC325_16_159	13	LSEC
+LSEC325_16_172	13	LSEC
+LSEC325_16_173	13	LSEC
+LSEC325_16_179	13	LSEC
+LSEC325_16_180	13	LSEC
+LSEC325_16_185	13	LSEC
+LSECfresh_10_99	13	LSEC
+LSECfresh_10_100	20	LSEC
+LSECfresh_10_103	13	LSEC
+LSECfresh_10_104	9	LSEC
+LSECfresh_10_108	13	LSEC
+LSECfresh_10_109	6	Kupffer cell
+LSECfresh_10_110	9	LSEC
+LSECfresh_10_116	13	LSEC
+LSECfresh_10_117	20	LSEC
+LSECfresh_10_119	9	LSEC
+LSECfresh_10_121	13	LSEC
+LSECfresh_10_123	13	LSEC
+LSECfresh_10_128	6	Kupffer cell
+LSECfresh_10_129	7	EPCAM+
+LSECfresh_10_130	13	LSEC
+LSECfresh_10_134	2	Kupffer cell
+LSECfresh_10_136	11	Hepatocytes
+LSECfresh_10_137	6	Kupffer cell
+LSECfresh_10_138	13	LSEC
+LSECfresh_10_139	13	LSEC
+LSECfresh_10_141	13	LSEC
+LSECfresh_10_145	9	LSEC
+LSECfresh_10_147	4	EPCAM+
+LSECfresh_10_148	13	LSEC
+LSECfresh_10_149	23	Kupffer cell
+LSECfresh_10_151	17	Hepatocytes
+LSECfresh_10_154	13	LSEC
+LSECfresh_10_156	13	LSEC
+LSECfresh_10_157	6	Kupffer cell
+LSECfresh_10_158	13	LSEC
+LSECfresh_10_160	13	LSEC
+LSECfresh_10_161	13	LSEC
+LSECfresh_10_162	13	LSEC
+LSECfresh_10_163	13	LSEC
+LSECfresh_10_166	13	LSEC
+LSECfresh_10_168	9	LSEC
+LSECfresh_10_169	13	LSEC
+LSECfresh_10_171	13	LSEC
+LSECfresh_10_172	13	LSEC
+LSECfresh_10_180	13	LSEC
+LSECfresh_10_181	6	Kupffer cell
+LSECfresh_10_184	9	LSEC
+LSECfresh_10_185	13	LSEC
+LSECfresh_10_186	13	LSEC
+LSECfresh_10_187	13	LSEC
+LSECfresh_10_188	11	Hepatocytes
+LSECfresh_10_189	7	EPCAM+
+LSECfresh_10_191	6	Kupffer cell
+LSECfresh_11_9	13	LSEC
+LSECfresh_11_10	23	Kupffer cell
+LSECfresh_11_11	9	LSEC
+LSECfresh_11_14	13	LSEC
+LSECfresh_11_15	9	LSEC
+LSECfresh_11_17	13	LSEC
+LSECfresh_11_20	13	LSEC
+LSECfresh_11_21	4	EPCAM+
+LSECfresh_11_23	13	LSEC
+LSECfresh_11_28	13	LSEC
+LSECfresh_11_31	23	Kupffer cell
+LSECfresh_11_32	13	LSEC
+LSECfresh_11_36	13	LSEC
+LSECfresh_11_51	9	LSEC
+LSECfresh_11_52	13	LSEC
+LSECfresh_11_55	13	LSEC
+LSECfresh_11_56	13	LSEC
+LSECfresh_11_57	13	LSEC
+LSECfresh_11_59	13	LSEC
+LSECfresh_11_61	13	LSEC
+LSECfresh_11_64	13	LSEC
+LSECfresh_11_67	2	Kupffer cell
+LSECfresh_11_70	13	LSEC
+LSECfresh_11_71	13	LSEC
+LSECfresh_11_78	13	LSEC
+LSECfresh_11_84	13	LSEC
+LSECfresh_11_88	9	LSEC
+LSECfresh_11_89	13	LSEC
+LSECfresh_11_90	13	LSEC
+LSECfresh_11_91	13	LSEC
+LSECfresh_11_92	13	LSEC
+LSECfresh_11_94	9	LSEC
+LSECfresh_12_98	13	LSEC
+LSECfresh_12_103	6	Kupffer cell
+LSECfresh_12_104	6	Kupffer cell
+LSECfresh_12_106	13	LSEC
+LSECfresh_12_107	13	LSEC
+LSECfresh_12_108	13	LSEC
+LSECfresh_12_109	13	LSEC
+LSECfresh_12_110	13	LSEC
+LSECfresh_12_114	13	LSEC
+LSECfresh_12_116	13	LSEC
+LSECfresh_12_120	13	LSEC
+LSECfresh_12_121	13	LSEC
+LSECfresh_12_122	25	Kupffer cell
+LSECfresh_12_123	13	LSEC
+LSECfresh_12_124	9	LSEC
+LSECfresh_12_127	13	LSEC
+LSECfresh_12_130	13	LSEC
+LSECfresh_12_131	13	LSEC
+LSECfresh_12_136	13	LSEC
+LSECfresh_12_137	9	LSEC
+LSECfresh_12_139	13	LSEC
+LSECfresh_12_144	13	LSEC
+LSECfresh_12_145	25	Kupffer cell
+LSECfresh_12_148	2	Kupffer cell
+LSECfresh_12_153	9	LSEC
+LSECfresh_12_155	2	Kupffer cell
+LSECfresh_12_156	13	LSEC
+LSECfresh_12_160	6	Kupffer cell
+LSECfresh_12_162	13	LSEC
+LSECfresh_12_163	13	LSEC
+LSECfresh_12_164	2	Kupffer cell
+LSECfresh_12_166	13	LSEC
+LSECfresh_12_172	9	LSEC
+LSECfresh_12_174	13	LSEC
+LSECfresh_12_175	13	LSEC
+LSECfresh_12_176	11	Hepatocytes
+LSECfresh_12_177	13	LSEC
+LSECfresh_12_178	13	LSEC
+LSECfresh_12_179	9	LSEC
+LSECfresh_12_180	13	LSEC
+LSECfresh_12_182	13	LSEC
+LSECfresh_12_184	13	LSEC
+LSECfresh_12_187	13	LSEC
+LSECfresh_12_190	13	LSEC
+LSECfresh_12_191	13	LSEC
+LSECfresh_12_192	13	LSEC
+LSECfresh_9_9	23	Kupffer cell
+LSECfresh_9_11	9	LSEC
+LSECfresh_9_15	13	LSEC
+LSECfresh_9_18	13	LSEC
+LSECfresh_9_19	13	LSEC
+LSECfresh_9_23	13	LSEC
+LSECfresh_9_24	13	LSEC
+LSECfresh_9_25	13	LSEC
+LSECfresh_9_26	13	LSEC
+LSECfresh_9_30	9	LSEC
+LSECfresh_9_33	9	LSEC
+LSECfresh_9_36	6	Kupffer cell
+LSECfresh_9_38	13	LSEC
+LSECfresh_9_40	13	LSEC
+LSECfresh_9_42	13	LSEC
+LSECfresh_9_43	13	LSEC
+LSECfresh_9_45	13	LSEC
+LSECfresh_9_47	13	LSEC
+LSECfresh_9_48	9	LSEC
+LSECfresh_9_52	9	LSEC
+LSECfresh_9_55	17	Hepatocytes
+LSECfresh_9_59	13	LSEC
+LSECfresh_9_64	4	EPCAM+
+LSECfresh_9_66	9	LSEC
+LSECfresh_9_71	13	LSEC
+LSECfresh_9_74	11	Hepatocytes
+LSECfresh_9_81	13	LSEC
+LSECfresh_9_84	13	LSEC
+LSECfresh_9_85	13	LSEC
+LSECfresh_9_88	23	Kupffer cell
+LSECfresh_9_90	9	LSEC
+LSECfresh_9_92	2	Kupffer cell
+Mixed315_10_98	14	Hepatocytes
+Mixed315_10_107	11	Hepatocytes
+Mixed315_10_117	13	LSEC
+Mixed315_10_118	31	Kupffer cell
+Mixed315_10_128	11	Hepatocytes
+Mixed315_10_140	11	Hepatocytes
+Mixed315_10_143	11	Hepatocytes
+Mixed315_10_155	13	LSEC
+Mixed315_10_162	13	LSEC
+Mixed315_10_164	11	Hepatocytes
+Mixed315_10_166	20	LSEC
+Mixed315_10_169	25	Kupffer cell
+Mixed315_10_172	6	Kupffer cell
+Mixed315_10_173	6	Kupffer cell
+Mixed315_10_175	11	Hepatocytes
+Mixed315_10_189	14	Hepatocytes
+Mixed315_11_18	2	Kupffer cell
+Mixed315_11_19	2	Kupffer cell
+Mixed315_11_36	11	Hepatocytes
+Mixed315_11_42	11	Hepatocytes
+Mixed315_11_45	6	Kupffer cell
+Mixed315_11_49	13	LSEC
+Mixed315_11_52	11	Hepatocytes
+Mixed315_11_54	14	Hepatocytes
+Mixed315_11_57	14	Hepatocytes
+Mixed315_11_62	14	Hepatocytes
+Mixed315_11_80	9	LSEC
+Mixed315_11_86	6	Kupffer cell
+Mixed315_11_87	14	Hepatocytes
+Mixed315_11_88	9	LSEC
+Mixed315_11_90	2	Kupffer cell
+Mixed315_12_104	9	LSEC
+Mixed315_12_119	13	LSEC
+Mixed315_12_125	2	Kupffer cell
+Mixed315_12_131	14	Hepatocytes
+Mixed315_12_135	17	Hepatocytes
+Mixed315_12_155	14	Hepatocytes
+Mixed315_12_157	13	LSEC
+Mixed315_12_173	2	Kupffer cell
+Mixed315_12_184	6	Kupffer cell
+Mixed315_13_8	6	Kupffer cell
+Mixed315_13_26	13	LSEC
+Mixed315_13_28	14	Hepatocytes
+Mixed315_13_29	13	LSEC
+Mixed315_13_39	13	LSEC
+Mixed315_13_44	2	Kupffer cell
+Mixed315_13_61	2	Kupffer cell
+Mixed315_13_71	13	LSEC
+Mixed315_13_82	2	Kupffer cell
+Mixed315_13_86	7	EPCAM+
+Mixed315_13_92	17	Hepatocytes
+Mixed315_13_94	2	Kupffer cell
+Mixed315_13_96	2	Kupffer cell
+Mixed315_14_114	6	Kupffer cell
+Mixed315_14_121	13	LSEC
+Mixed315_14_125	17	Hepatocytes
+Mixed315_14_127	6	Kupffer cell
+Mixed315_14_144	13	LSEC
+Mixed315_14_148	6	Kupffer cell
+Mixed315_14_182	25	Kupffer cell
+Mixed315_15_4	11	Hepatocytes
+Mixed315_15_5	2	Kupffer cell
+Mixed315_15_8	13	LSEC
+Mixed315_15_11	13	LSEC
+Mixed315_15_15	2	Kupffer cell
+Mixed315_15_36	6	Kupffer cell
+Mixed315_15_39	13	LSEC
+Mixed315_15_63	13	LSEC
+Mixed315_15_69	31	Kupffer cell
+Mixed315_15_77	25	Kupffer cell
+Mixed315_15_84	6	Kupffer cell
+Mixed315_15_90	2	Kupffer cell
+Mixed315_15_96	25	Kupffer cell
+Mixed315_16_119	6	Kupffer cell
+Mixed315_16_120	25	Kupffer cell
+Mixed315_16_128	25	Kupffer cell
+Mixed315_16_131	17	Hepatocytes
+Mixed315_16_139	6	Kupffer cell
+Mixed315_16_156	13	LSEC
+Mixed315_16_164	13	LSEC
+Mixed315_16_173	2	Kupffer cell
+Mixed315_16_175	13	LSEC
+Mixed315_9_6	13	LSEC
+Mixed315_9_8	11	Hepatocytes
+Mixed315_9_21	2	Kupffer cell
+Mixed315_9_30	9	LSEC
+Mixed315_9_33	2	Kupffer cell
+Mixed315_9_45	6	Kupffer cell
+Mixed315_9_54	17	Hepatocytes
+Mixed315_9_60	13	LSEC
+Mixed315_9_79	11	Hepatocytes
+Mixed315_9_80	2	Kupffer cell
+Mixed315_9_83	17	Hepatocytes
+Mixed315_9_87	2	Kupffer cell
+Mixed315_9_89	6	Kupffer cell
+Mixed315_9_93	6	Kupffer cell
+Mixed325_1_12	11	Hepatocytes
+Mixed325_1_13	6	Kupffer cell
+Mixed325_1_16	9	LSEC
+Mixed325_1_19	11	Hepatocytes
+Mixed325_1_28	11	Hepatocytes
+Mixed325_1_32	11	Hepatocytes
+Mixed325_1_40	11	Hepatocytes
+Mixed325_1_41	17	Hepatocytes
+Mixed325_1_42	11	Hepatocytes
+Mixed325_1_48	25	Kupffer cell
+Mixed325_1_50	30	Hepatocytes
+Mixed325_1_53	11	Hepatocytes
+Mixed325_1_59	11	Hepatocytes
+Mixed325_1_64	11	Hepatocytes
+Mixed325_1_67	11	Hepatocytes
+Mixed325_1_70	11	Hepatocytes
+Mixed325_1_73	11	Hepatocytes
+Mixed325_1_74	17	Hepatocytes
+Mixed325_1_75	11	Hepatocytes
+Mixed325_1_76	11	Hepatocytes
+Mixed325_1_77	17	Hepatocytes
+Mixed325_1_84	11	Hepatocytes
+Mixed325_1_90	11	Hepatocytes
+Mixed325_1_94	11	Hepatocytes
+Mixed325_1_96	25	Kupffer cell
+Mixed325_2_97	17	Hepatocytes
+Mixed325_2_99	17	Hepatocytes
+Mixed325_2_102	2	Kupffer cell
+Mixed325_2_104	11	Hepatocytes
+Mixed325_2_107	17	Hepatocytes
+Mixed325_2_108	17	Hepatocytes
+Mixed325_2_111	6	Kupffer cell
+Mixed325_2_112	11	Hepatocytes
+Mixed325_2_117	11	Hepatocytes
+Mixed325_2_119	2	Kupffer cell
+Mixed325_2_121	17	Hepatocytes
+Mixed325_2_122	11	Hepatocytes
+Mixed325_2_123	2	Kupffer cell
+Mixed325_2_124	11	Hepatocytes
+Mixed325_2_127	11	Hepatocytes
+Mixed325_2_128	2	Kupffer cell
+Mixed325_2_130	11	Hepatocytes
+Mixed325_2_131	11	Hepatocytes
+Mixed325_2_136	2	Kupffer cell
+Mixed325_2_141	11	Hepatocytes
+Mixed325_2_143	11	Hepatocytes
+Mixed325_2_145	11	Hepatocytes
+Mixed325_2_146	11	Hepatocytes
+Mixed325_2_153	11	Hepatocytes
+Mixed325_2_155	11	Hepatocytes
+Mixed325_2_156	11	Hepatocytes
+Mixed325_2_157	17	Hepatocytes
+Mixed325_2_162	2	Kupffer cell
+Mixed325_2_167	11	Hepatocytes
+Mixed325_2_169	11	Hepatocytes
+Mixed325_2_172	11	Hepatocytes
+Mixed325_2_174	11	Hepatocytes
+Mixed325_2_175	7	EPCAM+
+Mixed325_2_176	11	Hepatocytes
+Mixed325_2_178	11	Hepatocytes
+Mixed325_2_181	11	Hepatocytes
+Mixed325_2_185	11	Hepatocytes
+Mixed325_2_186	11	Hepatocytes
+Mixed325_2_187	11	Hepatocytes
+Mixed325_2_188	11	Hepatocytes
+Mixed325_2_190	11	Hepatocytes
+Mixed325_3_2	11	Hepatocytes
+Mixed325_3_4	17	Hepatocytes
+Mixed325_3_11	11	Hepatocytes
+Mixed325_3_13	11	Hepatocytes
+Mixed325_3_14	17	Hepatocytes
+Mixed325_3_15	2	Kupffer cell
+Mixed325_3_18	11	Hepatocytes
+Mixed325_3_25	11	Hepatocytes
+Mixed325_3_27	11	Hepatocytes
+Mixed325_3_28	17	Hepatocytes
+Mixed325_3_29	11	Hepatocytes
+Mixed325_3_34	2	Kupffer cell
+Mixed325_3_37	17	Hepatocytes
+Mixed325_3_41	17	Hepatocytes
+Mixed325_3_42	17	Hepatocytes
+Mixed325_3_43	11	Hepatocytes
+Mixed325_3_44	11	Hepatocytes
+Mixed325_3_45	11	Hepatocytes
+Mixed325_3_48	17	Hepatocytes
+Mixed325_3_49	11	Hepatocytes
+Mixed325_3_50	17	Hepatocytes
+Mixed325_3_51	17	Hepatocytes
+Mixed325_3_52	11	Hepatocytes
+Mixed325_3_53	11	Hepatocytes
+Mixed325_3_54	11	Hepatocytes
+Mixed325_3_56	11	Hepatocytes
+Mixed325_3_59	11	Hepatocytes
+Mixed325_3_61	11	Hepatocytes
+Mixed325_3_64	7	EPCAM+
+Mixed325_3_67	11	Hepatocytes
+Mixed325_3_73	11	Hepatocytes
+Mixed325_3_74	11	Hepatocytes
+Mixed325_3_76	11	Hepatocytes
+Mixed325_3_80	11	Hepatocytes
+Mixed325_3_82	11	Hepatocytes
+Mixed325_3_85	11	Hepatocytes
+Mixed325_3_89	11	Hepatocytes
+Mixed325_3_90	11	Hepatocytes
+Mixed325_3_92	11	Hepatocytes
+Mixed325_3_96	17	Hepatocytes
+Mixed325_4_98	11	Hepatocytes
+Mixed325_4_101	25	Kupffer cell
+Mixed325_4_102	11	Hepatocytes
+Mixed325_4_110	11	Hepatocytes
+Mixed325_4_122	11	Hepatocytes
+Mixed325_4_127	17	Hepatocytes
+Mixed325_4_131	11	Hepatocytes
+Mixed325_4_138	11	Hepatocytes
+Mixed325_4_139	2	Kupffer cell
+Mixed325_4_143	11	Hepatocytes
+Mixed325_4_149	17	Hepatocytes
+Mixed325_4_156	11	Hepatocytes
+Mixed325_4_158	11	Hepatocytes
+Mixed325_4_159	2	Kupffer cell
+Mixed325_4_163	11	Hepatocytes
+Mixed325_4_166	11	Hepatocytes
+Mixed325_4_169	2	Kupffer cell
+Mixed325_4_173	17	Hepatocytes
+Mixed325_4_176	17	Hepatocytes
+Mixed325_4_178	4	EPCAM+
+Mixed325_4_179	17	Hepatocytes
+Mixed325_4_186	11	Hepatocytes
+Mixed325_4_188	11	Hepatocytes
+Mixed325_4_191	11	Hepatocytes
+P301_10_97	17	Hepatocytes
+P301_10_98	14	Hepatocytes
+P301_10_100	14	Hepatocytes
+P301_10_102	11	Hepatocytes
+P301_10_103	14	Hepatocytes
+P301_10_104	14	Hepatocytes
+P301_10_105	17	Hepatocytes
+P301_10_106	14	Hepatocytes
+P301_10_107	11	Hepatocytes
+P301_10_108	14	Hepatocytes
+P301_10_109	11	Hepatocytes
+P301_10_110	11	Hepatocytes
+P301_10_111	14	Hepatocytes
+P301_10_112	17	Hepatocytes
+P301_10_113	17	Hepatocytes
+P301_10_114	14	Hepatocytes
+P301_10_115	11	Hepatocytes
+P301_10_117	17	Hepatocytes
+P301_10_118	14	Hepatocytes
+P301_10_119	14	Hepatocytes
+P301_10_120	14	Hepatocytes
+P301_10_121	11	Hepatocytes
+P301_10_122	17	Hepatocytes
+P301_10_123	14	Hepatocytes
+P301_10_124	11	Hepatocytes
+P301_10_125	11	Hepatocytes
+P301_10_126	14	Hepatocytes
+P301_10_127	14	Hepatocytes
+P301_10_128	14	Hepatocytes
+P301_10_129	11	Hepatocytes
+P301_10_130	14	Hepatocytes
+P301_10_131	14	Hepatocytes
+P301_10_132	14	Hepatocytes
+P301_10_133	11	Hepatocytes
+P301_10_134	11	Hepatocytes
+P301_10_136	14	Hepatocytes
+P301_10_137	11	Hepatocytes
+P301_10_138	11	Hepatocytes
+P301_10_139	17	Hepatocytes
+P301_10_140	14	Hepatocytes
+P301_10_141	11	Hepatocytes
+P301_10_142	17	Hepatocytes
+P301_10_143	11	Hepatocytes
+P301_10_144	11	Hepatocytes
+P301_10_145	11	Hepatocytes
+P301_10_146	17	Hepatocytes
+P301_10_147	11	Hepatocytes
+P301_10_148	11	Hepatocytes
+P301_10_150	11	Hepatocytes
+P301_10_151	14	Hepatocytes
+P301_10_152	11	Hepatocytes
+P301_10_153	14	Hepatocytes
+P301_10_154	14	Hepatocytes
+P301_10_155	14	Hepatocytes
+P301_10_157	14	Hepatocytes
+P301_10_158	14	Hepatocytes
+P301_10_163	11	Hepatocytes
+P301_10_164	11	Hepatocytes
+P301_10_165	17	Hepatocytes
+P301_10_166	11	Hepatocytes
+P301_10_168	11	Hepatocytes
+P301_10_169	11	Hepatocytes
+P301_10_170	11	Hepatocytes
+P301_10_171	14	Hepatocytes
+P301_10_172	11	Hepatocytes
+P301_10_173	11	Hepatocytes
+P301_10_174	11	Hepatocytes
+P301_10_176	11	Hepatocytes
+P301_10_177	11	Hepatocytes
+P301_10_178	17	Hepatocytes
+P301_10_179	11	Hepatocytes
+P301_10_180	17	Hepatocytes
+P301_10_181	11	Hepatocytes
+P301_10_182	17	Hepatocytes
+P301_10_183	11	Hepatocytes
+P301_10_184	11	Hepatocytes
+P301_10_185	17	Hepatocytes
+P301_10_186	11	Hepatocytes
+P301_10_187	11	Hepatocytes
+P301_10_188	11	Hepatocytes
+P301_10_189	11	Hepatocytes
+P301_10_190	11	Hepatocytes
+P301_10_191	14	Hepatocytes
+P301_10_192	11	Hepatocytes
+P301_11_1	14	Hepatocytes
+P301_11_2	11	Hepatocytes
+P301_11_4	14	Hepatocytes
+P301_11_5	14	Hepatocytes
+P301_11_6	11	Hepatocytes
+P301_11_9	14	Hepatocytes
+P301_11_10	11	Hepatocytes
+P301_11_11	11	Hepatocytes
+P301_11_12	11	Hepatocytes
+P301_11_13	14	Hepatocytes
+P301_11_14	11	Hepatocytes
+P301_11_15	11	Hepatocytes
+P301_11_16	11	Hepatocytes
+P301_11_17	11	Hepatocytes
+P301_11_18	11	Hepatocytes
+P301_11_19	11	Hepatocytes
+P301_11_21	11	Hepatocytes
+P301_11_22	11	Hepatocytes
+P301_11_23	14	Hepatocytes
+P301_11_24	11	Hepatocytes
+P301_11_25	14	Hepatocytes
+P301_11_26	11	Hepatocytes
+P301_11_27	11	Hepatocytes
+P301_11_28	11	Hepatocytes
+P301_11_29	11	Hepatocytes
+P301_11_30	11	Hepatocytes
+P301_11_31	14	Hepatocytes
+P301_11_32	14	Hepatocytes
+P301_11_34	11	Hepatocytes
+P301_11_35	14	Hepatocytes
+P301_11_36	14	Hepatocytes
+P301_11_37	14	Hepatocytes
+P301_11_39	11	Hepatocytes
+P301_11_40	14	Hepatocytes
+P301_11_41	11	Hepatocytes
+P301_11_42	11	Hepatocytes
+P301_11_44	17	Hepatocytes
+P301_11_45	11	Hepatocytes
+P301_11_46	11	Hepatocytes
+P301_11_47	11	Hepatocytes
+P301_11_48	11	Hepatocytes
+P301_11_49	11	Hepatocytes
+P301_11_51	11	Hepatocytes
+P301_11_52	11	Hepatocytes
+P301_11_54	11	Hepatocytes
+P301_11_55	11	Hepatocytes
+P301_11_56	14	Hepatocytes
+P301_11_57	11	Hepatocytes
+P301_11_58	11	Hepatocytes
+P301_11_59	11	Hepatocytes
+P301_11_60	11	Hepatocytes
+P301_11_62	17	Hepatocytes
+P301_11_63	11	Hepatocytes
+P301_11_64	11	Hepatocytes
+P301_11_67	11	Hepatocytes
+P301_11_69	11	Hepatocytes
+P301_11_70	11	Hepatocytes
+P301_11_72	11	Hepatocytes
+P301_11_73	11	Hepatocytes
+P301_11_74	11	Hepatocytes
+P301_11_75	11	Hepatocytes
+P301_11_76	11	Hepatocytes
+P301_11_77	11	Hepatocytes
+P301_11_78	11	Hepatocytes
+P301_11_79	17	Hepatocytes
+P301_11_80	17	Hepatocytes
+P301_11_84	11	Hepatocytes
+P301_11_85	11	Hepatocytes
+P301_11_86	11	Hepatocytes
+P301_11_87	17	Hepatocytes
+P301_11_88	11	Hepatocytes
+P301_11_89	11	Hepatocytes
+P301_11_90	11	Hepatocytes
+P301_11_91	11	Hepatocytes
+P301_11_92	11	Hepatocytes
+P301_11_94	11	Hepatocytes
+P301_11_95	11	Hepatocytes
+P301_11_96	11	Hepatocytes
+P301_12_97	11	Hepatocytes
+P301_12_98	11	Hepatocytes
+P301_12_101	11	Hepatocytes
+P301_12_102	11	Hepatocytes
+P301_12_104	11	Hepatocytes
+P301_12_105	11	Hepatocytes
+P301_12_106	11	Hepatocytes
+P301_12_107	11	Hepatocytes
+P301_12_108	11	Hepatocytes
+P301_12_109	11	Hepatocytes
+P301_12_111	11	Hepatocytes
+P301_12_112	11	Hepatocytes
+P301_12_116	11	Hepatocytes
+P301_12_118	11	Hepatocytes
+P301_12_119	11	Hepatocytes
+P301_12_122	11	Hepatocytes
+P301_12_123	11	Hepatocytes
+P301_12_124	11	Hepatocytes
+P301_12_125	11	Hepatocytes
+P301_12_126	11	Hepatocytes
+P301_12_127	11	Hepatocytes
+P301_12_128	11	Hepatocytes
+P301_12_130	11	Hepatocytes
+P301_12_131	11	Hepatocytes
+P301_12_132	11	Hepatocytes
+P301_12_134	11	Hepatocytes
+P301_12_136	11	Hepatocytes
+P301_12_137	11	Hepatocytes
+P301_12_138	11	Hepatocytes
+P301_12_139	11	Hepatocytes
+P301_12_140	11	Hepatocytes
+P301_12_141	11	Hepatocytes
+P301_12_142	11	Hepatocytes
+P301_12_143	11	Hepatocytes
+P301_12_144	11	Hepatocytes
+P301_12_147	11	Hepatocytes
+P301_12_148	11	Hepatocytes
+P301_12_149	11	Hepatocytes
+P301_12_151	11	Hepatocytes
+P301_12_152	11	Hepatocytes
+P301_12_153	11	Hepatocytes
+P301_12_154	11	Hepatocytes
+P301_12_155	11	Hepatocytes
+P301_12_156	11	Hepatocytes
+P301_12_157	11	Hepatocytes
+P301_12_159	11	Hepatocytes
+P301_12_160	11	Hepatocytes
+P301_12_161	11	Hepatocytes
+P301_12_165	11	Hepatocytes
+P301_12_166	11	Hepatocytes
+P301_12_167	11	Hepatocytes
+P301_12_169	11	Hepatocytes
+P301_12_171	11	Hepatocytes
+P301_12_173	11	Hepatocytes
+P301_12_175	11	Hepatocytes
+P301_12_176	11	Hepatocytes
+P301_12_177	11	Hepatocytes
+P301_12_181	11	Hepatocytes
+P301_12_182	11	Hepatocytes
+P301_12_183	11	Hepatocytes
+P301_12_186	11	Hepatocytes
+P301_12_188	11	Hepatocytes
+P301_12_190	11	Hepatocytes
+P301_12_191	11	Hepatocytes
+P301_13_1	11	Hepatocytes
+P301_13_3	11	Hepatocytes
+P301_13_6	2	Kupffer cell
+P301_13_9	2	Kupffer cell
+P301_13_12	2	Kupffer cell
+P301_13_14	4	EPCAM+
+P301_13_16	11	Hepatocytes
+P301_13_17	11	Hepatocytes
+P301_13_18	2	Kupffer cell
+P301_13_23	11	Hepatocytes
+P301_13_25	4	EPCAM+
+P301_13_27	11	Hepatocytes
+P301_13_28	11	Hepatocytes
+P301_13_32	11	Hepatocytes
+P301_13_34	11	Hepatocytes
+P301_13_37	4	EPCAM+
+P301_13_39	17	Hepatocytes
+P301_13_40	17	Hepatocytes
+P301_13_42	11	Hepatocytes
+P301_13_43	11	Hepatocytes
+P301_13_44	9	LSEC
+P301_13_45	6	Kupffer cell
+P301_13_46	11	Hepatocytes
+P301_13_47	11	Hepatocytes
+P301_13_49	17	Hepatocytes
+P301_13_50	11	Hepatocytes
+P301_13_51	17	Hepatocytes
+P301_13_54	20	LSEC
+P301_13_56	4	EPCAM+
+P301_13_58	11	Hepatocytes
+P301_13_59	2	Kupffer cell
+P301_13_60	6	Kupffer cell
+P301_13_61	9	LSEC
+P301_13_62	11	Hepatocytes
+P301_13_63	11	Hepatocytes
+P301_13_65	11	Hepatocytes
+P301_13_67	2	Kupffer cell
+P301_13_71	4	EPCAM+
+P301_13_72	11	Hepatocytes
+P301_13_75	11	Hepatocytes
+P301_13_79	2	Kupffer cell
+P301_13_82	11	Hepatocytes
+P301_13_83	11	Hepatocytes
+P301_13_88	11	Hepatocytes
+P301_13_89	7	EPCAM+
+P301_13_91	11	Hepatocytes
+P301_13_93	24	EPCAM+
+P301_14_1	2	Kupffer cell
+P301_14_2	11	Hepatocytes
+P301_14_5	11	Hepatocytes
+P301_14_6	17	Hepatocytes
+P301_14_8	14	Hepatocytes
+P301_14_12	11	Hepatocytes
+P301_14_13	14	Hepatocytes
+P301_14_16	11	Hepatocytes
+P301_14_17	17	Hepatocytes
+P301_14_18	11	Hepatocytes
+P301_14_20	11	Hepatocytes
+P301_14_21	11	Hepatocytes
+P301_14_27	14	Hepatocytes
+P301_14_28	11	Hepatocytes
+P301_14_30	2	Kupffer cell
+P301_14_32	17	Hepatocytes
+P301_14_35	14	Hepatocytes
+P301_14_36	20	LSEC
+P301_14_37	17	Hepatocytes
+P301_14_38	11	Hepatocytes
+P301_14_39	17	Hepatocytes
+P301_14_40	7	EPCAM+
+P301_14_41	2	Kupffer cell
+P301_14_42	11	Hepatocytes
+P301_14_44	11	Hepatocytes
+P301_14_45	14	Hepatocytes
+P301_14_46	2	Kupffer cell
+P301_14_49	11	Hepatocytes
+P301_14_50	11	Hepatocytes
+P301_14_51	2	Kupffer cell
+P301_14_53	11	Hepatocytes
+P301_14_55	11	Hepatocytes
+P301_14_58	11	Hepatocytes
+P301_14_60	11	Hepatocytes
+P301_14_62	14	Hepatocytes
+P301_14_63	11	Hepatocytes
+P301_14_64	9	LSEC
+P301_14_65	11	Hepatocytes
+P301_14_66	11	Hepatocytes
+P301_14_69	11	Hepatocytes
+P301_14_70	11	Hepatocytes
+P301_14_76	11	Hepatocytes
+P301_14_77	2	Kupffer cell
+P301_14_79	2	Kupffer cell
+P301_14_80	17	Hepatocytes
+P301_14_83	11	Hepatocytes
+P301_14_84	11	Hepatocytes
+P301_14_85	11	Hepatocytes
+P301_14_88	11	Hepatocytes
+P301_14_91	11	Hepatocytes
+P301_14_93	17	Hepatocytes
+P301_15_97	2	Kupffer cell
+P301_15_98	11	Hepatocytes
+P301_15_99	17	Hepatocytes
+P301_15_102	17	Hepatocytes
+P301_15_103	11	Hepatocytes
+P301_15_107	11	Hepatocytes
+P301_15_108	6	Kupffer cell
+P301_15_111	11	Hepatocytes
+P301_15_115	17	Hepatocytes
+P301_15_118	11	Hepatocytes
+P301_15_119	2	Kupffer cell
+P301_15_120	11	Hepatocytes
+P301_15_121	11	Hepatocytes
+P301_15_122	2	Kupffer cell
+P301_15_126	4	EPCAM+
+P301_15_127	17	Hepatocytes
+P301_15_128	9	LSEC
+P301_15_129	11	Hepatocytes
+P301_15_130	11	Hepatocytes
+P301_15_132	9	LSEC
+P301_15_133	11	Hepatocytes
+P301_15_134	11	Hepatocytes
+P301_15_135	11	Hepatocytes
+P301_15_136	11	Hepatocytes
+P301_15_137	11	Hepatocytes
+P301_15_140	2	Kupffer cell
+P301_15_141	11	Hepatocytes
+P301_15_144	4	EPCAM+
+P301_15_147	11	Hepatocytes
+P301_15_150	11	Hepatocytes
+P301_15_151	2	Kupffer cell
+P301_15_153	17	Hepatocytes
+P301_15_158	17	Hepatocytes
+P301_15_159	4	EPCAM+
+P301_15_160	11	Hepatocytes
+P301_15_162	11	Hepatocytes
+P301_15_164	11	Hepatocytes
+P301_15_165	2	Kupffer cell
+P301_15_168	11	Hepatocytes
+P301_15_174	11	Hepatocytes
+P301_15_175	11	Hepatocytes
+P301_15_176	11	Hepatocytes
+P301_15_178	11	Hepatocytes
+P301_15_179	2	Kupffer cell
+P301_15_180	11	Hepatocytes
+P301_15_182	17	Hepatocytes
+P301_15_183	11	Hepatocytes
+P301_15_191	11	Hepatocytes
+P301_16_99	11	Hepatocytes
+P301_16_101	7	EPCAM+
+P301_16_102	4	EPCAM+
+P301_16_103	17	Hepatocytes
+P301_16_104	11	Hepatocytes
+P301_16_105	25	Kupffer cell
+P301_16_106	9	LSEC
+P301_16_108	11	Hepatocytes
+P301_16_109	11	Hepatocytes
+P301_16_115	2	Kupffer cell
+P301_16_121	11	Hepatocytes
+P301_16_122	2	Kupffer cell
+P301_16_125	11	Hepatocytes
+P301_16_129	25	Kupffer cell
+P301_16_132	11	Hepatocytes
+P301_16_134	11	Hepatocytes
+P301_16_136	4	EPCAM+
+P301_16_141	2	Kupffer cell
+P301_16_142	11	Hepatocytes
+P301_16_145	2	Kupffer cell
+P301_16_146	11	Hepatocytes
+P301_16_147	11	Hepatocytes
+P301_16_149	2	Kupffer cell
+P301_16_154	4	EPCAM+
+P301_16_157	11	Hepatocytes
+P301_16_160	11	Hepatocytes
+P301_16_164	11	Hepatocytes
+P301_16_170	4	EPCAM+
+P301_16_176	11	Hepatocytes
+P301_16_179	11	Hepatocytes
+P301_16_181	2	Kupffer cell
+P301_16_182	11	Hepatocytes
+P301_16_183	11	Hepatocytes
+P301_16_188	11	Hepatocytes
+P301_16_189	11	Hepatocytes
+P301_16_190	17	Hepatocytes
+P301_16_191	2	Kupffer cell
+P301_16_192	11	Hepatocytes
+P301_17_1	11	Hepatocytes
+P301_17_2	17	Hepatocytes
+P301_17_3	11	Hepatocytes
+P301_17_5	14	Hepatocytes
+P301_17_6	11	Hepatocytes
+P301_17_7	11	Hepatocytes
+P301_17_8	17	Hepatocytes
+P301_17_9	14	Hepatocytes
+P301_17_10	17	Hepatocytes
+P301_17_11	14	Hepatocytes
+P301_17_12	11	Hepatocytes
+P301_17_13	14	Hepatocytes
+P301_17_14	6	Kupffer cell
+P301_17_15	11	Hepatocytes
+P301_17_16	11	Hepatocytes
+P301_17_17	11	Hepatocytes
+P301_17_18	11	Hepatocytes
+P301_17_19	11	Hepatocytes
+P301_17_20	17	Hepatocytes
+P301_17_21	14	Hepatocytes
+P301_17_22	11	Hepatocytes
+P301_17_23	11	Hepatocytes
+P301_17_24	14	Hepatocytes
+P301_17_25	11	Hepatocytes
+P301_17_26	11	Hepatocytes
+P301_17_27	17	Hepatocytes
+P301_17_28	11	Hepatocytes
+P301_17_30	11	Hepatocytes
+P301_17_31	11	Hepatocytes
+P301_17_32	11	Hepatocytes
+P301_17_33	11	Hepatocytes
+P301_17_34	17	Hepatocytes
+P301_17_35	11	Hepatocytes
+P301_17_36	17	Hepatocytes
+P301_17_37	17	Hepatocytes
+P301_17_38	17	Hepatocytes
+P301_17_39	11	Hepatocytes
+P301_17_40	11	Hepatocytes
+P301_17_41	11	Hepatocytes
+P301_17_43	11	Hepatocytes
+P301_17_44	11	Hepatocytes
+P301_17_45	11	Hepatocytes
+P301_17_47	11	Hepatocytes
+P301_17_49	11	Hepatocytes
+P301_17_50	17	Hepatocytes
+P301_17_51	17	Hepatocytes
+P301_17_52	11	Hepatocytes
+P301_17_53	14	Hepatocytes
+P301_17_54	17	Hepatocytes
+P301_17_55	11	Hepatocytes
+P301_17_56	14	Hepatocytes
+P301_17_57	11	Hepatocytes
+P301_17_58	17	Hepatocytes
+P301_17_59	17	Hepatocytes
+P301_17_60	11	Hepatocytes
+P301_17_61	11	Hepatocytes
+P301_17_63	11	Hepatocytes
+P301_17_64	11	Hepatocytes
+P301_17_65	11	Hepatocytes
+P301_17_66	11	Hepatocytes
+P301_17_67	11	Hepatocytes
+P301_17_68	14	Hepatocytes
+P301_17_69	11	Hepatocytes
+P301_17_70	11	Hepatocytes
+P301_17_71	11	Hepatocytes
+P301_17_72	11	Hepatocytes
+P301_17_73	11	Hepatocytes
+P301_17_74	11	Hepatocytes
+P301_17_75	17	Hepatocytes
+P301_17_76	14	Hepatocytes
+P301_17_77	11	Hepatocytes
+P301_17_79	11	Hepatocytes
+P301_17_80	11	Hepatocytes
+P301_17_81	11	Hepatocytes
+P301_17_82	2	Kupffer cell
+P301_17_83	11	Hepatocytes
+P301_17_84	11	Hepatocytes
+P301_17_85	17	Hepatocytes
+P301_17_86	11	Hepatocytes
+P301_17_87	11	Hepatocytes
+P301_17_88	11	Hepatocytes
+P301_17_89	11	Hepatocytes
+P301_17_90	14	Hepatocytes
+P301_17_91	11	Hepatocytes
+P301_17_92	11	Hepatocytes
+P301_17_93	11	Hepatocytes
+P301_17_95	11	Hepatocytes
+P301_17_96	11	Hepatocytes
+P301_17_160	25	Kupffer cell
+P301_18_97	11	Hepatocytes
+P301_18_98	11	Hepatocytes
+P301_18_99	11	Hepatocytes
+P301_18_100	11	Hepatocytes
+P301_18_101	11	Hepatocytes
+P301_18_102	11	Hepatocytes
+P301_18_103	11	Hepatocytes
+P301_18_104	11	Hepatocytes
+P301_18_105	11	Hepatocytes
+P301_18_106	11	Hepatocytes
+P301_18_107	11	Hepatocytes
+P301_18_108	11	Hepatocytes
+P301_18_109	11	Hepatocytes
+P301_18_110	11	Hepatocytes
+P301_18_111	11	Hepatocytes
+P301_18_113	11	Hepatocytes
+P301_18_114	11	Hepatocytes
+P301_18_115	11	Hepatocytes
+P301_18_116	11	Hepatocytes
+P301_18_117	11	Hepatocytes
+P301_18_118	17	Hepatocytes
+P301_18_119	11	Hepatocytes
+P301_18_120	11	Hepatocytes
+P301_18_121	11	Hepatocytes
+P301_18_122	11	Hepatocytes
+P301_18_123	11	Hepatocytes
+P301_18_124	11	Hepatocytes
+P301_18_125	11	Hepatocytes
+P301_18_126	11	Hepatocytes
+P301_18_127	11	Hepatocytes
+P301_18_129	11	Hepatocytes
+P301_18_130	11	Hepatocytes
+P301_18_131	11	Hepatocytes
+P301_18_132	11	Hepatocytes
+P301_18_133	11	Hepatocytes
+P301_18_134	11	Hepatocytes
+P301_18_135	11	Hepatocytes
+P301_18_136	11	Hepatocytes
+P301_18_137	11	Hepatocytes
+P301_18_139	11	Hepatocytes
+P301_18_140	17	Hepatocytes
+P301_18_141	11	Hepatocytes
+P301_18_143	11	Hepatocytes
+P301_18_145	11	Hepatocytes
+P301_18_146	11	Hepatocytes
+P301_18_147	11	Hepatocytes
+P301_18_148	11	Hepatocytes
+P301_18_149	11	Hepatocytes
+P301_18_150	11	Hepatocytes
+P301_18_151	11	Hepatocytes
+P301_18_152	11	Hepatocytes
+P301_18_153	11	Hepatocytes
+P301_18_155	11	Hepatocytes
+P301_18_156	11	Hepatocytes
+P301_18_157	11	Hepatocytes
+P301_18_158	11	Hepatocytes
+P301_18_159	11	Hepatocytes
+P301_18_160	11	Hepatocytes
+P301_18_162	11	Hepatocytes
+P301_18_163	11	Hepatocytes
+P301_18_164	11	Hepatocytes
+P301_18_165	11	Hepatocytes
+P301_18_166	11	Hepatocytes
+P301_18_167	11	Hepatocytes
+P301_18_168	11	Hepatocytes
+P301_18_169	11	Hepatocytes
+P301_18_170	4	EPCAM+
+P301_18_171	11	Hepatocytes
+P301_18_174	11	Hepatocytes
+P301_18_175	11	Hepatocytes
+P301_18_176	11	Hepatocytes
+P301_18_177	11	Hepatocytes
+P301_18_178	11	Hepatocytes
+P301_18_179	11	Hepatocytes
+P301_18_180	11	Hepatocytes
+P301_18_181	11	Hepatocytes
+P301_18_182	11	Hepatocytes
+P301_18_183	11	Hepatocytes
+P301_18_184	11	Hepatocytes
+P301_18_185	11	Hepatocytes
+P301_18_190	11	Hepatocytes
+P301_19_14	11	Hepatocytes
+P301_19_15	4	EPCAM+
+P301_19_17	11	Hepatocytes
+P301_19_29	9	LSEC
+P301_19_53	11	Hepatocytes
+P301_19_59	2	Kupffer cell
+P301_19_66	4	EPCAM+
+P301_19_74	2	Kupffer cell
+P301_19_89	9	LSEC
+P301_19_92	11	Hepatocytes
+P301_19_94	9	LSEC
+P301_20_98	11	Hepatocytes
+P301_20_99	30	Hepatocytes
+P301_20_106	20	LSEC
+P301_20_107	2	Kupffer cell
+P301_20_108	2	Kupffer cell
+P301_20_109	2	Kupffer cell
+P301_20_110	11	Hepatocytes
+P301_20_111	2	Kupffer cell
+P301_20_112	7	EPCAM+
+P301_20_115	11	Hepatocytes
+P301_20_116	25	Kupffer cell
+P301_20_122	2	Kupffer cell
+P301_20_144	11	Hepatocytes
+P301_20_147	25	Kupffer cell
+P301_20_160	9	LSEC
+P301_20_166	2	Kupffer cell
+P301_20_167	11	Hepatocytes
+P301_20_170	2	Kupffer cell
+P301_20_171	2	Kupffer cell
+P301_20_172	9	LSEC
+P301_20_179	11	Hepatocytes
+P301_20_182	4	EPCAM+
+P301_20_183	7	EPCAM+
+P301_22_100	2	Kupffer cell
+P301_22_108	11	Hepatocytes
+P301_22_113	11	Hepatocytes
+P301_22_117	2	Kupffer cell
+P301_22_122	11	Hepatocytes
+P301_22_124	4	EPCAM+
+P301_22_125	2	Kupffer cell
+P301_22_127	2	Kupffer cell
+P301_22_128	7	EPCAM+
+P301_22_131	4	EPCAM+
+P301_22_134	4	EPCAM+
+P301_22_154	25	Kupffer cell
+P301_22_158	11	Hepatocytes
+P301_22_168	6	Kupffer cell
+P301_22_169	2	Kupffer cell
+P301_22_170	25	Kupffer cell
+P301_22_172	17	Hepatocytes
+P301_22_174	2	Kupffer cell
+P301_22_182	4	EPCAM+
+P301_23_1	11	Hepatocytes
+P301_23_2	17	Hepatocytes
+P301_23_3	14	Hepatocytes
+P301_23_4	11	Hepatocytes
+P301_23_5	11	Hepatocytes
+P301_23_6	14	Hepatocytes
+P301_23_7	11	Hepatocytes
+P301_23_8	11	Hepatocytes
+P301_23_9	11	Hepatocytes
+P301_23_10	17	Hepatocytes
+P301_23_11	17	Hepatocytes
+P301_23_12	11	Hepatocytes
+P301_23_13	14	Hepatocytes
+P301_23_14	14	Hepatocytes
+P301_23_15	11	Hepatocytes
+P301_23_16	11	Hepatocytes
+P301_23_17	11	Hepatocytes
+P301_23_18	11	Hepatocytes
+P301_23_19	14	Hepatocytes
+P301_23_20	11	Hepatocytes
+P301_23_22	11	Hepatocytes
+P301_23_23	14	Hepatocytes
+P301_23_24	17	Hepatocytes
+P301_23_25	11	Hepatocytes
+P301_23_26	11	Hepatocytes
+P301_23_27	17	Hepatocytes
+P301_23_28	14	Hepatocytes
+P301_23_29	11	Hepatocytes
+P301_23_30	14	Hepatocytes
+P301_23_31	11	Hepatocytes
+P301_23_32	11	Hepatocytes
+P301_23_34	17	Hepatocytes
+P301_23_35	14	Hepatocytes
+P301_23_36	11	Hepatocytes
+P301_23_37	11	Hepatocytes
+P301_23_38	11	Hepatocytes
+P301_23_39	11	Hepatocytes
+P301_23_40	11	Hepatocytes
+P301_23_41	14	Hepatocytes
+P301_23_42	17	Hepatocytes
+P301_23_43	11	Hepatocytes
+P301_23_44	17	Hepatocytes
+P301_23_45	14	Hepatocytes
+P301_23_46	17	Hepatocytes
+P301_23_47	17	Hepatocytes
+P301_23_48	14	Hepatocytes
+P301_23_49	17	Hepatocytes
+P301_23_51	11	Hepatocytes
+P301_23_52	13	LSEC
+P301_23_54	11	Hepatocytes
+P301_23_55	11	Hepatocytes
+P301_23_56	17	Hepatocytes
+P301_23_57	11	Hepatocytes
+P301_23_58	14	Hepatocytes
+P301_23_59	17	Hepatocytes
+P301_23_60	17	Hepatocytes
+P301_23_61	17	Hepatocytes
+P301_23_62	17	Hepatocytes
+P301_23_63	7	EPCAM+
+P301_23_64	11	Hepatocytes
+P301_23_65	17	Hepatocytes
+P301_23_66	11	Hepatocytes
+P301_23_67	14	Hepatocytes
+P301_23_68	17	Hepatocytes
+P301_23_69	11	Hepatocytes
+P301_23_71	14	Hepatocytes
+P301_23_72	17	Hepatocytes
+P301_23_73	17	Hepatocytes
+P301_23_74	17	Hepatocytes
+P301_23_75	11	Hepatocytes
+P301_23_76	11	Hepatocytes
+P301_23_77	14	Hepatocytes
+P301_23_79	14	Hepatocytes
+P301_23_81	11	Hepatocytes
+P301_23_82	11	Hepatocytes
+P301_23_83	6	Kupffer cell
+P301_23_85	11	Hepatocytes
+P301_23_86	11	Hepatocytes
+P301_23_87	4	EPCAM+
+P301_23_88	11	Hepatocytes
+P301_23_89	14	Hepatocytes
+P301_23_90	11	Hepatocytes
+P301_23_91	11	Hepatocytes
+P301_23_92	17	Hepatocytes
+P301_23_93	17	Hepatocytes
+P301_23_94	11	Hepatocytes
+P301_23_95	14	Hepatocytes
+P301_23_96	11	Hepatocytes
+P301_24_97	14	Hepatocytes
+P301_24_98	2	Kupffer cell
+P301_24_99	11	Hepatocytes
+P301_24_100	14	Hepatocytes
+P301_24_102	14	Hepatocytes
+P301_24_104	14	Hepatocytes
+P301_24_105	14	Hepatocytes
+P301_24_106	14	Hepatocytes
+P301_24_107	11	Hepatocytes
+P301_24_108	17	Hepatocytes
+P301_24_109	17	Hepatocytes
+P301_24_110	17	Hepatocytes
+P301_24_111	11	Hepatocytes
+P301_24_112	11	Hepatocytes
+P301_24_113	11	Hepatocytes
+P301_24_114	14	Hepatocytes
+P301_24_116	14	Hepatocytes
+P301_24_117	11	Hepatocytes
+P301_24_118	14	Hepatocytes
+P301_24_119	14	Hepatocytes
+P301_24_120	14	Hepatocytes
+P301_24_121	14	Hepatocytes
+P301_24_122	14	Hepatocytes
+P301_24_123	14	Hepatocytes
+P301_24_124	14	Hepatocytes
+P301_24_126	11	Hepatocytes
+P301_24_127	17	Hepatocytes
+P301_24_128	11	Hepatocytes
+P301_24_129	14	Hepatocytes
+P301_24_130	17	Hepatocytes
+P301_24_132	11	Hepatocytes
+P301_24_133	14	Hepatocytes
+P301_24_134	17	Hepatocytes
+P301_24_135	2	Kupffer cell
+P301_24_136	14	Hepatocytes
+P301_24_137	17	Hepatocytes
+P301_24_138	14	Hepatocytes
+P301_24_139	7	EPCAM+
+P301_24_140	14	Hepatocytes
+P301_24_141	17	Hepatocytes
+P301_24_143	11	Hepatocytes
+P301_24_144	11	Hepatocytes
+P301_24_145	2	Kupffer cell
+P301_24_146	11	Hepatocytes
+P301_24_147	4	EPCAM+
+P301_24_148	11	Hepatocytes
+P301_24_150	17	Hepatocytes
+P301_24_151	17	Hepatocytes
+P301_24_152	11	Hepatocytes
+P301_24_153	11	Hepatocytes
+P301_24_154	17	Hepatocytes
+P301_24_155	14	Hepatocytes
+P301_24_156	14	Hepatocytes
+P301_24_157	14	Hepatocytes
+P301_24_158	11	Hepatocytes
+P301_24_159	14	Hepatocytes
+P301_24_161	11	Hepatocytes
+P301_24_162	11	Hepatocytes
+P301_24_163	11	Hepatocytes
+P301_24_164	17	Hepatocytes
+P301_24_165	11	Hepatocytes
+P301_24_166	11	Hepatocytes
+P301_24_167	11	Hepatocytes
+P301_24_169	14	Hepatocytes
+P301_24_170	17	Hepatocytes
+P301_24_171	11	Hepatocytes
+P301_24_172	14	Hepatocytes
+P301_24_173	11	Hepatocytes
+P301_24_174	11	Hepatocytes
+P301_24_175	17	Hepatocytes
+P301_24_177	11	Hepatocytes
+P301_24_178	4	EPCAM+
+P301_24_179	14	Hepatocytes
+P301_24_180	11	Hepatocytes
+P301_24_181	11	Hepatocytes
+P301_24_182	17	Hepatocytes
+P301_24_183	11	Hepatocytes
+P301_24_185	11	Hepatocytes
+P301_24_187	11	Hepatocytes
+P301_24_188	17	Hepatocytes
+P301_24_189	11	Hepatocytes
+P301_24_190	11	Hepatocytes
+P301_24_191	17	Hepatocytes
+P301_24_192	11	Hepatocytes
+P301_25_2	2	Kupffer cell
+P301_25_8	20	LSEC
+P301_25_11	2	Kupffer cell
+P301_25_12	20	LSEC
+P301_25_14	25	Kupffer cell
+P301_25_17	2	Kupffer cell
+P301_25_19	4	EPCAM+
+P301_25_26	20	LSEC
+P301_25_27	20	LSEC
+P301_25_29	9	LSEC
+P301_25_34	7	EPCAM+
+P301_25_35	2	Kupffer cell
+P301_25_38	2	Kupffer cell
+P301_25_39	2	Kupffer cell
+P301_25_43	9	LSEC
+P301_25_50	2	Kupffer cell
+P301_25_52	7	EPCAM+
+P301_25_60	31	Kupffer cell
+P301_25_68	11	Hepatocytes
+P301_25_72	2	Kupffer cell
+P301_25_75	4	EPCAM+
+P301_25_85	6	Kupffer cell
+P301_25_88	7	EPCAM+
+P301_25_89	25	Kupffer cell
+P301_25_90	2	Kupffer cell
+P301_25_92	2	Kupffer cell
+P301_25_94	25	Kupffer cell
+P301_26_99	9	LSEC
+P301_26_103	7	EPCAM+
+P301_26_110	9	LSEC
+P301_26_112	20	LSEC
+P301_26_114	4	EPCAM+
+P301_26_118	2	Kupffer cell
+P301_26_123	25	Kupffer cell
+P301_26_125	14	Hepatocytes
+P301_26_126	25	Kupffer cell
+P301_26_127	9	LSEC
+P301_26_128	31	Kupffer cell
+P301_26_130	2	Kupffer cell
+P301_26_132	7	EPCAM+
+P301_26_134	6	Kupffer cell
+P301_26_137	9	LSEC
+P301_26_140	2	Kupffer cell
+P301_26_143	25	Kupffer cell
+P301_26_149	7	EPCAM+
+P301_26_151	2	Kupffer cell
+P301_26_152	2	Kupffer cell
+P301_26_153	2	Kupffer cell
+P301_26_158	2	Kupffer cell
+P301_26_165	4	EPCAM+
+P301_26_167	13	LSEC
+P301_26_168	2	Kupffer cell
+P301_26_172	2	Kupffer cell
+P301_26_173	2	Kupffer cell
+P301_26_174	7	EPCAM+
+P301_26_175	7	EPCAM+
+P301_26_177	2	Kupffer cell
+P301_27_5	4	EPCAM+
+P301_27_11	2	Kupffer cell
+P301_27_13	7	EPCAM+
+P301_27_14	7	EPCAM+
+P301_27_19	9	LSEC
+P301_27_23	2	Kupffer cell
+P301_27_25	4	EPCAM+
+P301_27_28	2	Kupffer cell
+P301_27_31	6	Kupffer cell
+P301_27_32	2	Kupffer cell
+P301_27_36	20	LSEC
+P301_27_37	4	EPCAM+
+P301_27_39	24	EPCAM+
+P301_27_40	11	Hepatocytes
+P301_27_48	25	Kupffer cell
+P301_27_49	2	Kupffer cell
+P301_27_52	2	Kupffer cell
+P301_27_59	25	Kupffer cell
+P301_27_62	4	EPCAM+
+P301_27_63	2	Kupffer cell
+P301_27_64	4	EPCAM+
+P301_27_71	2	Kupffer cell
+P301_27_73	9	LSEC
+P301_27_75	11	Hepatocytes
+P301_27_79	2	Kupffer cell
+P301_27_80	2	Kupffer cell
+P301_27_81	11	Hepatocytes
+P301_27_82	4	EPCAM+
+P301_27_83	11	Hepatocytes
+P301_27_87	2	Kupffer cell
+P301_27_91	7	EPCAM+
+P301_27_92	9	LSEC
+P301_27_180	2	Kupffer cell
+P301_28_97	2	Kupffer cell
+P301_28_98	9	LSEC
+P301_28_102	2	Kupffer cell
+P301_28_104	2	Kupffer cell
+P301_28_109	7	EPCAM+
+P301_28_112	7	EPCAM+
+P301_28_114	2	Kupffer cell
+P301_28_116	4	EPCAM+
+P301_28_117	14	Hepatocytes
+P301_28_119	2	Kupffer cell
+P301_28_122	2	Kupffer cell
+P301_28_123	7	EPCAM+
+P301_28_133	17	Hepatocytes
+P301_28_135	2	Kupffer cell
+P301_28_136	20	LSEC
+P301_28_137	9	LSEC
+P301_28_139	2	Kupffer cell
+P301_28_140	2	Kupffer cell
+P301_28_143	2	Kupffer cell
+P301_28_145	2	Kupffer cell
+P301_28_146	7	EPCAM+
+P301_28_148	2	Kupffer cell
+P301_28_149	2	Kupffer cell
+P301_28_150	2	Kupffer cell
+P301_28_153	13	LSEC
+P301_28_154	9	LSEC
+P301_28_159	2	Kupffer cell
+P301_28_167	2	Kupffer cell
+P301_28_168	9	LSEC
+P301_28_173	11	Hepatocytes
+P301_28_174	4	EPCAM+
+P301_28_182	2	Kupffer cell
+P301_28_184	2	Kupffer cell
+P301_28_188	2	Kupffer cell
+P301_29_2	14	Hepatocytes
+P301_29_4	11	Hepatocytes
+P301_29_7	11	Hepatocytes
+P301_29_12	11	Hepatocytes
+P301_29_17	11	Hepatocytes
+P301_29_23	14	Hepatocytes
+P301_29_24	11	Hepatocytes
+P301_29_27	11	Hepatocytes
+P301_29_28	11	Hepatocytes
+P301_29_38	11	Hepatocytes
+P301_29_42	11	Hepatocytes
+P301_29_44	14	Hepatocytes
+P301_29_49	11	Hepatocytes
+P301_29_52	14	Hepatocytes
+P301_29_54	11	Hepatocytes
+P301_29_57	11	Hepatocytes
+P301_29_59	11	Hepatocytes
+P301_29_62	17	Hepatocytes
+P301_29_63	14	Hepatocytes
+P301_29_66	14	Hepatocytes
+P301_29_67	14	Hepatocytes
+P301_29_70	17	Hepatocytes
+P301_29_73	14	Hepatocytes
+P301_29_75	17	Hepatocytes
+P301_29_77	11	Hepatocytes
+P301_29_79	11	Hepatocytes
+P301_29_90	14	Hepatocytes
+P301_3_2	11	Hepatocytes
+P301_3_4	17	Hepatocytes
+P301_3_5	11	Hepatocytes
+P301_3_6	14	Hepatocytes
+P301_3_7	11	Hepatocytes
+P301_3_8	9	LSEC
+P301_3_9	11	Hepatocytes
+P301_3_11	11	Hepatocytes
+P301_3_13	14	Hepatocytes
+P301_3_14	2	Kupffer cell
+P301_3_15	2	Kupffer cell
+P301_3_16	17	Hepatocytes
+P301_3_17	11	Hepatocytes
+P301_3_18	17	Hepatocytes
+P301_3_19	11	Hepatocytes
+P301_3_22	14	Hepatocytes
+P301_3_23	17	Hepatocytes
+P301_3_25	11	Hepatocytes
+P301_3_27	11	Hepatocytes
+P301_3_29	11	Hepatocytes
+P301_3_30	11	Hepatocytes
+P301_3_31	2	Kupffer cell
+P301_3_32	11	Hepatocytes
+P301_3_33	17	Hepatocytes
+P301_3_34	11	Hepatocytes
+P301_3_35	2	Kupffer cell
+P301_3_36	2	Kupffer cell
+P301_3_38	17	Hepatocytes
+P301_3_40	11	Hepatocytes
+P301_3_41	11	Hepatocytes
+P301_3_42	17	Hepatocytes
+P301_3_43	17	Hepatocytes
+P301_3_44	14	Hepatocytes
+P301_3_45	11	Hepatocytes
+P301_3_46	11	Hepatocytes
+P301_3_47	17	Hepatocytes
+P301_3_51	11	Hepatocytes
+P301_3_54	17	Hepatocytes
+P301_3_56	17	Hepatocytes
+P301_3_59	2	Kupffer cell
+P301_3_60	14	Hepatocytes
+P301_3_62	11	Hepatocytes
+P301_3_66	17	Hepatocytes
+P301_3_67	11	Hepatocytes
+P301_3_68	14	Hepatocytes
+P301_3_69	11	Hepatocytes
+P301_3_70	14	Hepatocytes
+P301_3_71	11	Hepatocytes
+P301_3_74	11	Hepatocytes
+P301_3_75	17	Hepatocytes
+P301_3_77	11	Hepatocytes
+P301_3_79	14	Hepatocytes
+P301_3_80	11	Hepatocytes
+P301_3_82	17	Hepatocytes
+P301_3_83	11	Hepatocytes
+P301_3_84	11	Hepatocytes
+P301_3_85	2	Kupffer cell
+P301_3_88	14	Hepatocytes
+P301_3_89	11	Hepatocytes
+P301_3_90	11	Hepatocytes
+P301_3_91	14	Hepatocytes
+P301_3_95	11	Hepatocytes
+P301_3_96	11	Hepatocytes
+P301_30_101	11	Hepatocytes
+P301_30_102	11	Hepatocytes
+P301_30_112	11	Hepatocytes
+P301_30_114	14	Hepatocytes
+P301_30_124	11	Hepatocytes
+P301_30_126	11	Hepatocytes
+P301_30_127	11	Hepatocytes
+P301_30_128	17	Hepatocytes
+P301_30_130	11	Hepatocytes
+P301_30_132	11	Hepatocytes
+P301_30_134	11	Hepatocytes
+P301_30_136	11	Hepatocytes
+P301_30_140	17	Hepatocytes
+P301_30_143	14	Hepatocytes
+P301_30_145	11	Hepatocytes
+P301_30_148	11	Hepatocytes
+P301_30_160	11	Hepatocytes
+P301_30_161	14	Hepatocytes
+P301_30_165	11	Hepatocytes
+P301_30_169	17	Hepatocytes
+P301_30_170	14	Hepatocytes
+P301_30_171	14	Hepatocytes
+P301_30_181	11	Hepatocytes
+P301_30_182	11	Hepatocytes
+P301_30_184	14	Hepatocytes
+P301_30_185	14	Hepatocytes
+P301_30_191	11	Hepatocytes
+P301_31_1	11	Hepatocytes
+P301_31_3	11	Hepatocytes
+P301_31_10	17	Hepatocytes
+P301_31_11	11	Hepatocytes
+P301_31_12	11	Hepatocytes
+P301_31_13	17	Hepatocytes
+P301_31_19	11	Hepatocytes
+P301_31_20	17	Hepatocytes
+P301_31_23	11	Hepatocytes
+P301_31_27	11	Hepatocytes
+P301_31_34	11	Hepatocytes
+P301_31_37	11	Hepatocytes
+P301_31_38	14	Hepatocytes
+P301_31_39	11	Hepatocytes
+P301_31_41	11	Hepatocytes
+P301_31_44	11	Hepatocytes
+P301_31_48	11	Hepatocytes
+P301_31_53	14	Hepatocytes
+P301_31_59	11	Hepatocytes
+P301_31_61	11	Hepatocytes
+P301_31_69	11	Hepatocytes
+P301_31_80	11	Hepatocytes
+P301_31_88	11	Hepatocytes
+P301_31_96	11	Hepatocytes
+P301_32_98	14	Hepatocytes
+P301_32_100	14	Hepatocytes
+P301_32_103	11	Hepatocytes
+P301_32_105	11	Hepatocytes
+P301_32_106	14	Hepatocytes
+P301_32_109	11	Hepatocytes
+P301_32_110	11	Hepatocytes
+P301_32_113	11	Hepatocytes
+P301_32_120	11	Hepatocytes
+P301_32_122	11	Hepatocytes
+P301_32_124	17	Hepatocytes
+P301_32_127	11	Hepatocytes
+P301_32_128	11	Hepatocytes
+P301_32_135	11	Hepatocytes
+P301_32_137	17	Hepatocytes
+P301_32_145	11	Hepatocytes
+P301_32_150	14	Hepatocytes
+P301_32_152	11	Hepatocytes
+P301_32_154	11	Hepatocytes
+P301_32_159	14	Hepatocytes
+P301_32_160	17	Hepatocytes
+P301_32_166	11	Hepatocytes
+P301_32_170	11	Hepatocytes
+P301_32_171	14	Hepatocytes
+P301_32_174	14	Hepatocytes
+P301_32_175	11	Hepatocytes
+P301_32_177	11	Hepatocytes
+P301_32_181	11	Hepatocytes
+P301_32_188	11	Hepatocytes
+P301_32_192	17	Hepatocytes
+P301_4_97	2	Kupffer cell
+P301_4_98	14	Hepatocytes
+P301_4_100	11	Hepatocytes
+P301_4_101	2	Kupffer cell
+P301_4_102	11	Hepatocytes
+P301_4_103	14	Hepatocytes
+P301_4_104	17	Hepatocytes
+P301_4_106	11	Hepatocytes
+P301_4_109	11	Hepatocytes
+P301_4_110	11	Hepatocytes
+P301_4_111	17	Hepatocytes
+P301_4_113	17	Hepatocytes
+P301_4_114	11	Hepatocytes
+P301_4_115	11	Hepatocytes
+P301_4_116	11	Hepatocytes
+P301_4_117	11	Hepatocytes
+P301_4_124	2	Kupffer cell
+P301_4_126	11	Hepatocytes
+P301_4_127	11	Hepatocytes
+P301_4_128	11	Hepatocytes
+P301_4_130	11	Hepatocytes
+P301_4_132	2	Kupffer cell
+P301_4_134	11	Hepatocytes
+P301_4_135	11	Hepatocytes
+P301_4_136	11	Hepatocytes
+P301_4_138	2	Kupffer cell
+P301_4_139	14	Hepatocytes
+P301_4_140	11	Hepatocytes
+P301_4_143	11	Hepatocytes
+P301_4_144	17	Hepatocytes
+P301_4_146	17	Hepatocytes
+P301_4_147	14	Hepatocytes
+P301_4_149	11	Hepatocytes
+P301_4_151	17	Hepatocytes
+P301_4_153	14	Hepatocytes
+P301_4_154	17	Hepatocytes
+P301_4_155	11	Hepatocytes
+P301_4_156	14	Hepatocytes
+P301_4_157	2	Kupffer cell
+P301_4_161	11	Hepatocytes
+P301_4_162	14	Hepatocytes
+P301_4_163	14	Hepatocytes
+P301_4_164	11	Hepatocytes
+P301_4_165	17	Hepatocytes
+P301_4_171	11	Hepatocytes
+P301_4_172	14	Hepatocytes
+P301_4_174	11	Hepatocytes
+P301_4_176	11	Hepatocytes
+P301_4_178	11	Hepatocytes
+P301_4_180	17	Hepatocytes
+P301_4_181	11	Hepatocytes
+P301_4_182	11	Hepatocytes
+P301_4_184	11	Hepatocytes
+P301_4_186	17	Hepatocytes
+P301_4_187	11	Hepatocytes
+P301_4_188	20	LSEC
+P301_4_189	14	Hepatocytes
+P301_4_190	11	Hepatocytes
+P301_4_191	11	Hepatocytes
+P301_4_192	11	Hepatocytes
+P301_5_1	11	Hepatocytes
+P301_5_2	11	Hepatocytes
+P301_5_3	11	Hepatocytes
+P301_5_4	11	Hepatocytes
+P301_5_5	11	Hepatocytes
+P301_5_7	11	Hepatocytes
+P301_5_8	11	Hepatocytes
+P301_5_9	11	Hepatocytes
+P301_5_10	11	Hepatocytes
+P301_5_11	11	Hepatocytes
+P301_5_12	11	Hepatocytes
+P301_5_13	11	Hepatocytes
+P301_5_14	11	Hepatocytes
+P301_5_15	11	Hepatocytes
+P301_5_16	11	Hepatocytes
+P301_5_17	11	Hepatocytes
+P301_5_18	11	Hepatocytes
+P301_5_19	11	Hepatocytes
+P301_5_20	11	Hepatocytes
+P301_5_21	11	Hepatocytes
+P301_5_22	11	Hepatocytes
+P301_5_23	11	Hepatocytes
+P301_5_24	11	Hepatocytes
+P301_5_25	11	Hepatocytes
+P301_5_26	11	Hepatocytes
+P301_5_28	14	Hepatocytes
+P301_5_30	11	Hepatocytes
+P301_5_32	11	Hepatocytes
+P301_5_33	11	Hepatocytes
+P301_5_36	11	Hepatocytes
+P301_5_37	11	Hepatocytes
+P301_5_38	11	Hepatocytes
+P301_5_39	11	Hepatocytes
+P301_5_40	11	Hepatocytes
+P301_5_41	11	Hepatocytes
+P301_5_42	11	Hepatocytes
+P301_5_43	11	Hepatocytes
+P301_5_44	11	Hepatocytes
+P301_5_45	11	Hepatocytes
+P301_5_46	11	Hepatocytes
+P301_5_48	11	Hepatocytes
+P301_5_49	11	Hepatocytes
+P301_5_50	11	Hepatocytes
+P301_5_51	11	Hepatocytes
+P301_5_53	11	Hepatocytes
+P301_5_54	11	Hepatocytes
+P301_5_55	11	Hepatocytes
+P301_5_56	11	Hepatocytes
+P301_5_57	11	Hepatocytes
+P301_5_58	11	Hepatocytes
+P301_5_59	11	Hepatocytes
+P301_5_60	11	Hepatocytes
+P301_5_61	11	Hepatocytes
+P301_5_62	11	Hepatocytes
+P301_5_63	11	Hepatocytes
+P301_5_64	11	Hepatocytes
+P301_5_66	11	Hepatocytes
+P301_5_67	11	Hepatocytes
+P301_5_68	11	Hepatocytes
+P301_5_69	17	Hepatocytes
+P301_5_70	11	Hepatocytes
+P301_5_72	11	Hepatocytes
+P301_5_74	11	Hepatocytes
+P301_5_75	11	Hepatocytes
+P301_5_76	11	Hepatocytes
+P301_5_77	11	Hepatocytes
+P301_5_78	11	Hepatocytes
+P301_5_79	11	Hepatocytes
+P301_5_80	11	Hepatocytes
+P301_5_81	11	Hepatocytes
+P301_5_82	17	Hepatocytes
+P301_5_84	11	Hepatocytes
+P301_5_85	11	Hepatocytes
+P301_5_86	11	Hepatocytes
+P301_5_89	11	Hepatocytes
+P301_5_90	11	Hepatocytes
+P301_5_91	11	Hepatocytes
+P301_5_92	11	Hepatocytes
+P301_5_94	11	Hepatocytes
+P301_5_95	11	Hepatocytes
+P301_5_96	11	Hepatocytes
+P301_5_181	11	Hepatocytes
+P301_6_97	11	Hepatocytes
+P301_6_98	11	Hepatocytes
+P301_6_99	11	Hepatocytes
+P301_6_100	11	Hepatocytes
+P301_6_101	11	Hepatocytes
+P301_6_102	11	Hepatocytes
+P301_6_103	11	Hepatocytes
+P301_6_104	11	Hepatocytes
+P301_6_105	11	Hepatocytes
+P301_6_106	11	Hepatocytes
+P301_6_107	11	Hepatocytes
+P301_6_108	11	Hepatocytes
+P301_6_109	11	Hepatocytes
+P301_6_110	11	Hepatocytes
+P301_6_111	11	Hepatocytes
+P301_6_112	11	Hepatocytes
+P301_6_113	11	Hepatocytes
+P301_6_115	11	Hepatocytes
+P301_6_116	11	Hepatocytes
+P301_6_117	11	Hepatocytes
+P301_6_118	11	Hepatocytes
+P301_6_120	11	Hepatocytes
+P301_6_123	11	Hepatocytes
+P301_6_124	11	Hepatocytes
+P301_6_125	11	Hepatocytes
+P301_6_126	11	Hepatocytes
+P301_6_127	14	Hepatocytes
+P301_6_128	11	Hepatocytes
+P301_6_129	11	Hepatocytes
+P301_6_130	11	Hepatocytes
+P301_6_131	11	Hepatocytes
+P301_6_132	11	Hepatocytes
+P301_6_133	11	Hepatocytes
+P301_6_134	11	Hepatocytes
+P301_6_136	11	Hepatocytes
+P301_6_137	11	Hepatocytes
+P301_6_140	11	Hepatocytes
+P301_6_141	11	Hepatocytes
+P301_6_142	11	Hepatocytes
+P301_6_143	11	Hepatocytes
+P301_6_144	11	Hepatocytes
+P301_6_145	11	Hepatocytes
+P301_6_147	11	Hepatocytes
+P301_6_148	11	Hepatocytes
+P301_6_149	11	Hepatocytes
+P301_6_151	11	Hepatocytes
+P301_6_152	11	Hepatocytes
+P301_6_153	11	Hepatocytes
+P301_6_154	11	Hepatocytes
+P301_6_156	11	Hepatocytes
+P301_6_159	11	Hepatocytes
+P301_6_160	11	Hepatocytes
+P301_6_162	14	Hepatocytes
+P301_6_165	11	Hepatocytes
+P301_6_166	11	Hepatocytes
+P301_6_167	11	Hepatocytes
+P301_6_168	11	Hepatocytes
+P301_6_169	11	Hepatocytes
+P301_6_170	11	Hepatocytes
+P301_6_171	11	Hepatocytes
+P301_6_175	11	Hepatocytes
+P301_6_176	11	Hepatocytes
+P301_6_177	11	Hepatocytes
+P301_6_178	11	Hepatocytes
+P301_6_179	11	Hepatocytes
+P301_6_180	11	Hepatocytes
+P301_6_181	11	Hepatocytes
+P301_6_182	11	Hepatocytes
+P301_6_183	11	Hepatocytes
+P301_6_184	11	Hepatocytes
+P301_6_185	11	Hepatocytes
+P301_6_187	11	Hepatocytes
+P301_6_188	11	Hepatocytes
+P301_6_190	11	Hepatocytes
+P301_6_192	11	Hepatocytes
+P301_7_1	14	Hepatocytes
+P301_7_3	14	Hepatocytes
+P301_7_4	11	Hepatocytes
+P301_7_5	11	Hepatocytes
+P301_7_6	11	Hepatocytes
+P301_7_7	11	Hepatocytes
+P301_7_8	17	Hepatocytes
+P301_7_10	14	Hepatocytes
+P301_7_11	17	Hepatocytes
+P301_7_12	11	Hepatocytes
+P301_7_14	11	Hepatocytes
+P301_7_16	14	Hepatocytes
+P301_7_17	11	Hepatocytes
+P301_7_18	11	Hepatocytes
+P301_7_19	11	Hepatocytes
+P301_7_20	11	Hepatocytes
+P301_7_21	11	Hepatocytes
+P301_7_22	17	Hepatocytes
+P301_7_23	11	Hepatocytes
+P301_7_24	11	Hepatocytes
+P301_7_26	14	Hepatocytes
+P301_7_27	11	Hepatocytes
+P301_7_28	11	Hepatocytes
+P301_7_29	14	Hepatocytes
+P301_7_31	11	Hepatocytes
+P301_7_32	11	Hepatocytes
+P301_7_33	11	Hepatocytes
+P301_7_35	11	Hepatocytes
+P301_7_36	11	Hepatocytes
+P301_7_37	17	Hepatocytes
+P301_7_38	17	Hepatocytes
+P301_7_39	11	Hepatocytes
+P301_7_40	14	Hepatocytes
+P301_7_41	11	Hepatocytes
+P301_7_42	11	Hepatocytes
+P301_7_43	11	Hepatocytes
+P301_7_44	14	Hepatocytes
+P301_7_45	11	Hepatocytes
+P301_7_46	11	Hepatocytes
+P301_7_47	11	Hepatocytes
+P301_7_48	17	Hepatocytes
+P301_7_49	11	Hepatocytes
+P301_7_50	11	Hepatocytes
+P301_7_51	11	Hepatocytes
+P301_7_52	11	Hepatocytes
+P301_7_53	11	Hepatocytes
+P301_7_54	11	Hepatocytes
+P301_7_55	11	Hepatocytes
+P301_7_56	17	Hepatocytes
+P301_7_57	17	Hepatocytes
+P301_7_58	17	Hepatocytes
+P301_7_59	11	Hepatocytes
+P301_7_60	11	Hepatocytes
+P301_7_61	14	Hepatocytes
+P301_7_62	17	Hepatocytes
+P301_7_63	11	Hepatocytes
+P301_7_65	11	Hepatocytes
+P301_7_66	11	Hepatocytes
+P301_7_67	11	Hepatocytes
+P301_7_68	11	Hepatocytes
+P301_7_70	17	Hepatocytes
+P301_7_71	14	Hepatocytes
+P301_7_72	11	Hepatocytes
+P301_7_73	11	Hepatocytes
+P301_7_74	11	Hepatocytes
+P301_7_75	14	Hepatocytes
+P301_7_76	17	Hepatocytes
+P301_7_78	11	Hepatocytes
+P301_7_79	11	Hepatocytes
+P301_7_80	14	Hepatocytes
+P301_7_81	11	Hepatocytes
+P301_7_82	11	Hepatocytes
+P301_7_83	11	Hepatocytes
+P301_7_84	14	Hepatocytes
+P301_7_85	11	Hepatocytes
+P301_7_86	17	Hepatocytes
+P301_7_87	11	Hepatocytes
+P301_7_88	11	Hepatocytes
+P301_7_89	11	Hepatocytes
+P301_7_90	14	Hepatocytes
+P301_7_91	14	Hepatocytes
+P301_7_92	11	Hepatocytes
+P301_7_93	11	Hepatocytes
+P301_7_94	14	Hepatocytes
+P301_7_95	11	Hepatocytes
+P301_7_96	14	Hepatocytes
+P301_8_97	11	Hepatocytes
+P301_8_98	11	Hepatocytes
+P301_8_101	11	Hepatocytes
+P301_8_102	14	Hepatocytes
+P301_8_104	11	Hepatocytes
+P301_8_105	11	Hepatocytes
+P301_8_106	11	Hepatocytes
+P301_8_107	11	Hepatocytes
+P301_8_108	11	Hepatocytes
+P301_8_110	11	Hepatocytes
+P301_8_111	11	Hepatocytes
+P301_8_112	11	Hepatocytes
+P301_8_113	11	Hepatocytes
+P301_8_114	11	Hepatocytes
+P301_8_116	11	Hepatocytes
+P301_8_117	11	Hepatocytes
+P301_8_118	11	Hepatocytes
+P301_8_119	11	Hepatocytes
+P301_8_120	17	Hepatocytes
+P301_8_121	14	Hepatocytes
+P301_8_122	11	Hepatocytes
+P301_8_124	11	Hepatocytes
+P301_8_125	17	Hepatocytes
+P301_8_126	11	Hepatocytes
+P301_8_127	14	Hepatocytes
+P301_8_128	17	Hepatocytes
+P301_8_129	11	Hepatocytes
+P301_8_130	14	Hepatocytes
+P301_8_131	14	Hepatocytes
+P301_8_132	11	Hepatocytes
+P301_8_133	11	Hepatocytes
+P301_8_134	11	Hepatocytes
+P301_8_135	11	Hepatocytes
+P301_8_136	11	Hepatocytes
+P301_8_137	11	Hepatocytes
+P301_8_138	17	Hepatocytes
+P301_8_139	11	Hepatocytes
+P301_8_140	11	Hepatocytes
+P301_8_141	11	Hepatocytes
+P301_8_143	11	Hepatocytes
+P301_8_144	11	Hepatocytes
+P301_8_145	11	Hepatocytes
+P301_8_147	11	Hepatocytes
+P301_8_148	11	Hepatocytes
+P301_8_150	11	Hepatocytes
+P301_8_152	11	Hepatocytes
+P301_8_153	11	Hepatocytes
+P301_8_154	14	Hepatocytes
+P301_8_155	14	Hepatocytes
+P301_8_156	11	Hepatocytes
+P301_8_157	17	Hepatocytes
+P301_8_158	11	Hepatocytes
+P301_8_159	14	Hepatocytes
+P301_8_160	11	Hepatocytes
+P301_8_161	11	Hepatocytes
+P301_8_162	11	Hepatocytes
+P301_8_164	17	Hepatocytes
+P301_8_166	11	Hepatocytes
+P301_8_168	11	Hepatocytes
+P301_8_169	11	Hepatocytes
+P301_8_170	11	Hepatocytes
+P301_8_171	11	Hepatocytes
+P301_8_172	11	Hepatocytes
+P301_8_173	11	Hepatocytes
+P301_8_174	11	Hepatocytes
+P301_8_175	11	Hepatocytes
+P301_8_176	11	Hepatocytes
+P301_8_177	11	Hepatocytes
+P301_8_178	11	Hepatocytes
+P301_8_179	11	Hepatocytes
+P301_8_180	11	Hepatocytes
+P301_8_181	11	Hepatocytes
+P301_8_183	11	Hepatocytes
+P301_8_185	11	Hepatocytes
+P301_8_186	11	Hepatocytes
+P301_8_187	11	Hepatocytes
+P301_8_188	14	Hepatocytes
+P301_8_190	11	Hepatocytes
+P301_8_191	11	Hepatocytes
+P301_8_192	11	Hepatocytes
+P301_9_1	14	Hepatocytes
+P301_9_2	11	Hepatocytes
+P301_9_3	11	Hepatocytes
+P301_9_4	11	Hepatocytes
+P301_9_5	14	Hepatocytes
+P301_9_6	17	Hepatocytes
+P301_9_7	14	Hepatocytes
+P301_9_8	11	Hepatocytes
+P301_9_9	14	Hepatocytes
+P301_9_10	11	Hepatocytes
+P301_9_11	11	Hepatocytes
+P301_9_12	17	Hepatocytes
+P301_9_13	17	Hepatocytes
+P301_9_14	14	Hepatocytes
+P301_9_15	11	Hepatocytes
+P301_9_16	11	Hepatocytes
+P301_9_17	14	Hepatocytes
+P301_9_18	17	Hepatocytes
+P301_9_19	14	Hepatocytes
+P301_9_20	11	Hepatocytes
+P301_9_21	11	Hepatocytes
+P301_9_22	11	Hepatocytes
+P301_9_23	14	Hepatocytes
+P301_9_26	14	Hepatocytes
+P301_9_27	11	Hepatocytes
+P301_9_28	11	Hepatocytes
+P301_9_29	14	Hepatocytes
+P301_9_30	11	Hepatocytes
+P301_9_32	17	Hepatocytes
+P301_9_33	14	Hepatocytes
+P301_9_34	11	Hepatocytes
+P301_9_35	17	Hepatocytes
+P301_9_36	14	Hepatocytes
+P301_9_37	11	Hepatocytes
+P301_9_38	17	Hepatocytes
+P301_9_39	14	Hepatocytes
+P301_9_40	11	Hepatocytes
+P301_9_41	11	Hepatocytes
+P301_9_43	17	Hepatocytes
+P301_9_44	17	Hepatocytes
+P301_9_45	17	Hepatocytes
+P301_9_46	11	Hepatocytes
+P301_9_47	11	Hepatocytes
+P301_9_49	14	Hepatocytes
+P301_9_50	11	Hepatocytes
+P301_9_51	17	Hepatocytes
+P301_9_52	17	Hepatocytes
+P301_9_53	11	Hepatocytes
+P301_9_55	11	Hepatocytes
+P301_9_56	14	Hepatocytes
+P301_9_58	17	Hepatocytes
+P301_9_59	11	Hepatocytes
+P301_9_60	17	Hepatocytes
+P301_9_61	11	Hepatocytes
+P301_9_62	17	Hepatocytes
+P301_9_64	14	Hepatocytes
+P301_9_66	17	Hepatocytes
+P301_9_68	11	Hepatocytes
+P301_9_69	17	Hepatocytes
+P301_9_70	11	Hepatocytes
+P301_9_71	17	Hepatocytes
+P301_9_72	11	Hepatocytes
+P301_9_73	14	Hepatocytes
+P301_9_74	14	Hepatocytes
+P301_9_75	11	Hepatocytes
+P301_9_76	11	Hepatocytes
+P301_9_77	14	Hepatocytes
+P301_9_78	14	Hepatocytes
+P301_9_79	14	Hepatocytes
+P301_9_80	11	Hepatocytes
+P301_9_81	11	Hepatocytes
+P301_9_82	17	Hepatocytes
+P301_9_83	14	Hepatocytes
+P301_9_84	11	Hepatocytes
+P301_9_86	11	Hepatocytes
+P301_9_87	11	Hepatocytes
+P301_9_88	17	Hepatocytes
+P301_9_89	14	Hepatocytes
+P301_9_90	14	Hepatocytes
+P301_9_91	17	Hepatocytes
+P301_9_92	14	Hepatocytes
+P301_9_93	14	Hepatocytes
+P301_9_94	14	Hepatocytes
+P301_9_95	11	Hepatocytes
+P301_9_96	11	Hepatocytes
+P304_1_2	11	Hepatocytes
+P304_1_4	11	Hepatocytes
+P304_1_5	11	Hepatocytes
+P304_1_7	11	Hepatocytes
+P304_1_8	14	Hepatocytes
+P304_1_9	11	Hepatocytes
+P304_1_12	17	Hepatocytes
+P304_1_13	11	Hepatocytes
+P304_1_14	11	Hepatocytes
+P304_1_15	11	Hepatocytes
+P304_1_16	17	Hepatocytes
+P304_1_17	11	Hepatocytes
+P304_1_19	11	Hepatocytes
+P304_1_20	11	Hepatocytes
+P304_1_22	11	Hepatocytes
+P304_1_27	11	Hepatocytes
+P304_1_28	11	Hepatocytes
+P304_1_33	11	Hepatocytes
+P304_1_34	11	Hepatocytes
+P304_1_36	17	Hepatocytes
+P304_1_37	17	Hepatocytes
+P304_1_38	11	Hepatocytes
+P304_1_41	11	Hepatocytes
+P304_1_42	11	Hepatocytes
+P304_1_43	2	Kupffer cell
+P304_1_45	11	Hepatocytes
+P304_1_47	11	Hepatocytes
+P304_1_48	11	Hepatocytes
+P304_1_51	11	Hepatocytes
+P304_1_52	11	Hepatocytes
+P304_1_54	11	Hepatocytes
+P304_1_56	11	Hepatocytes
+P304_1_57	11	Hepatocytes
+P304_1_58	11	Hepatocytes
+P304_1_60	11	Hepatocytes
+P304_1_64	11	Hepatocytes
+P304_1_66	11	Hepatocytes
+P304_1_67	11	Hepatocytes
+P304_1_68	11	Hepatocytes
+P304_1_69	11	Hepatocytes
+P304_1_71	11	Hepatocytes
+P304_1_73	11	Hepatocytes
+P304_1_74	14	Hepatocytes
+P304_1_75	11	Hepatocytes
+P304_1_76	14	Hepatocytes
+P304_1_77	11	Hepatocytes
+P304_1_79	11	Hepatocytes
+P304_1_80	11	Hepatocytes
+P304_1_83	11	Hepatocytes
+P304_1_86	11	Hepatocytes
+P304_1_87	17	Hepatocytes
+P304_1_88	11	Hepatocytes
+P304_1_90	11	Hepatocytes
+P304_1_92	17	Hepatocytes
+P304_10_14	14	Hepatocytes
+P304_10_19	14	Hepatocytes
+P304_10_25	14	Hepatocytes
+P304_10_31	17	Hepatocytes
+P304_10_36	14	Hepatocytes
+P304_10_45	14	Hepatocytes
+P304_10_48	14	Hepatocytes
+P304_10_52	14	Hepatocytes
+P304_10_60	14	Hepatocytes
+P304_10_62	14	Hepatocytes
+P304_10_67	14	Hepatocytes
+P304_10_75	11	Hepatocytes
+P304_10_91	14	Hepatocytes
+P304_11_100	14	Hepatocytes
+P304_11_108	11	Hepatocytes
+P304_11_110	14	Hepatocytes
+P304_11_111	14	Hepatocytes
+P304_11_112	14	Hepatocytes
+P304_11_113	11	Hepatocytes
+P304_11_116	11	Hepatocytes
+P304_11_118	11	Hepatocytes
+P304_11_120	11	Hepatocytes
+P304_11_126	11	Hepatocytes
+P304_11_128	14	Hepatocytes
+P304_11_134	11	Hepatocytes
+P304_11_139	11	Hepatocytes
+P304_11_140	14	Hepatocytes
+P304_11_141	14	Hepatocytes
+P304_11_142	11	Hepatocytes
+P304_11_145	11	Hepatocytes
+P304_11_151	11	Hepatocytes
+P304_11_157	14	Hepatocytes
+P304_11_159	14	Hepatocytes
+P304_11_164	11	Hepatocytes
+P304_11_166	14	Hepatocytes
+P304_11_168	11	Hepatocytes
+P304_11_184	11	Hepatocytes
+P304_11_188	11	Hepatocytes
+P304_11_192	11	Hepatocytes
+P304_12_99	6	Kupffer cell
+P304_12_101	31	Kupffer cell
+P304_12_107	20	LSEC
+P304_12_109	25	Kupffer cell
+P304_12_111	2	Kupffer cell
+P304_12_117	23	Kupffer cell
+P304_12_122	2	Kupffer cell
+P304_12_126	2	Kupffer cell
+P304_12_128	2	Kupffer cell
+P304_12_130	2	Kupffer cell
+P304_12_131	2	Kupffer cell
+P304_12_132	6	Kupffer cell
+P304_12_136	23	Kupffer cell
+P304_12_137	2	Kupffer cell
+P304_12_142	2	Kupffer cell
+P304_12_146	9	LSEC
+P304_12_157	23	Kupffer cell
+P304_12_160	2	Kupffer cell
+P304_12_161	9	LSEC
+P304_12_162	6	Kupffer cell
+P304_12_165	23	Kupffer cell
+P304_12_166	2	Kupffer cell
+P304_12_170	23	Kupffer cell
+P304_12_171	6	Kupffer cell
+P304_12_174	2	Kupffer cell
+P304_12_179	2	Kupffer cell
+P304_12_181	2	Kupffer cell
+P304_12_182	6	Kupffer cell
+P304_12_183	2	Kupffer cell
+P304_12_187	6	Kupffer cell
+P304_12_189	2	Kupffer cell
+P304_12_192	2	Kupffer cell
+P304_13_5	2	Kupffer cell
+P304_13_13	20	LSEC
+P304_13_15	25	Kupffer cell
+P304_13_19	9	LSEC
+P304_13_23	20	LSEC
+P304_13_24	20	LSEC
+P304_13_27	6	Kupffer cell
+P304_13_32	6	Kupffer cell
+P304_13_37	6	Kupffer cell
+P304_13_40	2	Kupffer cell
+P304_13_42	6	Kupffer cell
+P304_13_43	6	Kupffer cell
+P304_13_44	2	Kupffer cell
+P304_13_48	6	Kupffer cell
+P304_13_49	25	Kupffer cell
+P304_13_50	2	Kupffer cell
+P304_13_51	6	Kupffer cell
+P304_13_52	20	LSEC
+P304_13_54	2	Kupffer cell
+P304_13_56	2	Kupffer cell
+P304_13_57	9	LSEC
+P304_13_59	25	Kupffer cell
+P304_13_60	20	LSEC
+P304_13_61	2	Kupffer cell
+P304_13_62	6	Kupffer cell
+P304_13_63	2	Kupffer cell
+P304_13_67	2	Kupffer cell
+P304_13_68	9	LSEC
+P304_13_71	2	Kupffer cell
+P304_13_76	25	Kupffer cell
+P304_13_79	23	Kupffer cell
+P304_13_80	2	Kupffer cell
+P304_13_85	2	Kupffer cell
+P304_13_93	2	Kupffer cell
+P304_13_94	2	Kupffer cell
+P304_13_95	2	Kupffer cell
+P304_14_98	2	Kupffer cell
+P304_14_100	9	LSEC
+P304_14_104	2	Kupffer cell
+P304_14_109	23	Kupffer cell
+P304_14_111	6	Kupffer cell
+P304_14_113	2	Kupffer cell
+P304_14_114	24	EPCAM+
+P304_14_116	2	Kupffer cell
+P304_14_117	2	Kupffer cell
+P304_14_118	2	Kupffer cell
+P304_14_120	31	Kupffer cell
+P304_14_123	2	Kupffer cell
+P304_14_125	6	Kupffer cell
+P304_14_126	9	LSEC
+P304_14_128	2	Kupffer cell
+P304_14_131	2	Kupffer cell
+P304_14_133	23	Kupffer cell
+P304_14_135	2	Kupffer cell
+P304_14_139	2	Kupffer cell
+P304_14_142	2	Kupffer cell
+P304_14_144	2	Kupffer cell
+P304_14_149	2	Kupffer cell
+P304_14_150	2	Kupffer cell
+P304_14_152	23	Kupffer cell
+P304_14_155	6	Kupffer cell
+P304_14_158	9	LSEC
+P304_14_159	6	Kupffer cell
+P304_14_162	23	Kupffer cell
+P304_14_163	23	Kupffer cell
+P304_14_164	2	Kupffer cell
+P304_14_165	6	Kupffer cell
+P304_14_166	6	Kupffer cell
+P304_14_168	2	Kupffer cell
+P304_14_171	2	Kupffer cell
+P304_14_177	2	Kupffer cell
+P304_14_181	2	Kupffer cell
+P304_14_182	2	Kupffer cell
+P304_14_189	20	LSEC
+P304_14_191	25	Kupffer cell
+P304_16_2	23	Kupffer cell
+P304_16_7	2	Kupffer cell
+P304_16_16	2	Kupffer cell
+P304_16_18	23	Kupffer cell
+P304_16_22	2	Kupffer cell
+P304_16_23	2	Kupffer cell
+P304_16_24	20	LSEC
+P304_16_25	25	Kupffer cell
+P304_16_38	23	Kupffer cell
+P304_16_39	6	Kupffer cell
+P304_16_42	6	Kupffer cell
+P304_16_45	2	Kupffer cell
+P304_16_57	6	Kupffer cell
+P304_16_58	2	Kupffer cell
+P304_16_65	6	Kupffer cell
+P304_16_66	23	Kupffer cell
+P304_16_76	2	Kupffer cell
+P304_16_82	6	Kupffer cell
+P304_16_83	2	Kupffer cell
+P304_16_85	2	Kupffer cell
+P304_16_89	6	Kupffer cell
+P304_16_95	2	Kupffer cell
+P304_17_2	14	Hepatocytes
+P304_17_4	17	Hepatocytes
+P304_17_5	11	Hepatocytes
+P304_17_6	14	Hepatocytes
+P304_17_7	11	Hepatocytes
+P304_17_9	14	Hepatocytes
+P304_17_10	17	Hepatocytes
+P304_17_11	11	Hepatocytes
+P304_17_12	11	Hepatocytes
+P304_17_14	17	Hepatocytes
+P304_17_15	11	Hepatocytes
+P304_17_16	17	Hepatocytes
+P304_17_17	11	Hepatocytes
+P304_17_18	11	Hepatocytes
+P304_17_19	17	Hepatocytes
+P304_17_20	11	Hepatocytes
+P304_17_21	11	Hepatocytes
+P304_17_22	11	Hepatocytes
+P304_17_24	11	Hepatocytes
+P304_17_25	17	Hepatocytes
+P304_17_26	17	Hepatocytes
+P304_17_29	11	Hepatocytes
+P304_17_30	14	Hepatocytes
+P304_17_31	11	Hepatocytes
+P304_17_33	11	Hepatocytes
+P304_17_34	11	Hepatocytes
+P304_17_35	11	Hepatocytes
+P304_17_36	14	Hepatocytes
+P304_17_37	11	Hepatocytes
+P304_17_38	11	Hepatocytes
+P304_17_39	11	Hepatocytes
+P304_17_40	11	Hepatocytes
+P304_17_41	11	Hepatocytes
+P304_17_43	11	Hepatocytes
+P304_17_44	17	Hepatocytes
+P304_17_45	17	Hepatocytes
+P304_17_46	14	Hepatocytes
+P304_17_47	14	Hepatocytes
+P304_17_48	11	Hepatocytes
+P304_17_49	11	Hepatocytes
+P304_17_50	14	Hepatocytes
+P304_17_51	2	Kupffer cell
+P304_17_53	17	Hepatocytes
+P304_17_55	11	Hepatocytes
+P304_17_57	14	Hepatocytes
+P304_17_59	11	Hepatocytes
+P304_17_60	11	Hepatocytes
+P304_17_61	11	Hepatocytes
+P304_17_63	11	Hepatocytes
+P304_17_64	11	Hepatocytes
+P304_17_65	17	Hepatocytes
+P304_17_67	11	Hepatocytes
+P304_17_68	11	Hepatocytes
+P304_17_69	17	Hepatocytes
+P304_17_70	11	Hepatocytes
+P304_17_71	14	Hepatocytes
+P304_17_72	11	Hepatocytes
+P304_17_74	14	Hepatocytes
+P304_17_75	11	Hepatocytes
+P304_17_76	11	Hepatocytes
+P304_17_77	11	Hepatocytes
+P304_17_78	11	Hepatocytes
+P304_17_79	11	Hepatocytes
+P304_17_82	11	Hepatocytes
+P304_17_83	11	Hepatocytes
+P304_17_84	14	Hepatocytes
+P304_17_86	17	Hepatocytes
+P304_17_87	17	Hepatocytes
+P304_17_88	11	Hepatocytes
+P304_17_89	17	Hepatocytes
+P304_17_90	11	Hepatocytes
+P304_17_91	11	Hepatocytes
+P304_17_92	11	Hepatocytes
+P304_17_93	17	Hepatocytes
+P304_17_96	14	Hepatocytes
+P304_18_97	14	Hepatocytes
+P304_18_98	11	Hepatocytes
+P304_18_99	11	Hepatocytes
+P304_18_100	11	Hepatocytes
+P304_18_101	11	Hepatocytes
+P304_18_102	11	Hepatocytes
+P304_18_103	11	Hepatocytes
+P304_18_105	14	Hepatocytes
+P304_18_107	11	Hepatocytes
+P304_18_108	14	Hepatocytes
+P304_18_110	11	Hepatocytes
+P304_18_111	11	Hepatocytes
+P304_18_112	14	Hepatocytes
+P304_18_113	14	Hepatocytes
+P304_18_114	11	Hepatocytes
+P304_18_116	14	Hepatocytes
+P304_18_117	11	Hepatocytes
+P304_18_118	17	Hepatocytes
+P304_18_119	14	Hepatocytes
+P304_18_120	14	Hepatocytes
+P304_18_121	11	Hepatocytes
+P304_18_122	11	Hepatocytes
+P304_18_123	11	Hepatocytes
+P304_18_125	11	Hepatocytes
+P304_18_127	11	Hepatocytes
+P304_18_128	17	Hepatocytes
+P304_18_129	11	Hepatocytes
+P304_18_130	11	Hepatocytes
+P304_18_131	11	Hepatocytes
+P304_18_134	11	Hepatocytes
+P304_18_136	11	Hepatocytes
+P304_18_138	11	Hepatocytes
+P304_18_139	11	Hepatocytes
+P304_18_140	11	Hepatocytes
+P304_18_141	9	LSEC
+P304_18_143	11	Hepatocytes
+P304_18_144	9	LSEC
+P304_18_145	14	Hepatocytes
+P304_18_146	2	Kupffer cell
+P304_18_148	11	Hepatocytes
+P304_18_149	11	Hepatocytes
+P304_18_150	14	Hepatocytes
+P304_18_151	11	Hepatocytes
+P304_18_153	14	Hepatocytes
+P304_18_154	14	Hepatocytes
+P304_18_155	11	Hepatocytes
+P304_18_156	11	Hepatocytes
+P304_18_157	11	Hepatocytes
+P304_18_158	14	Hepatocytes
+P304_18_160	11	Hepatocytes
+P304_18_161	17	Hepatocytes
+P304_18_162	11	Hepatocytes
+P304_18_164	11	Hepatocytes
+P304_18_165	11	Hepatocytes
+P304_18_166	11	Hepatocytes
+P304_18_168	14	Hepatocytes
+P304_18_170	2	Kupffer cell
+P304_18_172	14	Hepatocytes
+P304_18_173	11	Hepatocytes
+P304_18_174	14	Hepatocytes
+P304_18_175	11	Hepatocytes
+P304_18_176	14	Hepatocytes
+P304_18_179	11	Hepatocytes
+P304_18_180	11	Hepatocytes
+P304_18_181	11	Hepatocytes
+P304_18_182	11	Hepatocytes
+P304_18_183	11	Hepatocytes
+P304_18_184	13	LSEC
+P304_18_185	11	Hepatocytes
+P304_18_186	17	Hepatocytes
+P304_18_187	11	Hepatocytes
+P304_18_188	11	Hepatocytes
+P304_18_190	25	Kupffer cell
+P304_18_191	2	Kupffer cell
+P304_18_192	11	Hepatocytes
+P304_2_97	11	Hepatocytes
+P304_2_98	20	LSEC
+P304_2_101	2	Kupffer cell
+P304_2_102	11	Hepatocytes
+P304_2_103	17	Hepatocytes
+P304_2_105	11	Hepatocytes
+P304_2_107	11	Hepatocytes
+P304_2_108	11	Hepatocytes
+P304_2_109	11	Hepatocytes
+P304_2_110	17	Hepatocytes
+P304_2_111	17	Hepatocytes
+P304_2_112	11	Hepatocytes
+P304_2_117	11	Hepatocytes
+P304_2_118	11	Hepatocytes
+P304_2_121	11	Hepatocytes
+P304_2_127	14	Hepatocytes
+P304_2_128	11	Hepatocytes
+P304_2_129	11	Hepatocytes
+P304_2_130	11	Hepatocytes
+P304_2_131	11	Hepatocytes
+P304_2_136	11	Hepatocytes
+P304_2_141	11	Hepatocytes
+P304_2_144	11	Hepatocytes
+P304_2_145	11	Hepatocytes
+P304_2_147	11	Hepatocytes
+P304_2_148	11	Hepatocytes
+P304_2_149	11	Hepatocytes
+P304_2_150	11	Hepatocytes
+P304_2_152	6	Kupffer cell
+P304_2_153	11	Hepatocytes
+P304_2_156	17	Hepatocytes
+P304_2_157	11	Hepatocytes
+P304_2_158	11	Hepatocytes
+P304_2_162	11	Hepatocytes
+P304_2_163	11	Hepatocytes
+P304_2_164	6	Kupffer cell
+P304_2_165	11	Hepatocytes
+P304_2_171	11	Hepatocytes
+P304_2_176	11	Hepatocytes
+P304_2_177	11	Hepatocytes
+P304_2_178	11	Hepatocytes
+P304_2_179	11	Hepatocytes
+P304_2_180	11	Hepatocytes
+P304_2_181	11	Hepatocytes
+P304_2_185	11	Hepatocytes
+P304_2_186	2	Kupffer cell
+P304_2_187	11	Hepatocytes
+P304_2_188	17	Hepatocytes
+P304_2_189	11	Hepatocytes
+P304_2_190	17	Hepatocytes
+P304_2_192	11	Hepatocytes
+P304_3_1	11	Hepatocytes
+P304_3_2	17	Hepatocytes
+P304_3_4	11	Hepatocytes
+P304_3_7	17	Hepatocytes
+P304_3_9	11	Hepatocytes
+P304_3_10	11	Hepatocytes
+P304_3_13	11	Hepatocytes
+P304_3_14	11	Hepatocytes
+P304_3_15	11	Hepatocytes
+P304_3_19	11	Hepatocytes
+P304_3_23	11	Hepatocytes
+P304_3_25	11	Hepatocytes
+P304_3_26	11	Hepatocytes
+P304_3_28	17	Hepatocytes
+P304_3_29	11	Hepatocytes
+P304_3_30	2	Kupffer cell
+P304_3_31	17	Hepatocytes
+P304_3_33	11	Hepatocytes
+P304_3_34	11	Hepatocytes
+P304_3_35	11	Hepatocytes
+P304_3_36	11	Hepatocytes
+P304_3_37	11	Hepatocytes
+P304_3_41	11	Hepatocytes
+P304_3_43	11	Hepatocytes
+P304_3_44	20	LSEC
+P304_3_45	11	Hepatocytes
+P304_3_48	11	Hepatocytes
+P304_3_49	17	Hepatocytes
+P304_3_50	17	Hepatocytes
+P304_3_51	11	Hepatocytes
+P304_3_54	20	LSEC
+P304_3_56	2	Kupffer cell
+P304_3_57	11	Hepatocytes
+P304_3_58	11	Hepatocytes
+P304_3_59	11	Hepatocytes
+P304_3_61	11	Hepatocytes
+P304_3_65	11	Hepatocytes
+P304_3_67	11	Hepatocytes
+P304_3_68	11	Hepatocytes
+P304_3_69	11	Hepatocytes
+P304_3_70	11	Hepatocytes
+P304_3_71	11	Hepatocytes
+P304_3_73	11	Hepatocytes
+P304_3_74	11	Hepatocytes
+P304_3_80	11	Hepatocytes
+P304_3_84	11	Hepatocytes
+P304_3_85	11	Hepatocytes
+P304_3_88	17	Hepatocytes
+P304_3_89	11	Hepatocytes
+P304_3_91	11	Hepatocytes
+P304_3_92	11	Hepatocytes
+P304_3_93	11	Hepatocytes
+P304_3_94	17	Hepatocytes
+P304_3_95	11	Hepatocytes
+P304_3_96	11	Hepatocytes
+P304_4_100	11	Hepatocytes
+P304_4_102	11	Hepatocytes
+P304_4_103	11	Hepatocytes
+P304_4_104	11	Hepatocytes
+P304_4_109	11	Hepatocytes
+P304_4_110	6	Kupffer cell
+P304_4_112	11	Hepatocytes
+P304_4_116	11	Hepatocytes
+P304_4_119	11	Hepatocytes
+P304_4_121	11	Hepatocytes
+P304_4_122	11	Hepatocytes
+P304_4_126	11	Hepatocytes
+P304_4_127	11	Hepatocytes
+P304_4_128	11	Hepatocytes
+P304_4_129	11	Hepatocytes
+P304_4_130	11	Hepatocytes
+P304_4_131	6	Kupffer cell
+P304_4_132	11	Hepatocytes
+P304_4_134	11	Hepatocytes
+P304_4_135	11	Hepatocytes
+P304_4_136	11	Hepatocytes
+P304_4_137	11	Hepatocytes
+P304_4_138	11	Hepatocytes
+P304_4_139	11	Hepatocytes
+P304_4_144	11	Hepatocytes
+P304_4_146	11	Hepatocytes
+P304_4_147	11	Hepatocytes
+P304_4_148	17	Hepatocytes
+P304_4_151	11	Hepatocytes
+P304_4_152	11	Hepatocytes
+P304_4_153	11	Hepatocytes
+P304_4_154	11	Hepatocytes
+P304_4_155	11	Hepatocytes
+P304_4_157	11	Hepatocytes
+P304_4_159	11	Hepatocytes
+P304_4_160	11	Hepatocytes
+P304_4_162	11	Hepatocytes
+P304_4_164	11	Hepatocytes
+P304_4_166	11	Hepatocytes
+P304_4_170	11	Hepatocytes
+P304_4_171	11	Hepatocytes
+P304_4_172	2	Kupffer cell
+P304_4_174	11	Hepatocytes
+P304_4_175	2	Kupffer cell
+P304_4_176	11	Hepatocytes
+P304_4_178	11	Hepatocytes
+P304_4_180	11	Hepatocytes
+P304_4_181	14	Hepatocytes
+P304_4_182	11	Hepatocytes
+P304_4_186	11	Hepatocytes
+P304_4_188	9	LSEC
+P304_4_189	11	Hepatocytes
+P304_4_191	11	Hepatocytes
+P304_4_192	11	Hepatocytes
+P304_5_98	23	Kupffer cell
+P304_5_99	2	Kupffer cell
+P304_5_101	2	Kupffer cell
+P304_5_105	2	Kupffer cell
+P304_5_108	25	Kupffer cell
+P304_5_119	2	Kupffer cell
+P304_5_120	25	Kupffer cell
+P304_5_121	2	Kupffer cell
+P304_5_124	2	Kupffer cell
+P304_5_125	2	Kupffer cell
+P304_5_129	23	Kupffer cell
+P304_5_139	25	Kupffer cell
+P304_5_149	14	Hepatocytes
+P304_5_150	2	Kupffer cell
+P304_5_153	2	Kupffer cell
+P304_5_155	2	Kupffer cell
+P304_5_160	23	Kupffer cell
+P304_5_161	2	Kupffer cell
+P304_5_168	9	LSEC
+P304_5_173	2	Kupffer cell
+P304_5_177	9	LSEC
+P304_5_181	11	Hepatocytes
+P304_5_182	2	Kupffer cell
+P304_5_185	31	Kupffer cell
+P304_5_188	11	Hepatocytes
+P304_5_191	2	Kupffer cell
+P304_6_3	2	Kupffer cell
+P304_6_7	2	Kupffer cell
+P304_6_8	2	Kupffer cell
+P304_6_19	17	Hepatocytes
+P304_6_20	2	Kupffer cell
+P304_6_25	2	Kupffer cell
+P304_6_27	11	Hepatocytes
+P304_6_38	2	Kupffer cell
+P304_6_47	2	Kupffer cell
+P304_6_59	2	Kupffer cell
+P304_6_62	2	Kupffer cell
+P304_6_63	6	Kupffer cell
+P304_6_67	2	Kupffer cell
+P304_6_71	2	Kupffer cell
+P304_6_72	2	Kupffer cell
+P304_6_73	13	LSEC
+P304_6_78	2	Kupffer cell
+P304_6_79	2	Kupffer cell
+P304_6_89	13	LSEC
+P304_6_91	6	Kupffer cell
+P304_6_93	2	Kupffer cell
+P304_6_95	2	Kupffer cell
+P304_7_102	2	Kupffer cell
+P304_7_107	2	Kupffer cell
+P304_7_108	2	Kupffer cell
+P304_7_110	2	Kupffer cell
+P304_7_114	11	Hepatocytes
+P304_7_117	2	Kupffer cell
+P304_7_119	2	Kupffer cell
+P304_7_126	2	Kupffer cell
+P304_7_129	9	LSEC
+P304_7_136	2	Kupffer cell
+P304_7_137	2	Kupffer cell
+P304_7_138	2	Kupffer cell
+P304_7_139	11	Hepatocytes
+P304_7_142	2	Kupffer cell
+P304_7_145	25	Kupffer cell
+P304_7_151	2	Kupffer cell
+P304_7_152	2	Kupffer cell
+P304_7_161	2	Kupffer cell
+P304_7_165	2	Kupffer cell
+P304_7_178	2	Kupffer cell
+P304_7_185	2	Kupffer cell
+P304_7_188	2	Kupffer cell
+P304_8_97	11	Hepatocytes
+P304_8_98	11	Hepatocytes
+P304_8_99	11	Hepatocytes
+P304_8_100	11	Hepatocytes
+P304_8_101	11	Hepatocytes
+P304_8_103	11	Hepatocytes
+P304_8_104	11	Hepatocytes
+P304_8_106	11	Hepatocytes
+P304_8_107	11	Hepatocytes
+P304_8_108	11	Hepatocytes
+P304_8_109	11	Hepatocytes
+P304_8_111	11	Hepatocytes
+P304_8_112	11	Hepatocytes
+P304_8_114	17	Hepatocytes
+P304_8_115	11	Hepatocytes
+P304_8_118	11	Hepatocytes
+P304_8_120	11	Hepatocytes
+P304_8_121	11	Hepatocytes
+P304_8_122	11	Hepatocytes
+P304_8_123	11	Hepatocytes
+P304_8_124	11	Hepatocytes
+P304_8_125	11	Hepatocytes
+P304_8_128	14	Hepatocytes
+P304_8_130	11	Hepatocytes
+P304_8_131	11	Hepatocytes
+P304_8_133	11	Hepatocytes
+P304_8_134	11	Hepatocytes
+P304_8_136	11	Hepatocytes
+P304_8_138	11	Hepatocytes
+P304_8_140	11	Hepatocytes
+P304_8_141	11	Hepatocytes
+P304_8_144	11	Hepatocytes
+P304_8_146	11	Hepatocytes
+P304_8_148	11	Hepatocytes
+P304_8_149	11	Hepatocytes
+P304_8_150	11	Hepatocytes
+P304_8_151	11	Hepatocytes
+P304_8_152	11	Hepatocytes
+P304_8_154	11	Hepatocytes
+P304_8_155	11	Hepatocytes
+P304_8_156	11	Hepatocytes
+P304_8_159	11	Hepatocytes
+P304_8_160	11	Hepatocytes
+P304_8_162	11	Hepatocytes
+P304_8_163	11	Hepatocytes
+P304_8_164	11	Hepatocytes
+P304_8_166	11	Hepatocytes
+P304_8_172	11	Hepatocytes
+P304_8_173	11	Hepatocytes
+P304_8_174	11	Hepatocytes
+P304_8_175	11	Hepatocytes
+P304_8_176	11	Hepatocytes
+P304_8_177	11	Hepatocytes
+P304_8_181	17	Hepatocytes
+P304_8_182	11	Hepatocytes
+P304_8_184	11	Hepatocytes
+P304_8_188	11	Hepatocytes
+P304_8_190	11	Hepatocytes
+P304_8_191	11	Hepatocytes
+P304_8_192	11	Hepatocytes
+P304_9_1	11	Hepatocytes
+P304_9_2	11	Hepatocytes
+P304_9_6	11	Hepatocytes
+P304_9_8	17	Hepatocytes
+P304_9_9	11	Hepatocytes
+P304_9_11	17	Hepatocytes
+P304_9_14	11	Hepatocytes
+P304_9_15	11	Hepatocytes
+P304_9_18	11	Hepatocytes
+P304_9_20	11	Hepatocytes
+P304_9_22	11	Hepatocytes
+P304_9_23	11	Hepatocytes
+P304_9_24	17	Hepatocytes
+P304_9_26	11	Hepatocytes
+P304_9_27	17	Hepatocytes
+P304_9_30	11	Hepatocytes
+P304_9_32	11	Hepatocytes
+P304_9_33	11	Hepatocytes
+P304_9_34	11	Hepatocytes
+P304_9_36	11	Hepatocytes
+P304_9_37	11	Hepatocytes
+P304_9_39	11	Hepatocytes
+P304_9_40	11	Hepatocytes
+P304_9_42	11	Hepatocytes
+P304_9_44	14	Hepatocytes
+P304_9_45	11	Hepatocytes
+P304_9_46	11	Hepatocytes
+P304_9_48	11	Hepatocytes
+P304_9_49	11	Hepatocytes
+P304_9_50	11	Hepatocytes
+P304_9_51	11	Hepatocytes
+P304_9_52	17	Hepatocytes
+P304_9_53	11	Hepatocytes
+P304_9_54	11	Hepatocytes
+P304_9_56	11	Hepatocytes
+P304_9_57	11	Hepatocytes
+P304_9_58	11	Hepatocytes
+P304_9_59	11	Hepatocytes
+P304_9_61	14	Hepatocytes
+P304_9_62	11	Hepatocytes
+P304_9_63	17	Hepatocytes
+P304_9_65	11	Hepatocytes
+P304_9_66	11	Hepatocytes
+P304_9_69	14	Hepatocytes
+P304_9_71	11	Hepatocytes
+P304_9_73	11	Hepatocytes
+P304_9_78	11	Hepatocytes
+P304_9_79	11	Hepatocytes
+P304_9_83	11	Hepatocytes
+P304_9_84	11	Hepatocytes
+P304_9_86	11	Hepatocytes
+P304_9_87	11	Hepatocytes
+P304_9_88	11	Hepatocytes
+P304_9_90	11	Hepatocytes
+P304_9_91	11	Hepatocytes
+P304_9_92	11	Hepatocytes
+P304_9_93	11	Hepatocytes
+P304_9_96	11	Hepatocytes
+P308_1_2	13	LSEC
+P308_1_10	6	Kupffer cell
+P308_1_11	14	Hepatocytes
+P308_1_28	13	LSEC
+P308_1_29	14	Hepatocytes
+P308_1_36	17	Hepatocytes
+P308_1_37	6	Kupffer cell
+P308_1_38	6	Kupffer cell
+P308_1_42	9	LSEC
+P308_1_43	6	Kupffer cell
+P308_1_44	6	Kupffer cell
+P308_1_47	9	LSEC
+P308_1_48	9	LSEC
+P308_1_51	31	Kupffer cell
+P308_1_55	6	Kupffer cell
+P308_1_56	2	Kupffer cell
+P308_1_59	11	Hepatocytes
+P308_1_62	11	Hepatocytes
+P308_1_63	30	Hepatocytes
+P308_1_67	6	Kupffer cell
+P308_1_68	9	LSEC
+P308_1_69	13	LSEC
+P308_1_71	25	Kupffer cell
+P308_1_77	9	LSEC
+P308_1_78	6	Kupffer cell
+P308_1_79	6	Kupffer cell
+P308_1_84	31	Kupffer cell
+P308_1_85	6	Kupffer cell
+P308_1_89	14	Hepatocytes
+P308_1_93	9	LSEC
+P308_1_94	6	Kupffer cell
+P308_1_96	4	EPCAM+
+P308_10_108	17	Hepatocytes
+P308_10_111	11	Hepatocytes
+P308_10_118	9	LSEC
+P308_10_124	13	LSEC
+P308_10_137	7	EPCAM+
+P308_10_141	14	Hepatocytes
+P308_10_183	4	EPCAM+
+P308_10_186	7	EPCAM+
+P308_11_98	9	LSEC
+P308_11_109	14	Hepatocytes
+P308_11_119	14	Hepatocytes
+P308_11_120	13	LSEC
+P308_11_148	14	Hepatocytes
+P308_12_98	31	Kupffer cell
+P308_12_110	20	LSEC
+P308_12_112	14	Hepatocytes
+P308_12_135	14	Hepatocytes
+P308_12_151	13	LSEC
+P308_12_156	13	LSEC
+P308_13_99	9	LSEC
+P308_13_104	31	Kupffer cell
+P308_13_113	9	LSEC
+P308_13_114	14	Hepatocytes
+P308_13_120	9	LSEC
+P308_13_122	14	Hepatocytes
+P308_13_127	14	Hepatocytes
+P308_13_136	14	Hepatocytes
+P308_13_152	9	LSEC
+P308_13_154	14	Hepatocytes
+P308_13_162	14	Hepatocytes
+P308_13_169	9	LSEC
+P308_13_173	9	LSEC
+P308_13_185	9	LSEC
+P308_14_1	13	LSEC
+P308_14_5	9	LSEC
+P308_14_20	14	Hepatocytes
+P308_14_27	9	LSEC
+P308_14_33	13	LSEC
+P308_14_48	31	Kupffer cell
+P308_14_66	4	EPCAM+
+P308_14_75	9	LSEC
+P308_15_7	2	Kupffer cell
+P308_15_15	9	LSEC
+P308_15_28	9	LSEC
+P308_15_57	9	LSEC
+P308_15_58	13	LSEC
+P308_15_59	7	EPCAM+
+P308_15_70	6	Kupffer cell
+P308_15_77	25	Kupffer cell
+P308_15_84	11	Hepatocytes
+P308_16_9	14	Hepatocytes
+P308_16_15	14	Hepatocytes
+P308_16_18	14	Hepatocytes
+P308_16_35	14	Hepatocytes
+P308_16_43	9	LSEC
+P308_16_53	13	LSEC
+P308_16_60	9	LSEC
+P308_16_72	13	LSEC
+P308_17_104	6	Kupffer cell
+P308_17_105	14	Hepatocytes
+P308_17_108	6	Kupffer cell
+P308_17_114	2	Kupffer cell
+P308_17_125	6	Kupffer cell
+P308_17_129	6	Kupffer cell
+P308_17_133	2	Kupffer cell
+P308_17_134	2	Kupffer cell
+P308_17_154	6	Kupffer cell
+P308_17_155	6	Kupffer cell
+P308_17_164	6	Kupffer cell
+P308_17_165	6	Kupffer cell
+P308_17_173	6	Kupffer cell
+P308_17_174	6	Kupffer cell
+P308_17_176	6	Kupffer cell
+P308_17_178	6	Kupffer cell
+P308_17_179	6	Kupffer cell
+P308_17_184	6	Kupffer cell
+P308_17_192	6	Kupffer cell
+P308_18_6	6	Kupffer cell
+P308_18_23	6	Kupffer cell
+P308_18_31	2	Kupffer cell
+P308_18_33	2	Kupffer cell
+P308_18_36	6	Kupffer cell
+P308_18_38	6	Kupffer cell
+P308_18_40	2	Kupffer cell
+P308_18_44	2	Kupffer cell
+P308_18_45	6	Kupffer cell
+P308_18_48	6	Kupffer cell
+P308_18_57	2	Kupffer cell
+P308_18_68	2	Kupffer cell
+P308_18_71	2	Kupffer cell
+P308_18_72	6	Kupffer cell
+P308_18_77	6	Kupffer cell
+P308_18_90	6	Kupffer cell
+P308_18_92	6	Kupffer cell
+P308_19_4	6	Kupffer cell
+P308_19_6	6	Kupffer cell
+P308_19_13	25	Kupffer cell
+P308_19_15	6	Kupffer cell
+P308_19_22	6	Kupffer cell
+P308_19_31	6	Kupffer cell
+P308_19_36	6	Kupffer cell
+P308_19_37	2	Kupffer cell
+P308_19_45	6	Kupffer cell
+P308_19_62	2	Kupffer cell
+P308_19_69	6	Kupffer cell
+P308_19_73	6	Kupffer cell
+P308_19_74	6	Kupffer cell
+P308_19_78	2	Kupffer cell
+P308_19_79	2	Kupffer cell
+P308_19_86	6	Kupffer cell
+P308_19_93	6	Kupffer cell
+P308_2_97	6	Kupffer cell
+P308_2_103	6	Kupffer cell
+P308_2_112	20	LSEC
+P308_2_114	6	Kupffer cell
+P308_2_118	13	LSEC
+P308_2_125	9	LSEC
+P308_2_126	13	LSEC
+P308_2_130	6	Kupffer cell
+P308_2_134	2	Kupffer cell
+P308_2_138	7	EPCAM+
+P308_2_139	6	Kupffer cell
+P308_2_140	9	LSEC
+P308_2_143	13	LSEC
+P308_2_151	17	Hepatocytes
+P308_2_152	6	Kupffer cell
+P308_2_154	9	LSEC
+P308_2_166	13	LSEC
+P308_2_169	6	Kupffer cell
+P308_2_172	4	EPCAM+
+P308_2_173	6	Kupffer cell
+P308_2_174	6	Kupffer cell
+P308_2_178	13	LSEC
+P308_2_182	9	LSEC
+P308_2_190	17	Hepatocytes
+P308_21_103	2	Kupffer cell
+P308_21_166	2	Kupffer cell
+P308_22_12	2	Kupffer cell
+P308_22_40	2	Kupffer cell
+P308_23_8	9	LSEC
+P308_23_10	2	Kupffer cell
+P308_23_17	2	Kupffer cell
+P308_23_18	2	Kupffer cell
+P308_23_19	6	Kupffer cell
+P308_23_21	6	Kupffer cell
+P308_23_22	6	Kupffer cell
+P308_23_23	6	Kupffer cell
+P308_23_24	2	Kupffer cell
+P308_23_26	6	Kupffer cell
+P308_23_28	6	Kupffer cell
+P308_23_32	6	Kupffer cell
+P308_23_34	2	Kupffer cell
+P308_23_42	2	Kupffer cell
+P308_23_45	2	Kupffer cell
+P308_23_47	2	Kupffer cell
+P308_23_48	2	Kupffer cell
+P308_23_49	6	Kupffer cell
+P308_23_55	2	Kupffer cell
+P308_23_61	13	LSEC
+P308_23_63	6	Kupffer cell
+P308_23_64	13	LSEC
+P308_23_66	6	Kupffer cell
+P308_23_67	6	Kupffer cell
+P308_23_74	17	Hepatocytes
+P308_23_75	9	LSEC
+P308_23_77	2	Kupffer cell
+P308_23_79	2	Kupffer cell
+P308_23_80	9	LSEC
+P308_23_84	13	LSEC
+P308_23_90	6	Kupffer cell
+P308_23_91	13	LSEC
+P308_23_92	9	LSEC
+P308_23_93	6	Kupffer cell
+P308_23_94	17	Hepatocytes
+P308_24_98	14	Hepatocytes
+P308_24_100	2	Kupffer cell
+P308_24_101	2	Kupffer cell
+P308_24_102	2	Kupffer cell
+P308_24_103	13	LSEC
+P308_24_104	2	Kupffer cell
+P308_24_106	6	Kupffer cell
+P308_24_107	9	LSEC
+P308_24_111	14	Hepatocytes
+P308_24_112	2	Kupffer cell
+P308_24_114	6	Kupffer cell
+P308_24_116	6	Kupffer cell
+P308_24_118	2	Kupffer cell
+P308_24_119	6	Kupffer cell
+P308_24_120	14	Hepatocytes
+P308_24_121	6	Kupffer cell
+P308_24_125	6	Kupffer cell
+P308_24_130	13	LSEC
+P308_24_132	17	Hepatocytes
+P308_24_134	13	LSEC
+P308_24_140	6	Kupffer cell
+P308_24_143	17	Hepatocytes
+P308_24_145	6	Kupffer cell
+P308_24_147	6	Kupffer cell
+P308_24_152	13	LSEC
+P308_24_154	2	Kupffer cell
+P308_24_159	13	LSEC
+P308_24_163	6	Kupffer cell
+P308_24_166	6	Kupffer cell
+P308_24_168	9	LSEC
+P308_24_169	14	Hepatocytes
+P308_24_172	14	Hepatocytes
+P308_24_173	2	Kupffer cell
+P308_24_175	2	Kupffer cell
+P308_24_177	9	LSEC
+P308_24_178	9	LSEC
+P308_24_180	6	Kupffer cell
+P308_24_181	6	Kupffer cell
+P308_24_182	6	Kupffer cell
+P308_24_183	17	Hepatocytes
+P308_24_185	2	Kupffer cell
+P308_24_188	2	Kupffer cell
+P308_24_191	6	Kupffer cell
+P308_25_2	9	LSEC
+P308_25_7	6	Kupffer cell
+P308_25_8	14	Hepatocytes
+P308_25_11	6	Kupffer cell
+P308_25_12	9	LSEC
+P308_25_14	14	Hepatocytes
+P308_25_17	14	Hepatocytes
+P308_25_21	6	Kupffer cell
+P308_25_24	6	Kupffer cell
+P308_25_27	6	Kupffer cell
+P308_25_29	6	Kupffer cell
+P308_25_30	6	Kupffer cell
+P308_25_31	2	Kupffer cell
+P308_25_32	13	LSEC
+P308_25_36	6	Kupffer cell
+P308_25_39	14	Hepatocytes
+P308_25_40	2	Kupffer cell
+P308_25_41	2	Kupffer cell
+P308_25_42	6	Kupffer cell
+P308_25_44	6	Kupffer cell
+P308_25_50	6	Kupffer cell
+P308_25_51	6	Kupffer cell
+P308_25_52	6	Kupffer cell
+P308_25_55	9	LSEC
+P308_25_58	13	LSEC
+P308_25_64	6	Kupffer cell
+P308_25_67	6	Kupffer cell
+P308_25_69	6	Kupffer cell
+P308_25_70	6	Kupffer cell
+P308_25_71	6	Kupffer cell
+P308_25_74	2	Kupffer cell
+P308_25_75	13	LSEC
+P308_25_76	2	Kupffer cell
+P308_25_77	6	Kupffer cell
+P308_25_78	6	Kupffer cell
+P308_25_79	9	LSEC
+P308_25_80	6	Kupffer cell
+P308_25_82	2	Kupffer cell
+P308_25_83	2	Kupffer cell
+P308_25_84	2	Kupffer cell
+P308_25_86	14	Hepatocytes
+P308_25_87	2	Kupffer cell
+P308_25_89	17	Hepatocytes
+P308_25_90	6	Kupffer cell
+P308_25_91	9	LSEC
+P308_25_92	6	Kupffer cell
+P308_25_93	6	Kupffer cell
+P308_25_95	9	LSEC
+P308_25_96	9	LSEC
+P308_27_12	9	LSEC
+P308_27_19	13	LSEC
+P308_27_25	6	Kupffer cell
+P308_27_32	6	Kupffer cell
+P308_27_36	23	Kupffer cell
+P308_27_46	23	Kupffer cell
+P308_27_53	23	Kupffer cell
+P308_27_59	14	Hepatocytes
+P308_27_66	2	Kupffer cell
+P308_27_71	6	Kupffer cell
+P308_27_77	2	Kupffer cell
+P308_27_87	25	Kupffer cell
+P308_28_59	14	Hepatocytes
+P308_28_130	2	Kupffer cell
+P308_28_134	20	LSEC
+P308_28_150	9	LSEC
+P308_28_166	9	LSEC
+P308_28_167	2	Kupffer cell
+P308_28_168	13	LSEC
+P308_28_191	13	LSEC
+P308_29_1	6	Kupffer cell
+P308_29_3	6	Kupffer cell
+P308_29_9	6	Kupffer cell
+P308_29_11	6	Kupffer cell
+P308_29_17	14	Hepatocytes
+P308_29_18	7	EPCAM+
+P308_29_19	6	Kupffer cell
+P308_29_20	7	EPCAM+
+P308_29_27	6	Kupffer cell
+P308_29_28	6	Kupffer cell
+P308_29_35	6	Kupffer cell
+P308_29_36	2	Kupffer cell
+P308_29_43	14	Hepatocytes
+P308_29_44	2	Kupffer cell
+P308_29_50	4	EPCAM+
+P308_29_57	6	Kupffer cell
+P308_29_59	6	Kupffer cell
+P308_29_68	2	Kupffer cell
+P308_29_74	6	Kupffer cell
+P308_29_75	17	Hepatocytes
+P308_29_81	9	LSEC
+P308_29_84	6	Kupffer cell
+P308_29_89	6	Kupffer cell
+P308_29_92	17	Hepatocytes
+P308_29_97	2	Kupffer cell
+P308_29_98	6	Kupffer cell
+P308_29_108	2	Kupffer cell
+P308_29_113	6	Kupffer cell
+P308_29_114	2	Kupffer cell
+P308_29_115	7	EPCAM+
+P308_29_116	6	Kupffer cell
+P308_29_122	4	EPCAM+
+P308_29_123	6	Kupffer cell
+P308_29_129	2	Kupffer cell
+P308_29_131	6	Kupffer cell
+P308_29_132	4	EPCAM+
+P308_29_137	13	LSEC
+P308_29_139	6	Kupffer cell
+P308_29_145	6	Kupffer cell
+P308_29_146	6	Kupffer cell
+P308_29_153	6	Kupffer cell
+P308_29_154	6	Kupffer cell
+P308_29_163	9	LSEC
+P308_29_164	6	Kupffer cell
+P308_29_172	6	Kupffer cell
+P308_29_177	4	EPCAM+
+P308_29_187	4	EPCAM+
+P308_3_2	4	EPCAM+
+P308_3_8	6	Kupffer cell
+P308_3_9	13	LSEC
+P308_3_16	6	Kupffer cell
+P308_3_19	9	LSEC
+P308_3_20	6	Kupffer cell
+P308_3_21	6	Kupffer cell
+P308_3_23	17	Hepatocytes
+P308_3_24	9	LSEC
+P308_3_26	6	Kupffer cell
+P308_3_27	9	LSEC
+P308_3_31	6	Kupffer cell
+P308_3_34	9	LSEC
+P308_3_40	9	LSEC
+P308_3_41	6	Kupffer cell
+P308_3_48	4	EPCAM+
+P308_3_49	6	Kupffer cell
+P308_3_50	6	Kupffer cell
+P308_3_52	13	LSEC
+P308_3_63	9	LSEC
+P308_3_65	6	Kupffer cell
+P308_3_68	13	LSEC
+P308_3_69	13	LSEC
+P308_3_71	13	LSEC
+P308_3_72	6	Kupffer cell
+P308_3_73	6	Kupffer cell
+P308_3_75	9	LSEC
+P308_3_76	6	Kupffer cell
+P308_3_82	25	Kupffer cell
+P308_3_83	17	Hepatocytes
+P308_3_86	6	Kupffer cell
+P308_3_87	6	Kupffer cell
+P308_3_88	9	LSEC
+P308_3_92	6	Kupffer cell
+P308_3_95	9	LSEC
+P308_3_96	17	Hepatocytes
+P308_30_100	7	EPCAM+
+P308_30_101	4	EPCAM+
+P308_30_102	24	EPCAM+
+P308_30_106	4	EPCAM+
+P308_30_107	7	EPCAM+
+P308_30_108	7	EPCAM+
+P308_30_114	4	EPCAM+
+P308_30_115	7	EPCAM+
+P308_30_121	4	EPCAM+
+P308_30_122	4	EPCAM+
+P308_30_124	11	Hepatocytes
+P308_30_126	7	EPCAM+
+P308_30_129	11	Hepatocytes
+P308_30_130	4	EPCAM+
+P308_30_131	7	EPCAM+
+P308_30_134	4	EPCAM+
+P308_30_139	11	Hepatocytes
+P308_30_140	7	EPCAM+
+P308_30_145	4	EPCAM+
+P308_30_163	7	EPCAM+
+P308_30_165	11	Hepatocytes
+P308_30_169	7	EPCAM+
+P308_30_170	14	Hepatocytes
+P308_30_174	9	LSEC
+P308_30_178	7	EPCAM+
+P308_31_3	4	EPCAM+
+P308_31_4	7	EPCAM+
+P308_31_6	9	LSEC
+P308_31_9	4	EPCAM+
+P308_31_13	7	EPCAM+
+P308_31_17	7	EPCAM+
+P308_31_20	7	EPCAM+
+P308_31_22	9	LSEC
+P308_31_25	4	EPCAM+
+P308_31_26	7	EPCAM+
+P308_31_28	7	EPCAM+
+P308_31_29	17	Hepatocytes
+P308_31_34	7	EPCAM+
+P308_31_35	7	EPCAM+
+P308_31_36	24	EPCAM+
+P308_31_37	4	EPCAM+
+P308_31_41	7	EPCAM+
+P308_31_42	11	Hepatocytes
+P308_31_43	4	EPCAM+
+P308_31_50	7	EPCAM+
+P308_31_51	7	EPCAM+
+P308_31_54	4	EPCAM+
+P308_31_57	17	Hepatocytes
+P308_31_66	7	EPCAM+
+P308_31_70	4	EPCAM+
+P308_31_73	7	EPCAM+
+P308_31_75	4	EPCAM+
+P308_31_77	24	EPCAM+
+P308_31_90	4	EPCAM+
+P308_31_92	7	EPCAM+
+P308_31_93	7	EPCAM+
+P308_31_94	4	EPCAM+
+P308_32_97	4	EPCAM+
+P308_32_99	17	Hepatocytes
+P308_32_100	7	EPCAM+
+P308_32_105	4	EPCAM+
+P308_32_106	11	Hepatocytes
+P308_32_108	4	EPCAM+
+P308_32_110	9	LSEC
+P308_32_115	14	Hepatocytes
+P308_32_117	7	EPCAM+
+P308_32_122	7	EPCAM+
+P308_32_123	7	EPCAM+
+P308_32_124	7	EPCAM+
+P308_32_125	4	EPCAM+
+P308_32_126	4	EPCAM+
+P308_32_129	4	EPCAM+
+P308_32_130	4	EPCAM+
+P308_32_131	4	EPCAM+
+P308_32_134	7	EPCAM+
+P308_32_137	4	EPCAM+
+P308_32_139	4	EPCAM+
+P308_32_148	14	Hepatocytes
+P308_32_154	7	EPCAM+
+P308_32_155	4	EPCAM+
+P308_32_161	7	EPCAM+
+P308_32_162	11	Hepatocytes
+P308_32_165	9	LSEC
+P308_32_166	4	EPCAM+
+P308_32_169	7	EPCAM+
+P308_32_178	7	EPCAM+
+P308_32_179	11	Hepatocytes
+P308_32_181	4	EPCAM+
+P308_32_185	4	EPCAM+
+P308_32_186	7	EPCAM+
+P308_32_188	7	EPCAM+
+P308_32_190	7	EPCAM+
+P308_33_1	7	EPCAM+
+P308_33_2	4	EPCAM+
+P308_33_3	7	EPCAM+
+P308_33_17	7	EPCAM+
+P308_33_20	11	Hepatocytes
+P308_33_25	4	EPCAM+
+P308_33_30	9	LSEC
+P308_33_38	7	EPCAM+
+P308_33_44	7	EPCAM+
+P308_33_49	11	Hepatocytes
+P308_33_53	17	Hepatocytes
+P308_33_57	4	EPCAM+
+P308_33_58	4	EPCAM+
+P308_33_65	4	EPCAM+
+P308_33_68	7	EPCAM+
+P308_33_69	7	EPCAM+
+P308_33_73	7	EPCAM+
+P308_33_75	7	EPCAM+
+P308_33_81	11	Hepatocytes
+P308_33_85	4	EPCAM+
+P308_33_89	4	EPCAM+
+P308_33_93	11	Hepatocytes
+P308_34_1	7	EPCAM+
+P308_34_3	4	EPCAM+
+P308_34_4	7	EPCAM+
+P308_34_10	4	EPCAM+
+P308_34_11	7	EPCAM+
+P308_34_12	4	EPCAM+
+P308_34_17	24	EPCAM+
+P308_34_18	7	EPCAM+
+P308_34_20	4	EPCAM+
+P308_34_25	7	EPCAM+
+P308_34_26	7	EPCAM+
+P308_34_27	17	Hepatocytes
+P308_34_28	14	Hepatocytes
+P308_34_33	7	EPCAM+
+P308_34_35	7	EPCAM+
+P308_34_36	4	EPCAM+
+P308_34_41	7	EPCAM+
+P308_34_42	17	Hepatocytes
+P308_34_43	4	EPCAM+
+P308_34_44	4	EPCAM+
+P308_34_50	4	EPCAM+
+P308_34_51	4	EPCAM+
+P308_34_52	4	EPCAM+
+P308_34_59	4	EPCAM+
+P308_34_60	4	EPCAM+
+P308_34_67	4	EPCAM+
+P308_34_68	7	EPCAM+
+P308_34_73	4	EPCAM+
+P308_34_74	24	EPCAM+
+P308_34_75	17	Hepatocytes
+P308_34_76	7	EPCAM+
+P308_34_81	4	EPCAM+
+P308_34_82	7	EPCAM+
+P308_34_83	7	EPCAM+
+P308_34_84	7	EPCAM+
+P308_34_89	14	Hepatocytes
+P308_34_90	17	Hepatocytes
+P308_34_91	7	EPCAM+
+P308_34_92	4	EPCAM+
+P308_34_97	14	Hepatocytes
+P308_34_98	4	EPCAM+
+P308_34_99	24	EPCAM+
+P308_34_100	4	EPCAM+
+P308_34_105	4	EPCAM+
+P308_34_106	7	EPCAM+
+P308_34_108	7	EPCAM+
+P308_34_113	17	Hepatocytes
+P308_34_114	7	EPCAM+
+P308_34_115	7	EPCAM+
+P308_34_116	4	EPCAM+
+P308_34_121	17	Hepatocytes
+P308_34_122	4	EPCAM+
+P308_34_123	7	EPCAM+
+P308_34_124	7	EPCAM+
+P308_34_129	6	Kupffer cell
+P308_34_132	4	EPCAM+
+P308_34_137	4	EPCAM+
+P308_34_138	7	EPCAM+
+P308_34_139	7	EPCAM+
+P308_34_140	7	EPCAM+
+P308_34_147	4	EPCAM+
+P308_34_148	4	EPCAM+
+P308_34_153	4	EPCAM+
+P308_34_154	7	EPCAM+
+P308_34_161	7	EPCAM+
+P308_34_163	7	EPCAM+
+P308_34_164	7	EPCAM+
+P308_34_169	7	EPCAM+
+P308_34_170	7	EPCAM+
+P308_34_171	7	EPCAM+
+P308_34_172	7	EPCAM+
+P308_34_177	17	Hepatocytes
+P308_34_178	4	EPCAM+
+P308_34_180	7	EPCAM+
+P308_34_186	4	EPCAM+
+P308_34_187	7	EPCAM+
+P308_35_30	14	Hepatocytes
+P308_35_39	13	LSEC
+P308_35_45	9	LSEC
+P308_35_56	6	Kupffer cell
+P308_35_60	2	Kupffer cell
+P308_36_101	2	Kupffer cell
+P308_36_109	14	Hepatocytes
+P308_36_132	6	Kupffer cell
+P308_36_142	2	Kupffer cell
+P308_36_152	14	Hepatocytes
+P308_36_153	13	LSEC
+P308_36_163	9	LSEC
+P308_36_171	14	Hepatocytes
+P308_36_176	6	Kupffer cell
+P308_36_191	6	Kupffer cell
+P308_4_105	6	Kupffer cell
+P308_4_108	6	Kupffer cell
+P308_4_111	13	LSEC
+P308_4_112	6	Kupffer cell
+P308_4_117	6	Kupffer cell
+P308_4_123	6	Kupffer cell
+P308_4_127	9	LSEC
+P308_4_128	6	Kupffer cell
+P308_4_130	6	Kupffer cell
+P308_4_131	13	LSEC
+P308_4_132	6	Kupffer cell
+P308_4_136	9	LSEC
+P308_4_137	6	Kupffer cell
+P308_4_139	14	Hepatocytes
+P308_4_144	6	Kupffer cell
+P308_4_153	6	Kupffer cell
+P308_4_156	6	Kupffer cell
+P308_4_158	13	LSEC
+P308_4_160	9	LSEC
+P308_4_162	6	Kupffer cell
+P308_4_173	9	LSEC
+P308_4_174	6	Kupffer cell
+P308_4_175	14	Hepatocytes
+P308_4_179	6	Kupffer cell
+P308_4_181	13	LSEC
+P308_4_186	13	LSEC
+P308_4_187	11	Hepatocytes
+P308_4_190	6	Kupffer cell
+P308_5_2	9	LSEC
+P308_5_3	13	LSEC
+P308_5_4	9	LSEC
+P308_5_10	7	EPCAM+
+P308_5_17	9	LSEC
+P308_5_20	9	LSEC
+P308_5_23	9	LSEC
+P308_5_25	13	LSEC
+P308_5_27	9	LSEC
+P308_5_31	9	LSEC
+P308_5_36	9	LSEC
+P308_5_37	9	LSEC
+P308_5_41	9	LSEC
+P308_5_47	9	LSEC
+P308_5_48	11	Hepatocytes
+P308_5_50	9	LSEC
+P308_5_52	9	LSEC
+P308_5_53	9	LSEC
+P308_5_54	13	LSEC
+P308_5_56	9	LSEC
+P308_5_59	14	Hepatocytes
+P308_5_64	9	LSEC
+P308_5_65	14	Hepatocytes
+P308_5_66	9	LSEC
+P308_5_75	9	LSEC
+P308_5_76	9	LSEC
+P308_5_86	9	LSEC
+P308_5_88	13	LSEC
+P308_5_91	9	LSEC
+P308_5_92	17	Hepatocytes
+P308_5_94	9	LSEC
+P308_6_98	9	LSEC
+P308_6_108	13	LSEC
+P308_6_114	14	Hepatocytes
+P308_6_115	9	LSEC
+P308_6_120	9	LSEC
+P308_6_121	9	LSEC
+P308_6_123	9	LSEC
+P308_6_131	13	LSEC
+P308_6_132	9	LSEC
+P308_6_144	17	Hepatocytes
+P308_6_149	7	EPCAM+
+P308_6_153	9	LSEC
+P308_6_154	9	LSEC
+P308_6_159	7	EPCAM+
+P308_6_163	13	LSEC
+P308_6_166	9	LSEC
+P308_6_169	9	LSEC
+P308_6_170	11	Hepatocytes
+P308_6_173	13	LSEC
+P308_6_178	9	LSEC
+P308_6_179	9	LSEC
+P308_6_181	14	Hepatocytes
+P308_6_182	9	LSEC
+P308_6_184	13	LSEC
+P308_6_186	13	LSEC
+P308_6_189	9	LSEC
+P308_6_191	9	LSEC
+P308_7_2	11	Hepatocytes
+P308_7_5	11	Hepatocytes
+P308_7_22	13	LSEC
+P308_7_23	9	LSEC
+P308_7_30	9	LSEC
+P308_7_34	11	Hepatocytes
+P308_7_51	14	Hepatocytes
+P308_7_52	4	EPCAM+
+P308_7_60	11	Hepatocytes
+P308_7_68	11	Hepatocytes
+P308_7_69	9	LSEC
+P308_7_87	9	LSEC
+P308_7_93	9	LSEC
+P308_7_94	11	Hepatocytes
+P308_7_95	11	Hepatocytes
+P308_8_99	17	Hepatocytes
+P308_8_110	4	EPCAM+
+P308_8_112	11	Hepatocytes
+P308_8_117	13	LSEC
+P308_8_128	9	LSEC
+P308_8_140	11	Hepatocytes
+P308_8_142	20	LSEC
+P308_8_146	17	Hepatocytes
+P308_8_147	9	LSEC
+P308_8_161	13	LSEC
+P308_8_176	11	Hepatocytes
+P308_8_189	17	Hepatocytes
+P308_8_191	13	LSEC
+P308_9_28	9	LSEC
+P308_9_31	17	Hepatocytes
+P308_9_37	20	LSEC
+P308_9_46	14	Hepatocytes
+P308_9_58	14	Hepatocytes
+P308_9_59	13	LSEC
+P308_9_60	9	LSEC
+P308_9_61	17	Hepatocytes
+P308_9_71	14	Hepatocytes
+P308_9_80	9	LSEC
+P308_9_87	9	LSEC
+P309_1_135	25	Kupffer cell
+P309_10_59	14	Hepatocytes
+P309_12_182	39	EPCAM+
+P309_13_59	14	Hepatocytes
+P309_14_1	39	EPCAM+
+P309_14_2	39	EPCAM+
+P309_14_4	11	Hepatocytes
+P309_14_12	20	LSEC
+P309_14_17	4	EPCAM+
+P309_14_29	4	EPCAM+
+P309_14_33	7	EPCAM+
+P309_14_34	39	EPCAM+
+P309_14_36	11	Hepatocytes
+P309_14_40	4	EPCAM+
+P309_14_51	39	EPCAM+
+P309_14_52	4	EPCAM+
+P309_14_56	39	EPCAM+
+P309_14_57	7	EPCAM+
+P309_14_59	24	EPCAM+
+P309_14_61	7	EPCAM+
+P309_14_62	4	EPCAM+
+P309_14_63	39	EPCAM+
+P309_14_67	39	EPCAM+
+P309_14_68	4	EPCAM+
+P309_14_69	7	EPCAM+
+P309_14_70	39	EPCAM+
+P309_14_73	24	EPCAM+
+P309_14_75	39	EPCAM+
+P309_14_79	39	EPCAM+
+P309_14_82	4	EPCAM+
+P309_14_83	7	EPCAM+
+P309_14_84	4	EPCAM+
+P309_14_87	4	EPCAM+
+P309_14_94	39	EPCAM+
+P309_15_97	4	EPCAM+
+P309_15_101	4	EPCAM+
+P309_15_105	4	EPCAM+
+P309_15_106	4	EPCAM+
+P309_15_110	11	Hepatocytes
+P309_15_113	4	EPCAM+
+P309_15_120	7	EPCAM+
+P309_15_123	7	EPCAM+
+P309_15_125	4	EPCAM+
+P309_15_127	4	EPCAM+
+P309_15_139	7	EPCAM+
+P309_15_143	7	EPCAM+
+P309_15_152	11	Hepatocytes
+P309_15_155	7	EPCAM+
+P309_15_156	39	EPCAM+
+P309_15_158	24	EPCAM+
+P309_15_167	39	EPCAM+
+P309_15_171	7	EPCAM+
+P309_15_176	9	LSEC
+P309_15_189	24	EPCAM+
+P309_15_190	7	EPCAM+
+P309_15_192	7	EPCAM+
+P309_16_72	6	Kupffer cell
+P309_17_98	2	Kupffer cell
+P309_17_115	2	Kupffer cell
+P309_17_118	2	Kupffer cell
+P309_17_125	2	Kupffer cell
+P309_17_142	6	Kupffer cell
+P309_17_159	25	Kupffer cell
+P309_2_16	25	Kupffer cell
+P309_2_83	2	Kupffer cell
+P309_2_87	25	Kupffer cell
+P309_3_112	2	Kupffer cell
+P309_3_120	9	LSEC
+P309_3_165	2	Kupffer cell
+P309_3_175	2	Kupffer cell
+P309_5_6	2	Kupffer cell
+P309_5_11	2	Kupffer cell
+P309_5_34	2	Kupffer cell
+P309_5_63	25	Kupffer cell
+P309_5_65	6	Kupffer cell
+P309_5_68	2	Kupffer cell
+P309_7_183	7	EPCAM+
+P309_8_32	6	Kupffer cell
+P309_8_56	13	LSEC
+P309_8_68	20	LSEC
+P309_8_71	23	Kupffer cell
+P309_8_74	20	LSEC
+P309_8_84	13	LSEC
+P309_8_87	23	Kupffer cell
+P309_9_107	13	LSEC
+P309_9_129	13	LSEC
+P309_9_131	9	LSEC
+P309_9_134	9	LSEC
+P309_9_149	20	LSEC
+P309_9_165	20	LSEC
+P309_9_185	2	Kupffer cell
+P310_1_102	9	LSEC
+P310_1_104	9	LSEC
+P310_1_107	13	LSEC
+P310_1_117	20	LSEC
+P310_1_119	9	LSEC
+P310_1_122	9	LSEC
+P310_1_127	9	LSEC
+P310_1_129	9	LSEC
+P310_1_130	9	LSEC
+P310_1_132	9	LSEC
+P310_1_134	20	LSEC
+P310_1_137	13	LSEC
+P310_1_141	9	LSEC
+P310_1_146	9	LSEC
+P310_1_147	9	LSEC
+P310_1_152	9	LSEC
+P310_1_157	13	LSEC
+P310_1_161	9	LSEC
+P310_1_167	9	LSEC
+P310_1_171	9	LSEC
+P310_1_174	9	LSEC
+P310_1_175	9	LSEC
+P310_1_177	9	LSEC
+P310_1_188	9	LSEC
+P310_1_192	9	LSEC
+P310_10_13	9	LSEC
+P310_10_63	25	Kupffer cell
+P310_10_85	11	Hepatocytes
+P310_10_93	9	LSEC
+P310_11_1	9	LSEC
+P310_11_2	9	LSEC
+P310_11_3	13	LSEC
+P310_11_4	9	LSEC
+P310_11_6	9	LSEC
+P310_11_7	9	LSEC
+P310_11_8	20	LSEC
+P310_11_9	9	LSEC
+P310_11_10	9	LSEC
+P310_11_12	9	LSEC
+P310_11_13	20	LSEC
+P310_11_15	9	LSEC
+P310_11_18	25	Kupffer cell
+P310_11_19	9	LSEC
+P310_11_22	9	LSEC
+P310_11_23	20	LSEC
+P310_11_24	9	LSEC
+P310_11_25	9	LSEC
+P310_11_26	9	LSEC
+P310_11_27	20	LSEC
+P310_11_28	20	LSEC
+P310_11_29	9	LSEC
+P310_11_31	9	LSEC
+P310_11_32	9	LSEC
+P310_11_34	9	LSEC
+P310_11_35	9	LSEC
+P310_11_36	9	LSEC
+P310_11_37	9	LSEC
+P310_11_38	9	LSEC
+P310_11_39	9	LSEC
+P310_11_40	9	LSEC
+P310_11_41	9	LSEC
+P310_11_43	9	LSEC
+P310_11_44	9	LSEC
+P310_11_45	9	LSEC
+P310_11_46	9	LSEC
+P310_11_47	9	LSEC
+P310_11_49	9	LSEC
+P310_11_52	9	LSEC
+P310_11_53	20	LSEC
+P310_11_54	9	LSEC
+P310_11_55	20	LSEC
+P310_11_58	9	LSEC
+P310_11_59	13	LSEC
+P310_11_60	9	LSEC
+P310_11_61	9	LSEC
+P310_11_62	9	LSEC
+P310_11_63	9	LSEC
+P310_11_64	9	LSEC
+P310_11_65	20	LSEC
+P310_11_66	9	LSEC
+P310_11_68	9	LSEC
+P310_11_69	20	LSEC
+P310_11_71	9	LSEC
+P310_11_72	9	LSEC
+P310_11_73	9	LSEC
+P310_11_74	9	LSEC
+P310_11_75	9	LSEC
+P310_11_76	9	LSEC
+P310_11_77	9	LSEC
+P310_11_78	20	LSEC
+P310_11_79	9	LSEC
+P310_11_80	20	LSEC
+P310_11_81	9	LSEC
+P310_11_83	9	LSEC
+P310_11_84	20	LSEC
+P310_11_85	9	LSEC
+P310_11_86	9	LSEC
+P310_11_87	20	LSEC
+P310_11_90	9	LSEC
+P310_11_91	9	LSEC
+P310_11_92	9	LSEC
+P310_11_93	20	LSEC
+P310_11_96	20	LSEC
+P310_12_1	20	LSEC
+P310_12_2	13	LSEC
+P310_12_3	13	LSEC
+P310_12_4	9	LSEC
+P310_12_5	9	LSEC
+P310_12_6	9	LSEC
+P310_12_7	20	LSEC
+P310_12_8	9	LSEC
+P310_12_9	13	LSEC
+P310_12_10	9	LSEC
+P310_12_12	20	LSEC
+P310_12_15	9	LSEC
+P310_12_16	20	LSEC
+P310_12_17	20	LSEC
+P310_12_18	9	LSEC
+P310_12_20	9	LSEC
+P310_12_21	9	LSEC
+P310_12_22	9	LSEC
+P310_12_23	20	LSEC
+P310_12_25	20	LSEC
+P310_12_26	20	LSEC
+P310_12_28	9	LSEC
+P310_12_29	9	LSEC
+P310_12_30	20	LSEC
+P310_12_31	9	LSEC
+P310_12_32	9	LSEC
+P310_12_35	9	LSEC
+P310_12_37	20	LSEC
+P310_12_38	9	LSEC
+P310_12_39	9	LSEC
+P310_12_40	20	LSEC
+P310_12_41	20	LSEC
+P310_12_42	9	LSEC
+P310_12_43	9	LSEC
+P310_12_44	23	Kupffer cell
+P310_12_46	9	LSEC
+P310_12_48	9	LSEC
+P310_12_49	9	LSEC
+P310_12_52	9	LSEC
+P310_12_53	9	LSEC
+P310_12_55	20	LSEC
+P310_12_57	9	LSEC
+P310_12_58	9	LSEC
+P310_12_60	9	LSEC
+P310_12_62	9	LSEC
+P310_12_63	9	LSEC
+P310_12_64	9	LSEC
+P310_12_65	9	LSEC
+P310_12_66	9	LSEC
+P310_12_67	9	LSEC
+P310_12_68	13	LSEC
+P310_12_70	9	LSEC
+P310_12_71	9	LSEC
+P310_12_72	13	LSEC
+P310_12_74	9	LSEC
+P310_12_78	6	Kupffer cell
+P310_12_79	9	LSEC
+P310_12_87	9	LSEC
+P310_12_89	9	LSEC
+P310_12_91	9	LSEC
+P310_12_92	9	LSEC
+P310_12_94	9	LSEC
+P310_12_95	9	LSEC
+P310_12_96	9	LSEC
+P310_13_97	9	LSEC
+P310_13_98	9	LSEC
+P310_13_99	9	LSEC
+P310_13_103	13	LSEC
+P310_13_104	9	LSEC
+P310_13_105	20	LSEC
+P310_13_108	9	LSEC
+P310_13_109	9	LSEC
+P310_13_110	9	LSEC
+P310_13_111	9	LSEC
+P310_13_112	20	LSEC
+P310_13_113	9	LSEC
+P310_13_114	9	LSEC
+P310_13_115	20	LSEC
+P310_13_116	9	LSEC
+P310_13_117	13	LSEC
+P310_13_119	20	LSEC
+P310_13_120	9	LSEC
+P310_13_121	9	LSEC
+P310_13_124	9	LSEC
+P310_13_125	9	LSEC
+P310_13_126	20	LSEC
+P310_13_127	9	LSEC
+P310_13_128	13	LSEC
+P310_13_133	9	LSEC
+P310_13_135	20	LSEC
+P310_13_136	20	LSEC
+P310_13_137	9	LSEC
+P310_13_138	9	LSEC
+P310_13_140	20	LSEC
+P310_13_142	9	LSEC
+P310_13_143	9	LSEC
+P310_13_144	9	LSEC
+P310_13_145	9	LSEC
+P310_13_146	9	LSEC
+P310_13_148	17	Hepatocytes
+P310_13_149	9	LSEC
+P310_13_150	20	LSEC
+P310_13_151	20	LSEC
+P310_13_152	6	Kupffer cell
+P310_13_153	9	LSEC
+P310_13_156	9	LSEC
+P310_13_157	20	LSEC
+P310_13_158	20	LSEC
+P310_13_159	9	LSEC
+P310_13_161	20	LSEC
+P310_13_162	13	LSEC
+P310_13_164	9	LSEC
+P310_13_166	20	LSEC
+P310_13_168	9	LSEC
+P310_13_170	9	LSEC
+P310_13_172	20	LSEC
+P310_13_173	9	LSEC
+P310_13_174	9	LSEC
+P310_13_175	9	LSEC
+P310_13_176	9	LSEC
+P310_13_177	9	LSEC
+P310_13_178	9	LSEC
+P310_13_179	20	LSEC
+P310_13_182	9	LSEC
+P310_13_183	9	LSEC
+P310_13_184	9	LSEC
+P310_13_185	20	LSEC
+P310_13_186	11	Hepatocytes
+P310_13_187	9	LSEC
+P310_13_188	9	LSEC
+P310_13_192	9	LSEC
+P310_14_97	9	LSEC
+P310_14_98	20	LSEC
+P310_14_99	9	LSEC
+P310_14_103	20	LSEC
+P310_14_104	9	LSEC
+P310_14_105	9	LSEC
+P310_14_106	9	LSEC
+P310_14_112	20	LSEC
+P310_14_114	9	LSEC
+P310_14_115	13	LSEC
+P310_14_119	9	LSEC
+P310_14_120	9	LSEC
+P310_14_121	9	LSEC
+P310_14_122	9	LSEC
+P310_14_124	9	LSEC
+P310_14_127	13	LSEC
+P310_14_129	9	LSEC
+P310_14_132	20	LSEC
+P310_14_134	13	LSEC
+P310_14_135	9	LSEC
+P310_14_136	13	LSEC
+P310_14_138	20	LSEC
+P310_14_140	9	LSEC
+P310_14_141	20	LSEC
+P310_14_142	13	LSEC
+P310_14_143	9	LSEC
+P310_14_144	9	LSEC
+P310_14_146	9	LSEC
+P310_14_147	9	LSEC
+P310_14_148	9	LSEC
+P310_14_149	20	LSEC
+P310_14_150	20	LSEC
+P310_14_153	20	LSEC
+P310_14_155	20	LSEC
+P310_14_156	9	LSEC
+P310_14_157	9	LSEC
+P310_14_158	9	LSEC
+P310_14_160	9	LSEC
+P310_14_161	9	LSEC
+P310_14_163	9	LSEC
+P310_14_164	9	LSEC
+P310_14_166	17	Hepatocytes
+P310_14_167	20	LSEC
+P310_14_168	13	LSEC
+P310_14_169	13	LSEC
+P310_14_172	9	LSEC
+P310_14_174	9	LSEC
+P310_14_175	13	LSEC
+P310_14_176	9	LSEC
+P310_14_177	20	LSEC
+P310_14_178	20	LSEC
+P310_14_179	20	LSEC
+P310_14_180	9	LSEC
+P310_14_181	9	LSEC
+P310_14_182	11	Hepatocytes
+P310_14_183	20	LSEC
+P310_14_184	9	LSEC
+P310_14_185	9	LSEC
+P310_14_186	9	LSEC
+P310_14_187	9	LSEC
+P310_14_189	9	LSEC
+P310_14_191	20	LSEC
+P310_14_192	20	LSEC
+P310_15_1	4	EPCAM+
+P310_15_2	14	Hepatocytes
+P310_15_9	4	EPCAM+
+P310_15_11	7	EPCAM+
+P310_15_17	6	Kupffer cell
+P310_15_18	7	EPCAM+
+P310_15_27	7	EPCAM+
+P310_15_33	4	EPCAM+
+P310_15_34	7	EPCAM+
+P310_15_41	4	EPCAM+
+P310_15_42	7	EPCAM+
+P310_15_43	7	EPCAM+
+P310_15_49	7	EPCAM+
+P310_15_51	4	EPCAM+
+P310_15_57	4	EPCAM+
+P310_15_59	14	Hepatocytes
+P310_15_66	4	EPCAM+
+P310_15_67	17	Hepatocytes
+P310_15_73	4	EPCAM+
+P310_15_74	7	EPCAM+
+P310_15_75	4	EPCAM+
+P310_15_81	7	EPCAM+
+P310_15_83	4	EPCAM+
+P310_15_90	17	Hepatocytes
+P310_15_91	14	Hepatocytes
+P310_15_97	7	EPCAM+
+P310_15_98	7	EPCAM+
+P310_15_99	6	Kupffer cell
+P310_15_106	14	Hepatocytes
+P310_15_113	4	EPCAM+
+P310_15_115	4	EPCAM+
+P310_15_121	7	EPCAM+
+P310_15_123	6	Kupffer cell
+P310_15_129	7	EPCAM+
+P310_15_131	7	EPCAM+
+P310_15_137	4	EPCAM+
+P310_15_138	7	EPCAM+
+P310_15_139	6	Kupffer cell
+P310_15_145	4	EPCAM+
+P310_15_147	7	EPCAM+
+P310_15_153	17	Hepatocytes
+P310_15_161	4	EPCAM+
+P310_15_162	4	EPCAM+
+P310_15_163	14	Hepatocytes
+P310_15_169	4	EPCAM+
+P310_15_170	7	EPCAM+
+P310_15_171	14	Hepatocytes
+P310_15_177	25	Kupffer cell
+P310_15_178	7	EPCAM+
+P310_15_179	7	EPCAM+
+P310_15_185	4	EPCAM+
+P310_15_186	6	Kupffer cell
+P310_15_187	7	EPCAM+
+P310_16_1	4	EPCAM+
+P310_16_2	6	Kupffer cell
+P310_16_3	7	EPCAM+
+P310_16_9	7	EPCAM+
+P310_16_10	4	EPCAM+
+P310_16_11	6	Kupffer cell
+P310_16_17	7	EPCAM+
+P310_16_18	4	EPCAM+
+P310_16_19	2	Kupffer cell
+P310_16_26	7	EPCAM+
+P310_16_27	7	EPCAM+
+P310_16_33	7	EPCAM+
+P310_16_34	7	EPCAM+
+P310_16_35	7	EPCAM+
+P310_16_49	24	EPCAM+
+P310_16_51	4	EPCAM+
+P310_16_58	17	Hepatocytes
+P310_16_59	14	Hepatocytes
+P310_16_65	9	LSEC
+P310_16_66	14	Hepatocytes
+P310_16_67	7	EPCAM+
+P310_16_81	6	Kupffer cell
+P310_16_82	7	EPCAM+
+P310_16_83	7	EPCAM+
+P310_16_90	17	Hepatocytes
+P310_16_91	4	EPCAM+
+P310_16_97	7	EPCAM+
+P310_16_98	14	Hepatocytes
+P310_16_99	4	EPCAM+
+P310_16_105	17	Hepatocytes
+P310_16_107	4	EPCAM+
+P310_16_113	7	EPCAM+
+P310_16_115	4	EPCAM+
+P310_16_121	7	EPCAM+
+P310_16_123	14	Hepatocytes
+P310_16_129	4	EPCAM+
+P310_16_130	4	EPCAM+
+P310_16_131	11	Hepatocytes
+P310_16_137	4	EPCAM+
+P310_16_138	7	EPCAM+
+P310_16_145	4	EPCAM+
+P310_16_146	4	EPCAM+
+P310_16_153	4	EPCAM+
+P310_16_155	4	EPCAM+
+P310_16_161	4	EPCAM+
+P310_16_162	4	EPCAM+
+P310_16_163	4	EPCAM+
+P310_16_169	7	EPCAM+
+P310_16_170	7	EPCAM+
+P310_16_171	14	Hepatocytes
+P310_16_177	9	LSEC
+P310_16_178	4	EPCAM+
+P310_16_179	4	EPCAM+
+P310_16_185	4	EPCAM+
+P310_16_186	14	Hepatocytes
+P310_16_187	7	EPCAM+
+P310_17_102	13	LSEC
+P310_17_111	11	Hepatocytes
+P310_17_139	25	Kupffer cell
+P310_17_145	6	Kupffer cell
+P310_17_152	6	Kupffer cell
+P310_18_6	9	LSEC
+P310_18_26	13	LSEC
+P310_18_42	2	Kupffer cell
+P310_18_50	25	Kupffer cell
+P310_18_63	11	Hepatocytes
+P310_18_89	13	LSEC
+P310_19_1	6	Kupffer cell
+P310_19_2	6	Kupffer cell
+P310_19_7	13	LSEC
+P310_19_14	2	Kupffer cell
+P310_19_20	9	LSEC
+P310_19_29	9	LSEC
+P310_19_39	11	Hepatocytes
+P310_19_79	9	LSEC
+P310_2_2	9	LSEC
+P310_2_3	17	Hepatocytes
+P310_2_9	13	LSEC
+P310_2_19	9	LSEC
+P310_2_25	9	LSEC
+P310_2_32	9	LSEC
+P310_2_33	20	LSEC
+P310_2_41	20	LSEC
+P310_2_47	9	LSEC
+P310_2_51	9	LSEC
+P310_2_53	9	LSEC
+P310_2_56	13	LSEC
+P310_2_58	9	LSEC
+P310_2_61	9	LSEC
+P310_2_65	9	LSEC
+P310_2_69	9	LSEC
+P310_2_75	9	LSEC
+P310_2_89	9	LSEC
+P310_2_90	20	LSEC
+P310_2_92	13	LSEC
+P310_2_96	9	LSEC
+P310_20_107	25	Kupffer cell
+P310_20_112	25	Kupffer cell
+P310_20_116	20	LSEC
+P310_20_162	20	LSEC
+P310_20_171	9	LSEC
+P310_20_178	9	LSEC
+P310_21_1	9	LSEC
+P310_21_2	20	LSEC
+P310_21_3	9	LSEC
+P310_21_5	9	LSEC
+P310_21_7	20	LSEC
+P310_21_8	20	LSEC
+P310_21_9	9	LSEC
+P310_21_17	9	LSEC
+P310_21_20	9	LSEC
+P310_21_22	9	LSEC
+P310_21_23	9	LSEC
+P310_21_24	9	LSEC
+P310_21_27	9	LSEC
+P310_21_28	9	LSEC
+P310_21_29	20	LSEC
+P310_21_32	9	LSEC
+P310_21_33	9	LSEC
+P310_21_34	9	LSEC
+P310_21_35	9	LSEC
+P310_21_36	9	LSEC
+P310_21_37	9	LSEC
+P310_21_38	9	LSEC
+P310_21_39	9	LSEC
+P310_21_42	9	LSEC
+P310_21_43	20	LSEC
+P310_21_44	9	LSEC
+P310_21_47	9	LSEC
+P310_21_49	9	LSEC
+P310_21_50	9	LSEC
+P310_21_52	9	LSEC
+P310_21_53	9	LSEC
+P310_21_54	9	LSEC
+P310_21_55	9	LSEC
+P310_21_57	9	LSEC
+P310_21_58	20	LSEC
+P310_21_60	9	LSEC
+P310_21_61	9	LSEC
+P310_21_62	9	LSEC
+P310_21_65	9	LSEC
+P310_21_66	9	LSEC
+P310_21_67	9	LSEC
+P310_21_68	9	LSEC
+P310_21_73	9	LSEC
+P310_21_75	9	LSEC
+P310_21_78	9	LSEC
+P310_21_79	9	LSEC
+P310_21_81	9	LSEC
+P310_21_82	9	LSEC
+P310_21_83	9	LSEC
+P310_21_84	9	LSEC
+P310_21_87	9	LSEC
+P310_21_88	9	LSEC
+P310_21_92	20	LSEC
+P310_21_94	9	LSEC
+P310_21_96	20	LSEC
+P310_22_97	9	LSEC
+P310_22_98	9	LSEC
+P310_22_100	9	LSEC
+P310_22_102	9	LSEC
+P310_22_103	9	LSEC
+P310_22_105	9	LSEC
+P310_22_106	13	LSEC
+P310_22_107	9	LSEC
+P310_22_108	9	LSEC
+P310_22_109	9	LSEC
+P310_22_112	9	LSEC
+P310_22_113	9	LSEC
+P310_22_114	9	LSEC
+P310_22_115	9	LSEC
+P310_22_116	13	LSEC
+P310_22_118	9	LSEC
+P310_22_119	9	LSEC
+P310_22_120	9	LSEC
+P310_22_121	9	LSEC
+P310_22_122	9	LSEC
+P310_22_123	9	LSEC
+P310_22_124	25	Kupffer cell
+P310_22_125	9	LSEC
+P310_22_126	9	LSEC
+P310_22_127	9	LSEC
+P310_22_128	20	LSEC
+P310_22_129	20	LSEC
+P310_22_130	13	LSEC
+P310_22_131	9	LSEC
+P310_22_133	20	LSEC
+P310_22_135	9	LSEC
+P310_22_136	9	LSEC
+P310_22_137	9	LSEC
+P310_22_138	9	LSEC
+P310_22_139	20	LSEC
+P310_22_140	9	LSEC
+P310_22_141	20	LSEC
+P310_22_142	9	LSEC
+P310_22_143	20	LSEC
+P310_22_144	9	LSEC
+P310_22_147	9	LSEC
+P310_22_148	9	LSEC
+P310_22_150	9	LSEC
+P310_22_152	9	LSEC
+P310_22_155	9	LSEC
+P310_22_156	20	LSEC
+P310_22_157	9	LSEC
+P310_22_159	20	LSEC
+P310_22_160	9	LSEC
+P310_22_161	9	LSEC
+P310_22_162	9	LSEC
+P310_22_163	9	LSEC
+P310_22_164	20	LSEC
+P310_22_165	9	LSEC
+P310_22_166	9	LSEC
+P310_22_167	9	LSEC
+P310_22_168	9	LSEC
+P310_22_169	9	LSEC
+P310_22_170	13	LSEC
+P310_22_171	9	LSEC
+P310_22_172	9	LSEC
+P310_22_176	9	LSEC
+P310_22_177	20	LSEC
+P310_22_178	20	LSEC
+P310_22_179	20	LSEC
+P310_22_180	9	LSEC
+P310_22_181	9	LSEC
+P310_22_182	9	LSEC
+P310_22_183	20	LSEC
+P310_22_184	20	LSEC
+P310_22_185	9	LSEC
+P310_22_186	9	LSEC
+P310_22_187	9	LSEC
+P310_22_189	9	LSEC
+P310_22_190	13	LSEC
+P310_22_191	9	LSEC
+P310_22_192	9	LSEC
+P310_23_1	9	LSEC
+P310_23_2	20	LSEC
+P310_23_3	20	LSEC
+P310_23_4	13	LSEC
+P310_23_5	20	LSEC
+P310_23_6	9	LSEC
+P310_23_7	9	LSEC
+P310_23_8	20	LSEC
+P310_23_9	9	LSEC
+P310_23_10	20	LSEC
+P310_23_12	9	LSEC
+P310_23_13	9	LSEC
+P310_23_16	9	LSEC
+P310_23_17	9	LSEC
+P310_23_18	9	LSEC
+P310_23_19	9	LSEC
+P310_23_20	20	LSEC
+P310_23_21	9	LSEC
+P310_23_22	20	LSEC
+P310_23_23	9	LSEC
+P310_23_24	9	LSEC
+P310_23_26	9	LSEC
+P310_23_27	9	LSEC
+P310_23_29	9	LSEC
+P310_23_31	9	LSEC
+P310_23_33	9	LSEC
+P310_23_34	9	LSEC
+P310_23_35	9	LSEC
+P310_23_36	9	LSEC
+P310_23_37	9	LSEC
+P310_23_38	9	LSEC
+P310_23_39	9	LSEC
+P310_23_40	9	LSEC
+P310_23_41	20	LSEC
+P310_23_42	20	LSEC
+P310_23_43	9	LSEC
+P310_23_44	9	LSEC
+P310_23_45	13	LSEC
+P310_23_48	20	LSEC
+P310_23_49	9	LSEC
+P310_23_50	9	LSEC
+P310_23_51	9	LSEC
+P310_23_52	9	LSEC
+P310_23_53	9	LSEC
+P310_23_54	9	LSEC
+P310_23_55	9	LSEC
+P310_23_56	9	LSEC
+P310_23_57	9	LSEC
+P310_23_58	9	LSEC
+P310_23_59	20	LSEC
+P310_23_60	9	LSEC
+P310_23_61	20	LSEC
+P310_23_62	9	LSEC
+P310_23_63	9	LSEC
+P310_23_65	9	LSEC
+P310_23_66	9	LSEC
+P310_23_67	9	LSEC
+P310_23_69	9	LSEC
+P310_23_70	9	LSEC
+P310_23_72	9	LSEC
+P310_23_73	9	LSEC
+P310_23_74	9	LSEC
+P310_23_75	9	LSEC
+P310_23_76	9	LSEC
+P310_23_77	9	LSEC
+P310_23_78	9	LSEC
+P310_23_79	20	LSEC
+P310_23_81	9	LSEC
+P310_23_82	20	LSEC
+P310_23_83	9	LSEC
+P310_23_85	9	LSEC
+P310_23_86	9	LSEC
+P310_23_87	9	LSEC
+P310_23_89	9	LSEC
+P310_23_90	20	LSEC
+P310_23_91	13	LSEC
+P310_23_92	9	LSEC
+P310_23_93	9	LSEC
+P310_23_94	9	LSEC
+P310_23_95	9	LSEC
+P310_23_96	9	LSEC
+P310_24_97	9	LSEC
+P310_24_98	9	LSEC
+P310_24_99	9	LSEC
+P310_24_100	9	LSEC
+P310_24_101	9	LSEC
+P310_24_103	9	LSEC
+P310_24_104	9	LSEC
+P310_24_105	9	LSEC
+P310_24_106	9	LSEC
+P310_24_107	9	LSEC
+P310_24_108	20	LSEC
+P310_24_109	9	LSEC
+P310_24_110	9	LSEC
+P310_24_111	9	LSEC
+P310_24_112	9	LSEC
+P310_24_113	9	LSEC
+P310_24_114	9	LSEC
+P310_24_115	9	LSEC
+P310_24_117	20	LSEC
+P310_24_118	9	LSEC
+P310_24_120	9	LSEC
+P310_24_121	9	LSEC
+P310_24_122	9	LSEC
+P310_24_123	9	LSEC
+P310_24_124	20	LSEC
+P310_24_125	9	LSEC
+P310_24_126	9	LSEC
+P310_24_128	9	LSEC
+P310_24_129	9	LSEC
+P310_24_131	13	LSEC
+P310_24_132	20	LSEC
+P310_24_133	20	LSEC
+P310_24_134	9	LSEC
+P310_24_135	9	LSEC
+P310_24_137	9	LSEC
+P310_24_138	20	LSEC
+P310_24_139	9	LSEC
+P310_24_140	9	LSEC
+P310_24_141	9	LSEC
+P310_24_142	9	LSEC
+P310_24_144	9	LSEC
+P310_24_145	9	LSEC
+P310_24_146	9	LSEC
+P310_24_148	9	LSEC
+P310_24_150	20	LSEC
+P310_24_151	9	LSEC
+P310_24_152	9	LSEC
+P310_24_153	20	LSEC
+P310_24_154	20	LSEC
+P310_24_155	9	LSEC
+P310_24_156	9	LSEC
+P310_24_159	20	LSEC
+P310_24_160	20	LSEC
+P310_24_161	9	LSEC
+P310_24_162	9	LSEC
+P310_24_163	9	LSEC
+P310_24_164	20	LSEC
+P310_24_165	9	LSEC
+P310_24_166	20	LSEC
+P310_24_167	9	LSEC
+P310_24_168	9	LSEC
+P310_24_170	20	LSEC
+P310_24_171	9	LSEC
+P310_24_172	9	LSEC
+P310_24_173	9	LSEC
+P310_24_175	9	LSEC
+P310_24_177	9	LSEC
+P310_24_178	9	LSEC
+P310_24_179	13	LSEC
+P310_24_180	9	LSEC
+P310_24_181	9	LSEC
+P310_24_182	9	LSEC
+P310_24_183	9	LSEC
+P310_24_184	9	LSEC
+P310_24_185	9	LSEC
+P310_24_186	13	LSEC
+P310_24_188	9	LSEC
+P310_24_189	9	LSEC
+P310_24_191	9	LSEC
+P310_24_192	9	LSEC
+P310_3_4	11	Hepatocytes
+P310_3_6	11	Hepatocytes
+P310_3_11	11	Hepatocytes
+P310_3_15	11	Hepatocytes
+P310_3_32	11	Hepatocytes
+P310_3_33	20	LSEC
+P310_3_37	11	Hepatocytes
+P310_3_53	11	Hepatocytes
+P310_3_54	11	Hepatocytes
+P310_3_55	14	Hepatocytes
+P310_3_56	11	Hepatocytes
+P310_3_62	11	Hepatocytes
+P310_3_64	9	LSEC
+P310_3_71	11	Hepatocytes
+P310_3_73	11	Hepatocytes
+P310_3_80	17	Hepatocytes
+P310_3_84	11	Hepatocytes
+P310_3_87	11	Hepatocytes
+P310_3_95	11	Hepatocytes
+P310_4_104	11	Hepatocytes
+P310_4_106	11	Hepatocytes
+P310_4_125	11	Hepatocytes
+P310_4_128	11	Hepatocytes
+P310_4_140	11	Hepatocytes
+P310_4_144	11	Hepatocytes
+P310_4_148	14	Hepatocytes
+P310_4_162	11	Hepatocytes
+P310_4_167	20	LSEC
+P310_4_176	11	Hepatocytes
+P310_4_182	11	Hepatocytes
+P310_4_186	11	Hepatocytes
+P310_4_188	11	Hepatocytes
+P310_4_192	11	Hepatocytes
+P310_5_3	11	Hepatocytes
+P310_5_6	11	Hepatocytes
+P310_5_17	11	Hepatocytes
+P310_5_19	14	Hepatocytes
+P310_5_22	13	LSEC
+P310_5_26	14	Hepatocytes
+P310_5_28	11	Hepatocytes
+P310_5_31	11	Hepatocytes
+P310_5_34	11	Hepatocytes
+P310_5_44	11	Hepatocytes
+P310_5_46	11	Hepatocytes
+P310_5_58	11	Hepatocytes
+P310_5_59	11	Hepatocytes
+P310_5_63	17	Hepatocytes
+P310_5_64	11	Hepatocytes
+P310_5_68	11	Hepatocytes
+P310_5_77	11	Hepatocytes
+P310_5_87	11	Hepatocytes
+P310_5_89	11	Hepatocytes
+P310_6_98	11	Hepatocytes
+P310_6_105	11	Hepatocytes
+P310_6_106	11	Hepatocytes
+P310_6_107	11	Hepatocytes
+P310_6_110	14	Hepatocytes
+P310_6_116	11	Hepatocytes
+P310_6_126	11	Hepatocytes
+P310_6_132	11	Hepatocytes
+P310_6_136	11	Hepatocytes
+P310_6_143	14	Hepatocytes
+P310_6_149	11	Hepatocytes
+P310_6_161	11	Hepatocytes
+P310_6_162	11	Hepatocytes
+P310_6_170	11	Hepatocytes
+P310_6_171	11	Hepatocytes
+P310_6_174	11	Hepatocytes
+P310_6_175	11	Hepatocytes
+P310_6_179	11	Hepatocytes
+P310_6_192	17	Hepatocytes
+P310_7_60	25	Kupffer cell
+P310_7_91	9	LSEC
+P310_8_145	9	LSEC
+P310_8_155	9	LSEC
+P310_9_102	25	Kupffer cell
+P310_9_144	9	LSEC
+P311_1_11	7	EPCAM+
+P311_1_13	24	EPCAM+
+P311_1_50	7	EPCAM+
+P311_1_58	24	EPCAM+
+P311_1_69	2	Kupffer cell
+P311_1_82	7	EPCAM+
+P311_2_103	24	EPCAM+
+P311_2_104	7	EPCAM+
+P311_2_106	24	EPCAM+
+P311_2_129	24	EPCAM+
+P311_2_131	7	EPCAM+
+P311_2_146	24	EPCAM+
+P311_2_148	24	EPCAM+
+P311_2_182	7	EPCAM+
+P311_2_184	4	EPCAM+
+P311_2_188	24	EPCAM+
+P311_2_191	13	LSEC
+P311_3_19	6	Kupffer cell
+P311_3_49	2	Kupffer cell
+P311_3_73	13	LSEC
+P311_313_1_43	2	Kupffer cell
+P311_313_1_60	2	Kupffer cell
+P311_313_1_63	2	Kupffer cell
+P311_313_1_82	2	Kupffer cell
+P311_313_1_85	23	Kupffer cell
+P311_313_1_89	2	Kupffer cell
+P311_313_10_59	14	Hepatocytes
+P311_313_10_101	2	Kupffer cell
+P311_313_10_102	6	Kupffer cell
+P311_313_10_107	6	Kupffer cell
+P311_313_10_108	6	Kupffer cell
+P311_313_10_126	2	Kupffer cell
+P311_313_10_129	2	Kupffer cell
+P311_313_10_133	23	Kupffer cell
+P311_313_10_137	2	Kupffer cell
+P311_313_10_145	23	Kupffer cell
+P311_313_10_155	9	LSEC
+P311_313_10_158	13	LSEC
+P311_313_10_163	23	Kupffer cell
+P311_313_10_169	6	Kupffer cell
+P311_313_10_177	6	Kupffer cell
+P311_313_10_184	6	Kupffer cell
+P311_313_10_190	23	Kupffer cell
+P311_313_11_1	4	EPCAM+
+P311_313_11_30	7	EPCAM+
+P311_313_11_59	14	Hepatocytes
+P311_313_11_60	39	EPCAM+
+P311_313_11_89	7	EPCAM+
+P311_313_11_95	7	EPCAM+
+P311_313_12_59	14	Hepatocytes
+P311_313_12_190	2	Kupffer cell
+P311_313_13_59	17	Hepatocytes
+P311_313_14_59	14	Hepatocytes
+P311_313_14_100	7	EPCAM+
+P311_313_14_105	4	EPCAM+
+P311_313_14_114	17	Hepatocytes
+P311_313_14_138	30	Hepatocytes
+P311_313_14_141	30	Hepatocytes
+P311_313_14_153	7	EPCAM+
+P311_313_14_164	4	EPCAM+
+P311_313_15_99	17	Hepatocytes
+P311_313_15_100	17	Hepatocytes
+P311_313_15_109	17	Hepatocytes
+P311_313_15_115	31	Kupffer cell
+P311_313_15_121	17	Hepatocytes
+P311_313_15_129	13	LSEC
+P311_313_15_130	30	Hepatocytes
+P311_313_15_132	11	Hepatocytes
+P311_313_15_137	14	Hepatocytes
+P311_313_15_140	14	Hepatocytes
+P311_313_15_177	11	Hepatocytes
+P311_313_15_184	11	Hepatocytes
+P311_313_15_187	30	Hepatocytes
+P311_313_16_7	30	Hepatocytes
+P311_313_16_17	14	Hepatocytes
+P311_313_16_25	14	Hepatocytes
+P311_313_16_32	17	Hepatocytes
+P311_313_16_36	9	LSEC
+P311_313_16_40	30	Hepatocytes
+P311_313_16_45	30	Hepatocytes
+P311_313_16_50	14	Hepatocytes
+P311_313_16_51	11	Hepatocytes
+P311_313_16_52	14	Hepatocytes
+P311_313_16_57	30	Hepatocytes
+P311_313_16_72	14	Hepatocytes
+P311_313_16_92	31	Kupffer cell
+P311_313_17_109	30	Hepatocytes
+P311_313_17_112	17	Hepatocytes
+P311_313_17_117	14	Hepatocytes
+P311_313_17_118	11	Hepatocytes
+P311_313_17_135	17	Hepatocytes
+P311_313_17_139	30	Hepatocytes
+P311_313_17_149	17	Hepatocytes
+P311_313_17_150	30	Hepatocytes
+P311_313_17_155	30	Hepatocytes
+P311_313_17_157	17	Hepatocytes
+P311_313_17_163	11	Hepatocytes
+P311_313_17_167	30	Hepatocytes
+P311_313_17_169	9	LSEC
+P311_313_17_170	11	Hepatocytes
+P311_313_17_171	11	Hepatocytes
+P311_313_17_177	14	Hepatocytes
+P311_313_17_178	17	Hepatocytes
+P311_313_17_186	14	Hepatocytes
+P311_313_17_188	17	Hepatocytes
+P311_313_18_12	17	Hepatocytes
+P311_313_18_14	30	Hepatocytes
+P311_313_18_21	30	Hepatocytes
+P311_313_18_23	11	Hepatocytes
+P311_313_18_35	17	Hepatocytes
+P311_313_18_36	30	Hepatocytes
+P311_313_18_41	30	Hepatocytes
+P311_313_18_50	14	Hepatocytes
+P311_313_18_75	17	Hepatocytes
+P311_313_18_85	31	Kupffer cell
+P311_313_18_89	4	EPCAM+
+P311_313_2_107	23	Kupffer cell
+P311_313_2_117	25	Kupffer cell
+P311_313_2_123	23	Kupffer cell
+P311_313_2_139	23	Kupffer cell
+P311_313_2_160	9	LSEC
+P311_313_2_169	23	Kupffer cell
+P311_313_2_174	9	LSEC
+P311_313_3_1	23	Kupffer cell
+P311_313_3_6	2	Kupffer cell
+P311_313_3_35	2	Kupffer cell
+P311_313_3_38	2	Kupffer cell
+P311_313_3_47	17	Hepatocytes
+P311_313_3_52	25	Kupffer cell
+P311_313_3_56	2	Kupffer cell
+P311_313_3_84	23	Kupffer cell
+P311_313_4_101	6	Kupffer cell
+P311_313_4_111	13	LSEC
+P311_313_4_112	25	Kupffer cell
+P311_313_4_113	23	Kupffer cell
+P311_313_4_129	9	LSEC
+P311_313_4_131	25	Kupffer cell
+P311_313_4_136	9	LSEC
+P311_313_4_156	2	Kupffer cell
+P311_313_4_185	6	Kupffer cell
+P311_313_4_187	2	Kupffer cell
+P311_313_5_117	30	Hepatocytes
+P311_313_5_120	2	Kupffer cell
+P311_313_5_175	2	Kupffer cell
+P311_313_5_178	2	Kupffer cell
+P311_313_5_188	23	Kupffer cell
+P311_313_6_14	2	Kupffer cell
+P311_313_6_17	2	Kupffer cell
+P311_313_6_18	2	Kupffer cell
+P311_313_6_38	2	Kupffer cell
+P311_313_6_49	23	Kupffer cell
+P311_313_6_52	2	Kupffer cell
+P311_313_6_63	13	LSEC
+P311_313_7_3	30	Hepatocytes
+P311_313_7_20	17	Hepatocytes
+P311_313_7_23	17	Hepatocytes
+P311_313_7_33	9	LSEC
+P311_313_7_66	2	Kupffer cell
+P311_313_7_79	20	LSEC
+P311_313_7_81	2	Kupffer cell
+P311_313_7_83	31	Kupffer cell
+P311_313_7_96	9	LSEC
+P311_313_8_106	2	Kupffer cell
+P311_313_8_132	9	LSEC
+P311_313_9_42	17	Hepatocytes
+P311_313_9_59	14	Hepatocytes
+P311_313_9_62	9	LSEC
+P311_313_9_91	9	LSEC
+P311_5_62	6	Kupffer cell
+P311_5_95	2	Kupffer cell
+PHH_UNB_1_14	11	Hepatocytes
+PHH_UNB_1_17	30	Hepatocytes
+PHH_UNB_1_19	4	EPCAM+
+PHH_UNB_1_23	7	EPCAM+
+PHH_UNB_1_25	4	EPCAM+
+PHH_UNB_1_30	11	Hepatocytes
+PHH_UNB_1_31	4	EPCAM+
+PHH_UNB_1_33	4	EPCAM+
+PHH_UNB_1_45	4	EPCAM+
+PHH_UNB_1_46	4	EPCAM+
+PHH_UNB_1_60	4	EPCAM+
+PHH_UNB_1_61	4	EPCAM+
+PHH_UNB_1_62	2	Kupffer cell
+PHH_UNB_1_65	17	Hepatocytes
+PHH_UNB_1_67	30	Hepatocytes
+PHH_UNB_1_81	4	EPCAM+
+PHH_UNB_1_173	7	EPCAM+
+PHH_UNB_2_59	25	Kupffer cell
+PHH_UNB_2_97	4	EPCAM+
+PHH_UNB_2_99	4	EPCAM+
+PHH_UNB_2_100	4	EPCAM+
+PHH_UNB_2_104	4	EPCAM+
+PHH_UNB_2_106	6	Kupffer cell
+PHH_UNB_2_113	4	EPCAM+
+PHH_UNB_2_116	7	EPCAM+
+PHH_UNB_2_119	4	EPCAM+
+PHH_UNB_2_128	4	EPCAM+
+PHH_UNB_2_133	2	Kupffer cell
+PHH_UNB_2_134	11	Hepatocytes
+PHH_UNB_2_135	4	EPCAM+
+PHH_UNB_2_136	11	Hepatocytes
+PHH_UNB_2_137	4	EPCAM+
+PHH_UNB_2_143	11	Hepatocytes
+PHH_UNB_2_148	30	Hepatocytes
+PHH_UNB_2_151	4	EPCAM+
+PHH_UNB_2_152	4	EPCAM+
+PHH_UNB_2_158	2	Kupffer cell
+PHH_UNB_2_162	2	Kupffer cell
+PHH_UNB_2_164	4	EPCAM+
+PHH_UNB_2_173	7	EPCAM+
+PHH_UNB_2_174	25	Kupffer cell
+PHH_UNB_2_175	2	Kupffer cell
+PHH_UNB_2_177	30	Hepatocytes
+PHH_UNB_2_179	25	Kupffer cell
+PHH_UNB_2_181	11	Hepatocytes
+PHH_UNB_2_185	6	Kupffer cell
+PHH_UNB_3_1	25	Kupffer cell
+PHH_UNB_3_2	4	EPCAM+
+PHH_UNB_3_9	30	Hepatocytes
+PHH_UNB_3_12	6	Kupffer cell
+PHH_UNB_3_14	4	EPCAM+
+PHH_UNB_3_19	11	Hepatocytes
+PHH_UNB_3_21	4	EPCAM+
+PHH_UNB_3_25	2	Kupffer cell
+PHH_UNB_3_30	4	EPCAM+
+PHH_UNB_3_31	4	EPCAM+
+PHH_UNB_3_33	7	EPCAM+
+PHH_UNB_3_34	4	EPCAM+
+PHH_UNB_3_36	2	Kupffer cell
+PHH_UNB_3_50	2	Kupffer cell
+PHH_UNB_3_57	4	EPCAM+
+PHH_UNB_3_59	2	Kupffer cell
+PHH_UNB_3_68	6	Kupffer cell
+PHH_UNB_3_76	4	EPCAM+
+PHH_UNB_3_77	4	EPCAM+
+PHH_UNB_3_83	11	Hepatocytes
+PHH_UNB_3_173	17	Hepatocytes
+PHH_UNB_4_59	25	Kupffer cell
+PHH_UNB_4_102	7	EPCAM+
+PHH_UNB_4_104	4	EPCAM+
+PHH_UNB_4_106	4	EPCAM+
+PHH_UNB_4_113	14	Hepatocytes
+PHH_UNB_4_122	11	Hepatocytes
+PHH_UNB_4_124	4	EPCAM+
+PHH_UNB_4_126	11	Hepatocytes
+PHH_UNB_4_129	4	EPCAM+
+PHH_UNB_4_130	7	EPCAM+
+PHH_UNB_4_134	4	EPCAM+
+PHH_UNB_4_143	4	EPCAM+
+PHH_UNB_4_144	7	EPCAM+
+PHH_UNB_4_145	6	Kupffer cell
+PHH_UNB_4_160	7	EPCAM+
+PHH_UNB_4_162	30	Hepatocytes
+PHH_UNB_4_168	11	Hepatocytes
+PHH_UNB_4_169	30	Hepatocytes
+PHH_UNB_4_173	17	Hepatocytes
+PHH_UNB_4_175	4	EPCAM+
+PHH_UNB_4_179	11	Hepatocytes
+PHH_UNB_4_183	2	Kupffer cell
+PHH_UNB_4_184	4	EPCAM+
+PHH_UNB_4_187	4	EPCAM+
+PHH_UNB_4_188	4	EPCAM+
+Trop2pos315_2_98	25	Kupffer cell
+Trop2pos315_2_99	4	EPCAM+
+Trop2pos315_2_101	2	Kupffer cell
+Trop2pos315_2_106	2	Kupffer cell
+Trop2pos315_2_108	4	EPCAM+
+Trop2pos315_2_111	4	EPCAM+
+Trop2pos315_2_112	4	EPCAM+
+Trop2pos315_2_113	7	EPCAM+
+Trop2pos315_2_114	13	LSEC
+Trop2pos315_2_115	7	EPCAM+
+Trop2pos315_2_119	13	LSEC
+Trop2pos315_2_122	7	EPCAM+
+Trop2pos315_2_125	7	EPCAM+
+Trop2pos315_2_127	7	EPCAM+
+Trop2pos315_2_128	2	Kupffer cell
+Trop2pos315_2_129	7	EPCAM+
+Trop2pos315_2_131	4	EPCAM+
+Trop2pos315_2_132	7	EPCAM+
+Trop2pos315_2_134	7	EPCAM+
+Trop2pos315_2_136	7	EPCAM+
+Trop2pos315_2_137	7	EPCAM+
+Trop2pos315_2_140	2	Kupffer cell
+Trop2pos315_2_144	13	LSEC
+Trop2pos315_2_146	2	Kupffer cell
+Trop2pos315_2_148	4	EPCAM+
+Trop2pos315_2_151	2	Kupffer cell
+Trop2pos315_2_152	7	EPCAM+
+Trop2pos315_2_153	39	EPCAM+
+Trop2pos315_2_154	2	Kupffer cell
+Trop2pos315_2_156	2	Kupffer cell
+Trop2pos315_2_159	2	Kupffer cell
+Trop2pos315_2_161	4	EPCAM+
+Trop2pos315_2_163	2	Kupffer cell
+Trop2pos315_2_168	2	Kupffer cell
+Trop2pos315_2_171	2	Kupffer cell
+Trop2pos315_2_172	7	EPCAM+
+Trop2pos315_2_174	2	Kupffer cell
+Trop2pos315_2_175	6	Kupffer cell
+Trop2pos315_2_176	7	EPCAM+
+Trop2pos315_2_178	4	EPCAM+
+Trop2pos315_2_182	6	Kupffer cell
+Trop2pos315_2_183	7	EPCAM+
+Trop2pos315_2_185	2	Kupffer cell
+Trop2pos315_2_186	4	EPCAM+
+Trop2pos315_2_187	4	EPCAM+
+Trop2pos315_2_189	4	EPCAM+
+Trop2pos315_2_190	2	Kupffer cell
+Trop2pos315_3_3	39	EPCAM+
+Trop2pos315_3_4	4	EPCAM+
+Trop2pos315_3_5	9	LSEC
+Trop2pos315_3_6	2	Kupffer cell
+Trop2pos315_3_8	2	Kupffer cell
+Trop2pos315_3_9	7	EPCAM+
+Trop2pos315_3_10	4	EPCAM+
+Trop2pos315_3_12	2	Kupffer cell
+Trop2pos315_3_14	4	EPCAM+
+Trop2pos315_3_19	7	EPCAM+
+Trop2pos315_3_24	6	Kupffer cell
+Trop2pos315_3_26	13	LSEC
+Trop2pos315_3_32	4	EPCAM+
+Trop2pos315_3_36	4	EPCAM+
+Trop2pos315_3_37	13	LSEC
+Trop2pos315_3_40	4	EPCAM+
+Trop2pos315_3_41	7	EPCAM+
+Trop2pos315_3_42	4	EPCAM+
+Trop2pos315_3_47	4	EPCAM+
+Trop2pos315_3_52	4	EPCAM+
+Trop2pos315_3_57	4	EPCAM+
+Trop2pos315_3_59	2	Kupffer cell
+Trop2pos315_3_61	2	Kupffer cell
+Trop2pos315_3_62	13	LSEC
+Trop2pos315_3_63	6	Kupffer cell
+Trop2pos315_3_65	2	Kupffer cell
+Trop2pos315_3_67	13	LSEC
+Trop2pos315_3_73	13	LSEC
+Trop2pos315_3_77	6	Kupffer cell
+Trop2pos315_3_78	2	Kupffer cell
+Trop2pos315_3_79	9	LSEC
+Trop2pos315_3_82	7	EPCAM+
+Trop2pos315_3_83	4	EPCAM+
+Trop2pos315_3_89	17	Hepatocytes
+Trop2pos315_3_92	4	EPCAM+
+Trop2pos315_3_96	7	EPCAM+
