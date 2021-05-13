@@ -105,8 +105,8 @@ library(Rtsne)
 
 Z_tsne <- as.data.frame(Rtsne(Z)$Y)
 colnames(Z_tsne) <- c("tSNE_1", "tSNE_2")
-Annotation <- read.table(system.file("extdata", "liver_cell_type.txt", package = "BITFAM"), stringsAsFactors = F)
-Z_tsne$Cell_type <- Annotation$cell_ontology_class
+Annotation <- read.table(system.file("extdata", "liver_cell_type.txt", package = "BITFAM"), stringsAsFactors = F, sep = "\t")
+Z_tsne$Cell_type <- Annotation$cell_types
 ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ```
 
