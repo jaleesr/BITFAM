@@ -1,5 +1,10 @@
 BITFAM user guide
 ================
+# Introduction
+
+Bayesian Inference Transcription Factor Activity model (BITFAM) is based on a fundamental biological principle that the differences in scRNA-seq profiles of individual cells reflect distinct underlying transcription factor activity states.
+
+![](Readme_files/figure-gfm/Overview.png)<!-- -->
 
 # install dependent packages
 
@@ -167,4 +172,4 @@ Z_tsne$Cell_type <- Annotation$cell_types
 ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ```
 
-![](Readme_files/figure-gfm/tsne_cell_types.tiff)<!-- -->
+![](Readme_files/figure-gfm/tsne_cell_types.png)<!-- -->
