@@ -99,7 +99,7 @@ head(rownames(data_matrix_normalized), n = 5)
 By default, BITFAM will choose the transcription factors that are in the
 most variable expressed genes to learn. But the users are also allowed to add transcription factors that they are interested in. If the users have their own scATAC-seq data which could be a supplemental filters to select the protential target genes, they can input the preprocessed Seurat object of scATAC-seq data wiht the augment scATAC_obj. Please note that these two functions are still under developing and testing. We highly recommend the users to try the default setting and contact us if you meet any problems.  
 
-Here we use the adult liver single cell RNA-seq data as an example to show the usage of BITFAM main function. The data is publised in the paper: Aizarani, N., Saviano, A., Sagar et al. [A human liver cell atlas reveals heterogeneity and epithelial progenitors] (<https://www.nature.com/articles/s41586-019-1373-2>) . Nature 572, 199–204 (2019). 
+Here we use the adult liver single cell RNA-seq data as an example to show the usage of BITFAM main function. The data is publised in the paper: Aizarani, N., Saviano, A., Sagar et al. [A human liver cell atlas reveals heterogeneity and epithelial progenitors] (#A human liver cell atlas reveals heterogeneity and epithelial progenitors)(<https://www.nature.com/articles/s41586-019-1373-2>) . Nature 572, 199–204 (2019). 
 
 ``` r
 
