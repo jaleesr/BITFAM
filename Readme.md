@@ -103,7 +103,7 @@ Here we use the adult liver single cell RNA-seq data as an example to show the u
 
 ``` r
 
-BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "mouse", interseted_TF = c("Pax5", "Tal1"), scATAC_obj = NA, ncores = 10)
+BITFAM_res <- BITFAM(data = data_matrix_normalized, species = "human", scATAC_obj = NA, ncores = parallel::detectCores())
 
 ```
 
