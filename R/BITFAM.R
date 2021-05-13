@@ -30,8 +30,10 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
   All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
   All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
   TF_used <- rownames(data)[rownames(data) %in% All_TFs]
-  TF_used <- TF_used[1:min(120, length(TF_used))]
-
+  if(is.na(interseted_TF)){
+  }else{
+    TF_used <- unique(c(TF_used, interseted_TF))
+  }
   gene_list <- list()
   for(i in TF_used){
     TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
@@ -40,12 +42,6 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
   }
 
   TF_used <- TF_used[ unlist(lapply(gene_list, length)) > 10]
-  TF_used <- sort(TF_used)
-  if(is.na(interseted_TF)){
-  }else{
-    TF_used <- unique(c(TF_used, interseted_TF))
-  }
-
 
   gene_list <- list()
   for(i in TF_used){
@@ -121,7 +117,7 @@ to_vector(X) ~ normal(to_vector(Z*W'), t_tau);
 
   m_beta_prior <- stan_model(model_code = pca_beta_piror)
   fit.vb <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
-                                  iter = 8000, output_samples = 300)
+                                  iter = 8000, output_samples = 300, tol_rel_obj = 0.005)
   BITFAM_list <- list(Model = fit.vb,
                       TF_used = TF_used,
                       Genes = rownames(data),
