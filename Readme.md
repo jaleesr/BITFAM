@@ -167,4 +167,4 @@ Z_tsne$Cell_type <- Annotation$cell_types
 ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ```
 
-![](Readme_files/figure-gfm/tSNE.tiff)<!-- -->
+![](Readme_files/figure-gfm/tsne_cell_types.tiff)<!-- -->
