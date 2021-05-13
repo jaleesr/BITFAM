@@ -173,3 +173,28 @@ ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
 ```
 
 ![](Readme_files/figure-gfm/tsne_cell_types.png)<!-- -->
+
+
+A tsne plot on the inferred transcription factor activities.
+
+``` r
+library(ggplot2)
+library(Rtsne)
+
+Z_tsne <- as.data.frame(Rtsne(Z)$Y)
+colnames(Z_tsne) <- c("tSNE_1", "tSNE_2")
+Annotation <- read.table(system.file("extdata", "liver_cell_type.txt", package = "BITFAM"), stringsAsFactors = F, sep = "\t")
+Z_tsne$Cell_type <- Annotation$cell_types
+ggplot(Z_tsne, aes(tSNE_1, tSNE_2, color = Cell_type)) + geom_point(size=0.8)
+```
+
+![](Readme_files/figure-gfm/tsne_cell_types.png)<!-- -->
+
+One of the utilities of inferring TF activities for each cell is the potential to generate profiles of cell-type specific TF activities. For this purpose, we used a random forest model to identify the inferred TF activities that were associated with specific cell types. For example, we labeled cells of a given cell type (identified by a biological label such as marker genes) as 1 and all other cells as 0. The random forest model is built using this cell label and the inferred transcription factors activities from the BITFAM  matrix. By applying the same model to each cell type, we generated a landscape of inferred TF activities across all cell types. And we could generate the heatmap of the inferred TF activities.
+
+``` r
+
+BITFAM_heatmap(BITFAM_res, annotation = Annotation$cell_types) # the annotation should be a vector of prelabeled cell types with the same length of number of cells
+
+```
+![](Readme_files/figure-gfm/heatmap.png)<!-- -->
