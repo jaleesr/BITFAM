@@ -1,5 +1,10 @@
 BITFAM user guide
 ================
+# Introduction
+
+Bayesian Inference Transcription Factor Activity model (BITFAM) is based on a fundamental biological principle that the differences in scRNA-seq profiles of individual cells reflect distinct underlying transcription factor activity states.
+
+![](Readme_files/figure-gfm/Overview.png)<!-- -->
 
 # install dependent packages
 
