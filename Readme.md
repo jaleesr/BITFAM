@@ -6,7 +6,7 @@ Bayesian Inference Transcription Factor Activity model (BITFAM) is based on a fu
 
 ![](Readme_files/figure-gfm/Overview.png)<!-- -->
 
-The details about BITFAM are published in the journal Genome Research (2021).Please read and cite this article when you use BITFAM:
+The details about BITFAM are published in the journal Genome Research (2021). Please read and cite the following article when you use BITFAM:
 [A Bayesian inference transcription factor activity model for the analysis of single-cell transcriptomes](https://genome.cshlp.org/content/early/2021/06/23/gr.265595.120).
 
 
