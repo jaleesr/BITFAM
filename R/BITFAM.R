@@ -27,10 +27,10 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
     data <- data[variable_genes, ]
   }
   
-  rownames(data) <- toupper(rownames(data))
   All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
   All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
   TF_used <- rownames(data)[rownames(data) %in% All_TFs]
+  rownames(data) <- toupper(rownames(data))
   if(is.na(interseted_TF)){
   }else{
     TF_used <- unique(c(TF_used, interseted_TF))
