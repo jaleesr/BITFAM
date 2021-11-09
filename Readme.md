@@ -11,6 +11,12 @@ The details about BITFAM are published in the journal Genome Research (2021) by 
 Please read and cite the following article when you use BITFAM:
 [A Bayesian inference transcription factor activity model for the analysis of single-cell transcriptomes](https://genome.cshlp.org/content/early/2021/06/23/gr.265595.120).
 
+# Working on progress
+
+1, The current BITFAM package is based on [Rstan](https://mc-stan.org/rstan/). One known limiation is that we can not include all transcripotion factors because of the number of parameters. We are trying to transfer the BITFAM from Rstan to [tensorflow probability](https://www.tensorflow.org/probability/overview). This might allow us to inclued all possible transcription factors in our model. The robustness and the generalization of BITFAM will be significantly improved.
+
+2, We are updating the TF potential targets based on the new version of GTRD database. Also we would provide more approaches to identify the TF target genes as prior knowledge. 
+
 
 # install dependent packages
 
