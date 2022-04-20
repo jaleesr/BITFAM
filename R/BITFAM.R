@@ -20,7 +20,7 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores){
   }
 
   if(dim(data)[1] > 5000){
-    variable_genes <- Seurat::FindVariableFeatures(tiss@data)
+    variable_genes <- Seurat::FindVariableFeatures(data)
     variable_genes <- variable_genes[which(x = variable_genes[, 1, drop = TRUE] != 0), ]
     variable_genes <- variable_genes[order(variable_genes$vst.variance.standardized, decreasing = TRUE), , drop = FALSE]
     variable_genes <- head(x = rownames(x = variable_genes), n = 5000)
