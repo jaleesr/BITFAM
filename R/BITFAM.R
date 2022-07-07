@@ -11,7 +11,7 @@
 #' @import rstan
 #' @import Seurat
 
-BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, tol_rel_obj){
+BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, tol_rel_obj=0.005){
   if(species == "mouse"){
     TF_targets_dir <- "mouse/"
   }else if(species == "human"){
