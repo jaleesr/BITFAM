@@ -5,13 +5,14 @@
 #' @param interseted_TF Transcription factors of interests
 #' @param scATAC_obj A preprocessed Seurat object of scATAC-seq data
 #' @param number of CPU cores
-#' @param 
+#' @param number of max iteration
+#' @param convergence tolerance on the relative norm of the objective
 #' @return sampling results of TF inferred activities and TF-gene weights
 #' @export
 #' @import rstan
 #' @import Seurat
 
-BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, tol_rel_obj=0.005){
+BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, iter = 8000, tol_rel_obj=0.005){
   if(species == "mouse"){
     TF_targets_dir <- "mouse/"
   }else if(species == "human"){
@@ -121,7 +122,7 @@ to_vector(X) ~ normal(to_vector(Z*W'), t_tau);
 
   m_beta_prior <- stan_model(model_code = pca_beta_piror)
   fit.vb <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
-                                  iter = 8000, output_samples = 300, tol_rel_obj = tol_rel_obj)
+                                  iter = iter, output_samples = 300, tol_rel_obj = tol_rel_obj)
   BITFAM_list <- list(Model = fit.vb,
                       TF_used = TF_used,
                       Genes = rownames(data),
