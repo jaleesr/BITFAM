@@ -5,7 +5,7 @@
 \title{BITFAM main function. BITFAM will infer the transcription factor activities from single cell RNA-seq data based on the ChIP-seq data}
 \usage{
 
-BITFAM(data, species, interseted_TF = NA, scATAC_obj = NA, iter = 8000, tol_rel_obj = 0.005, ncores)
+BITFAM(data, species, interseted_TF = NA, scATAC_obj = NA, ncores, iter = 8000, tol_rel_obj = 0.005)
   
 \arguments{
 \item{data}{A matrix or dataframe, normalized single cell RNA-seq data}
@@ -16,7 +16,7 @@ BITFAM(data, species, interseted_TF = NA, scATAC_obj = NA, iter = 8000, tol_rel_
 
 \item{scATAC_obj}{A preprocessed Seurat object of scATAC-seq data}
 
-\item{number}{Number of CPU cores}
+\item{ncores}{Number of CPU cores}
 
 \item{iter}{Number of max iteration}
 
