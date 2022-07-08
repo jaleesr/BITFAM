@@ -4,12 +4,9 @@
 \alias{BITFAM}
 \title{BITFAM main function. BITFAM will infer the transcription factor activities from single cell RNA-seq data based on the ChIP-seq data}
 \usage{
-<<<<<<< HEAD
-BITFAM(data, species, interseted_TF = NA, scATAC_obj = NA, ncores)
-=======
-BITFAM(data, species, interseted_TF = NA, ncores)
->>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
-}
+
+BITFAM(data, species, interseted_TF = NA, scATAC_obj = NA, iter = 8000, tol_rel_obj = 0.005, ncores)
+  
 \arguments{
 \item{data}{A matrix or dataframe, normalized single cell RNA-seq data}
 
@@ -17,12 +14,13 @@ BITFAM(data, species, interseted_TF = NA, ncores)
 
 \item{interseted_TF}{Transcription factors of interests}
 
-<<<<<<< HEAD
 \item{scATAC_obj}{A preprocessed Seurat object of scATAC-seq data}
 
-=======
->>>>>>> fdf505af8a14b45fa5ebe39de8760cc1e5c37561
-\item{number}{of CPU cores}
+\item{number}{Number of CPU cores}
+
+\item{iter}{Number of max iteration}
+
+\item{tol_rel_obj}{The convergence tolerance on the relative norm of the objective}
 }
 \value{
 sampling results of TF inferred activities and TF-gene weights
