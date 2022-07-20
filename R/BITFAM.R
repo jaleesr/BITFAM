@@ -121,8 +121,8 @@ to_vector(X) ~ normal(to_vector(Z*W'), t_tau);
 } "
 
   m_beta_prior <- stan_model(model_code = pca_beta_piror)
-  fit.vb <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
-                                  iter = iter, output_samples = 300, tol_rel_obj = tol_rel_obj)
+  suppressWarnings(fit.vb <- vb(m_beta_prior, data = data_to_model, algorithm = "meanfield",
+                                  iter = iter, output_samples = 300, tol_rel_obj = tol_rel_obj))
   BITFAM_list <- list(Model = fit.vb,
                       TF_used = TF_used,
                       Genes = rownames(data),
