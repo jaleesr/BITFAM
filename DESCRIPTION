@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "sgao@uic.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: BITFAM is a Bayesian inference model to infer the transcription factor activities by integrating single cell gene expression with known transcription factor ChIP-seq data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
