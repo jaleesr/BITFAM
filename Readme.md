@@ -17,7 +17,7 @@ Please read and cite the following article when you use BITFAM:
 
 2, We are also updating the TF potential targets based on the latest version of GTRD database. Also, we are also looking into options to expand the approaches of identifying TF target genes as prior knowledge. 
 
-# Converagence issue (updated on Jun 7, 2022)
+# Convergence issue (updated on Jun 7, 2022)
 There are some datasets in which the model does not lead to convergence of all inferred activities of transcription factors. In those cases, a **warning** I issued from rstan vb function. One solution is to increase the parameter *iter* (the number of max iterations, default is 8000) and decrease the parameter *tol_rel_obj* (the convergence tolerance on the relative norm of the objective, default is 0.005). However, this could lead to significantly longer running time. We believe this warning is caused by the non-convergence of selected transcription factors. These transcription factors might have a limited number of ChIP-seq datasets in the database, or the ChIP-seq datasets for these transcription factors may have been obtained from tissues or cell types that are not relevant to the tissue and cell types being interrogated by the user’s single cell RNA-seq data. Nevertheless, users may still be able to use the inferred activities of those TFs which converged to specific values.  We encourage users to assess whether the converged TF activity values may have biological significance even when disregarding the non-converged activities that prompted the warning.
 
 # install dependent packages
