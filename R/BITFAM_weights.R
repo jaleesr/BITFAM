@@ -6,7 +6,7 @@
 #' @import rstan
 
 BITFAM_weights <- function(BITFAM_list){
-  result_matrix <- apply(extract(BITFAM_list$Model,result,"W")[[1]], c(2,3), mean)
+  result_matrix <- apply(extract(BITFAM_list$Model,"W")[[1]], c(2,3), mean)
   rownames(result_matrix) <- BITFAM_list$Genes
   colnames(result_matrix) <- BITFAM_list$TF_used
   return(result_matrix)
